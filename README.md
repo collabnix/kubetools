@@ -1,6 +1,6 @@
 # Kubetools - Curated List of Kubernetes Tools
 
- ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/kubetools.png) 
+ ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
 
 
 Kubetools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. The community is planning to conduct webinar for the most voted tools based on the popularity. Do visit http://webinar.collabnix.com for the upcoming webinars around these tools.
@@ -169,5 +169,3 @@ kube-fledged - [A kubernetes add-on for creating and managing a cache of contain
 
 Last Updated: Jan 11, 2020
 
-
-                              Last Updated Sections - 7th Jan 2020
