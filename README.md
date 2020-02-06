@@ -28,6 +28,7 @@ katafygio - [Dump, or continuously backup Kubernetes objets as yaml files in git
 Sealed Secrets - [A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)<br>
 OpenKruise/Kruise - [Automate application workloads management on Kubernetes https://openkruise.io](https://github.com/openkruise/kruise)<br>
 kubectl snapshot - [Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)<br>
+kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
 
 ## K8s Cluster with core CLI tools
 
