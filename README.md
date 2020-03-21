@@ -28,7 +28,7 @@ katafygio - [Dump, or continuously backup Kubernetes objets as yaml files in git
 Sealed Secrets - [A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)<br>
 OpenKruise/Kruise - [Automate application workloads management on Kubernetes https://openkruise.io](https://github.com/openkruise/kruise)<br>
 kubectl snapshot - [Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)<br>
-kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
+kapp - [simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label https://get-kapp.io](https://github.com/k14s/kapp)<br>
 
 ## K8s Cluster with core CLI tools
 
@@ -39,9 +39,13 @@ kuttle: kubectl wrapper for sshuttle without SSH - [Kubernetes wrapper for sshut
 kubectl sudo - [Run kubernetes commands with the security privileges of another user](https://github.com/postfinance/kubectl-sudo)<br>
 K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s) <br>
 Ktunnel - [A cli that exposes your local resources to kubernetes](https://github.com/omrikiei/ktunnel?utm_sq=g93l33gmsu)<br>
+KubeOperator - [Run kubectl command in Web Browser. https://kubeoperator.io/](https://github.com/KubeOperator/webkubectl)<br>
+Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)<br>
 
 ## K8s Alert and Monitoring
 
+Thanos - [Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project. https://thanos.io
+](https://github.com/thanos-io/thanos)<br>
 Kiali - [Kiali project, observability for the Istio service mesh](https://github.com/kiali/kiali) <br>
 Prometheus - [The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus) <br>
 Grafana - [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)  <br>
@@ -61,7 +65,7 @@ Knative Inspect - [A light-weight debugging tool for Knative's system components
 Kubeman - [To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istio](https://github.com/walmartlabs/kubeman)<br>
 
 
-## K8s Developement Tools
+## K8s Developement Tools/kit
 
 Okteto: A Tool for Cloud Native Developers - [Build better applications by developing and testing your code directly in Kubernetes](https://github.com/okteto/okteto)<br>
 Tilt: Tilt manages local development instances for teams that deploy to Kubernetes - [Local Kubernetes development with no stress](https://github.com/windmilleng/tilt)<br>
@@ -69,11 +73,14 @@ Garden: Kubernetes from source to finish - [Development orchestrator for Kuberne
 KuberNix - [Single dependency Kubernetes clusters for local testing, experimenting and development](https://github.com/saschagrunert/kubernix)<br>
 Copper - [A configuration file validator for Kubernetes](https://github.com/cloud66-oss/copper?utm_sq=g93mop70o8)<br>
 ko - [Build and deploy Go applications on Kubernetes](https://github.com/google/ko)<br>
+Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekorateio/dekorate)<br>
+Tilt - [Local Kubernetes development with no stress https://tilt.dev/](https://github.com/windmilleng/tilt)<br>
 
 ## K8s Alternative Tools for Developement
 
 KubeSphere - [Easy-to-use Production Ready Container Platform https://kubesphere.io](https://github.com/kubesphere/kubesphere)<br>
 skippbox - [A Desktop application for k8s](https://github.com/skippbox/skippbox)<br>
+kind - [Kubernetes IN Docker - local clusters for testing Kubernetes https://kind.sigs.k8s.io/](https://github.com/kubernetes-sigs/kind)<br>
 
 ## K8s CI/CD integration Tools
 
@@ -84,6 +91,14 @@ flagger - [Progressive delivery Kubernetes operator (Canary, A/B Testing and Blu
 Kubeform - [Kubernetes CRDs for Terraform providers https://kubeform.com](https://github.com/kubeform/kubeform)<br>
 Spinnaker - [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. http://www.spinnaker.io/](https://github.com/spinnaker/spinnaker)<br>
 
+## Kubernetes Security Tools
+klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br>
+Kyverno - Kubernetes Native Policy Management - [https://github.com/nirmata/kyverno](Kubernetes Native Policy Management https://kyverno.io)<br>
+kiosk - [kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning](https://github.com/kiosk-sh/kiosk)<br>
+kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
+Simulator - [Kubernetes Security Training Platform - Focussing on security mitigation](https://github.com/kubernetes-simulator/simulator)<br>
+RBAC Lookup - [Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster https://fairwinds.com](https://github.com/FairwindsOps/rbac-lookup)<br>
+
 ## Network Policies
 
 trireme-kubernetes - [Aporeto integration with Kubernetes Network Policies](https://github.com/aporeto-inc/trireme-kubernetes)<br>
@@ -92,6 +107,7 @@ kubepox - [Kubernetes network Policy eXploration tool](https://github.com/aporet
 kokotap - [Tools for kubernetes pod network tapping](https://github.com/redhat-nfvpe/kokotap)<br>
 Submariner - [Connect all your Kubernetes clusters, no matter where they are in the world](https://github.com/submariner-io/submariner)<br>
 egress-operator - [An operator to produce egress gateway pods and control access to them with network policies](https://github.com/monzo/egress-operator)<br>
+kubefwd (Kube Forward) - [Bulk port forwarding Kubernetes services for local development ](https://github.com/txn2/kubefwd)<br>
 
 ## K8s Testing Tools
 
@@ -100,6 +116,7 @@ Network bandwith and load testing - [Test suite for Kubernetes](https://github.c
 test-infra - [Test infrastructure for the Kubernetes project](https://github.com/kubernetes/test-infra)<br>
 kube-score - [Kubernetes object analysis with recommendations for improved reliability and security](https://github.com/zegl/kube-score)<br>
 Litmus - [Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes](https://github.com/litmuschaos/litmus)<br>
+PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
 
 
 ## Service Mesh
@@ -109,6 +126,7 @@ Traefik - [The Cloud Native Edge Router](https://github.com/containous/traefik)<
 NGINX Ingress Controller - [NGINX and NGINX Plus Ingress Controllers for Kubernetes](https://github.com/nginxinc/kubernetes-ingress)<br>
 Autopilot - [THE SERVICE MESH SDK](https://docs.solo.io/autopilot/latest)<br>
 linkerd-config - [A Kubernetes controller that knows how to reconcile the Linkerd configuration](https://github.com/ihcsim/linkerd-config)<br>
+Kong - [Kong for Kubernetes: the official Ingress Controller for Kubernetes](https://github.com/Kong/kubernetes-ingress-controller)<br>
 
 ## Observability
 
@@ -121,10 +139,11 @@ Kubewatch - [Watch k8s events and trigger Handlers](https://github.com/bitnami-l
 kube-state-metrics - [Add-on agent to generate and expose cluster-level metrics](https://github.com/kubernetes/kube-state-metrics)<br>
 Sloop - [Kubernetes History Visualization](https://github.com/salesforce/sloop?utm_sq=g90yo8t8s1)<br>
 kubectl tree 🎄 - [Kubectl plugin to observe object hierarchies through ownerReferences](https://github.com/ahmetb/kubectl-tree)<br>
-chaoskube - [chaoskube periodically kills random pods in your Kubernetes cluster](https://github.com/linki/chaoskube?utm_sq=g93lr8l8sf)<br>
+chaoskube - [chaoskube periodically kills random pods in your Kubernetes cluster](https://github.com/linki/chaoskube)<br>
 BotKube - [Helps you monitor your Kubernetes cluster(s), debug critical deployments and gives recommendations for standard practices](https://www.botkube.io/)<br>
 Kubestone - [Kubestone is a benchmarking Operator that can evaluate the performance of Kubernetes installations](https://kubestone.io/en/latest)<br>
 Chaos Mesh - [A Chaos Engineering Platform for Kubernetes](https://github.com/pingcap/chaos-mesh)<br>
+Lemur - [LEMUR: Observability and Context](https://github.com/turbonomic/lemur)<br>
 
 ## Machine Learning/Deep Learning
 
@@ -153,6 +172,11 @@ TiKV - [Distributed transactional key-value database](https://github.com/tikv/ti
 velero - [Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/vmware-tanzu/velero)<br>
 Vitess - [Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)<br>
 
+## Multiple tools repo
+Chaos Toolkit Kubernetes Support - [Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)<br>
+k14s - [Kubernetes Tools that follow Unix philosophy to be simple and composable](https://github.com/k14s)<br>
+Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com](https://github.com/pulumi/pulumi)<br>
+
 ## Non-categorize
 
 Rudr - [A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr) <br>
@@ -160,7 +184,6 @@ Cabin, the mobile app for Kubernetes - [The Mobile Dashboard for Kubernetes](htt
 Funktion - [CLI tool for working with funktion](https://github.com/funktionio/funktion)<br>
 Alterant - [A simple Kubernetes configuration modifier](https://github.com/cloud66-oss/alterant)<br>
 BUCK - [Brigade Universal Controller for Kubernetes](https://github.com/brigadecore/buck)<br>
-Chaos Toolkit Kubernetes Support - [Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)<br>
 kube-fledged - [A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly](https://github.com/senthilrch/kube-fledged)<br>
 
 
@@ -168,5 +191,5 @@ kube-fledged - [A kubernetes add-on for creating and managing a cache of contain
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 
-Last Updated: Jan 30, 2020
+Last Updated: March 21, 2020
 
