@@ -144,6 +144,7 @@ BotKube - [Helps you monitor your Kubernetes cluster(s), debug critical deployme
 Kubestone - [Kubestone is a benchmarking Operator that can evaluate the performance of Kubernetes installations](https://kubestone.io/en/latest)<br>
 Chaos Mesh - [A Chaos Engineering Platform for Kubernetes](https://github.com/pingcap/chaos-mesh)<br>
 Lemur - [LEMUR: Observability and Context](https://github.com/turbonomic/lemur)<br>
+kubernetes-event-exporter - [Export Kubernetes events to multiple destinations with routing and filtering](https://github.com/opsgenie/kubernetes-event-exporter)<br>
 
 ## Machine Learning/Deep Learning
 
@@ -191,5 +192,5 @@ kube-fledged - [A kubernetes add-on for creating and managing a cache of contain
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 
-Last Updated: March 21, 2020
+Last Updated: March 29, 2020
 
