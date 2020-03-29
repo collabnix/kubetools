@@ -93,7 +93,7 @@ Spinnaker - [Spinnaker is an open source, multi-cloud continuous delivery platfo
 
 ## Kubernetes Security Tools
 klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br>
-Kyverno - Kubernetes Native Policy Management - [https://github.com/nirmata/kyverno](Kubernetes Native Policy Management https://kyverno.io)<br>
+Kyverno - [Kubernetes Native Policy Management https://kyverno.io](https://github.com/nirmata/kyverno)<br>
 kiosk - [kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning](https://github.com/kiosk-sh/kiosk)<br>
 kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
 Simulator - [Kubernetes Security Training Platform - Focussing on security mitigation](https://github.com/kubernetes-simulator/simulator)<br>
