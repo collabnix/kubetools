@@ -25,6 +25,7 @@ Clusterman - Autoscale and Manage your compute clusters - [Cluster Autoscaler fo
 Cert-manager - [Automatically provision and manage TLS certificates](https://github.com/jetstack/cert-manager) <br>
 Goldilocks - [Get your resource requests "Just Right"](https://github.com/FairwindsOps/goldilocks)<br>
 katafygio - [Dump, or continuously backup Kubernetes objets as yaml files in git](https://github.com/bpineau/katafygio)<br>
+Rancher - [Complete container management platform](https://github.com/rancher/rancher)<br>
 Sealed Secrets - [A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)<br>
 OpenKruise/Kruise - [Automate application workloads management on Kubernetes https://openkruise.io](https://github.com/openkruise/kruise)<br>
 kubectl snapshot - [Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)<br>
@@ -186,11 +187,12 @@ Funktion - [CLI tool for working with funktion](https://github.com/funktionio/fu
 Alterant - [A simple Kubernetes configuration modifier](https://github.com/cloud66-oss/alterant)<br>
 BUCK - [Brigade Universal Controller for Kubernetes](https://github.com/brigadecore/buck)<br>
 kube-fledged - [A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly](https://github.com/senthilrch/kube-fledged)<br>
-
+Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)<br>
+kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration](https://github.com/GoogleContainerTools/kpt)<br>
 
 ## Maintainer
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 
-Last Updated: March 29, 2020
+Last Updated: April 9, 2020
 
