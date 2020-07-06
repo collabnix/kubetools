@@ -90,6 +90,10 @@ Helm Cabin - [Web UI that visualizes Helm releases in a Kubernetes cluster](http
 flagger - [Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)](https://github.com/weaveworks/flagger)<br>
 Kubeform - [Kubernetes CRDs for Terraform providers https://kubeform.com](https://github.com/kubeform/kubeform)<br>
 Spinnaker - [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. http://www.spinnaker.io/](https://github.com/spinnaker/spinnaker)<br>
+werf - [GitOps tool to deliver apps to Kubernetes and integrate this process with GitLab and other CI tools](https://github.com/werf/werf)<br>
+Flux - [GitOps Kubernetes operator](https://github.com/fluxcd/flux)<br>
+Argo CD - [Declarative continuous deployment for Kubernetes](https://github.com/argoproj/argo-cd)<br>
+
 
 ## Kubernetes Security Tools
 klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br>
