@@ -5,14 +5,6 @@
 
 Kubetools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. The community is planning to conduct webinar for the most voted tools based on the popularity. Do visit http://webinar.collabnix.com for the upcoming webinars around these tools.
 
-## Past Kubetools Webinar
-
-### Year: 2020
-
-| Date     | Topic        | Registration Link | Presenter   | Presentation          | Video  | Chat |
-| ------------- | ---------- |  ------------- | ------------- | ------------- | ------------- | --------| 
-| 11-Jan   | Awesome Traefik - Ingress Controller for Kubernetes | [Click](https://zoom.us/webinar/register/WN_vx_lvFp4To6E2ldb4HfIwg) | [Swapnasagar Pradhan ](https://www.linkedin.com/in/swapnasagar-pradhan-724b2649) | [-]() | [-]() | [-](-) |
-| 8-Feb   | Building docker images without Dockerfile - Cloud Native Buildpack | [Click](https://events.docker.com/events/details/docker-bangalore-presents-collabnix-online-webinar-demystifying-cloud-native-buildpack/)| [Suman Chakraborty ](https://www.linkedin.com/in/schakraborty007) |  | [-]() | [-](-) |
 
 ## K8s Cluster Management
 
