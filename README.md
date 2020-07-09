@@ -142,6 +142,7 @@ Kubestone - [Kubestone is a benchmarking Operator that can evaluate the performa
 Chaos Mesh - [A Chaos Engineering Platform for Kubernetes](https://github.com/pingcap/chaos-mesh)<br>
 Lemur - [LEMUR: Observability and Context](https://github.com/turbonomic/lemur)<br>
 kubernetes-event-exporter - [Export Kubernetes events to multiple destinations with routing and filtering](https://github.com/opsgenie/kubernetes-event-exporter)<br>
+Kubevious - [Kubevious provides a usable and highly graphical interface for Kubernetes](https://github.com/kubevious/kubevious)<br>
 
 ## Machine Learning/Deep Learning
 
@@ -190,5 +191,5 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 
-Last Updated: April 9, 2020
+Last Updated: july 9, 2020
 
