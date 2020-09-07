@@ -95,6 +95,7 @@ kiosk - [kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sh
 kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
 Simulator - [Kubernetes Security Training Platform - Focussing on security mitigation](https://github.com/kubernetes-simulator/simulator)<br>
 RBAC Lookup - [Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster https://fairwinds.com](https://github.com/FairwindsOps/rbac-lookup)<br>
+gangway = [An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster](https://github.com/heptiolabs/gangway)
 
 ## Network Policies
 
