@@ -86,7 +86,7 @@ Spinnaker - [Spinnaker is an open source, multi-cloud continuous delivery platfo
 werf - [GitOps tool to deliver apps to Kubernetes and integrate this process with GitLab and other CI tools](https://github.com/werf/werf)<br>
 Flux - [GitOps Kubernetes operator](https://github.com/fluxcd/flux)<br>
 Argo CD - [Declarative continuous deployment for Kubernetes](https://github.com/argoproj/argo-cd)<br>
-
+Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)<br>
 
 ## Kubernetes Security Tools
 klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br>
@@ -95,7 +95,9 @@ kiosk - [kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sh
 kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
 Simulator - [Kubernetes Security Training Platform - Focussing on security mitigation](https://github.com/kubernetes-simulator/simulator)<br>
 RBAC Lookup - [Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster https://fairwinds.com](https://github.com/FairwindsOps/rbac-lookup)<br>
-kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common security controls](https://github.com/Shopify/kubeaudit)<br>
+Kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common security controls](https://github.com/Shopify/kubeaudit)<br>
+Gangway - [An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster](https://github.com/heptiolabs/gangway)
+
 
 ## Network Policies
 
