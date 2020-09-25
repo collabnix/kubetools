@@ -13,7 +13,7 @@ Kube-ops-view - [Kubernetes Operational View - read-only system dashboard for mu
 Kubeprompt - [Kubernetes prompt info](https://github.com/jlesquembre/kubeprompt) <br>
 Metalk8s - [An opinionated Kubernetes distribution with a focus on long-term on-prem deployments](https://github.com/scality/metalk8s) <br>
 kind - [Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind)<br>
-Clusterman - Autoscale and Manage your compute clusters - [Cluster Autoscaler for Kubernetes and Mesos](https://github.com/Yelp/clusterman)<br>
+Clusterman - [Cluster Autoscaler for Kubernetes and Mesos](https://github.com/Yelp/clusterman)<br>
 Cert-manager - [Automatically provision and manage TLS certificates](https://github.com/jetstack/cert-manager) <br>
 Goldilocks - [Get your resource requests "Just Right"](https://github.com/FairwindsOps/goldilocks)<br>
 katafygio - [Dump, or continuously backup Kubernetes objets as yaml files in git](https://github.com/bpineau/katafygio)<br>
@@ -122,7 +122,7 @@ PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.
 ## Service Mesh
 
 Istio - [Connect, secure, control, and observe services](https://github.com/istio/istio) <br>
-Traefik - [The Cloud Native Edge Router](https://github.com/containous/traefik)<br> - [Jan 2020](https://zoom.us/webinar/register/WN_vx_lvFp4To6E2ldb4HfIwg)
+Traefik - [The Cloud Native Edge Router](https://github.com/containous/traefik)<br> 
 NGINX Ingress Controller - [NGINX and NGINX Plus Ingress Controllers for Kubernetes](https://github.com/nginxinc/kubernetes-ingress)<br>
 Autopilot - [THE SERVICE MESH SDK](https://docs.solo.io/autopilot/latest)<br>
 linkerd-config - [A Kubernetes controller that knows how to reconcile the Linkerd configuration](https://github.com/ihcsim/linkerd-config)<br>
