@@ -127,6 +127,7 @@ NGINX Ingress Controller - [NGINX and NGINX Plus Ingress Controllers for Kuberne
 Autopilot - [THE SERVICE MESH SDK](https://docs.solo.io/autopilot/latest)<br>
 linkerd-config - [A Kubernetes controller that knows how to reconcile the Linkerd configuration](https://github.com/ihcsim/linkerd-config)<br>
 Kong - [Kong for Kubernetes: the official Ingress Controller for Kubernetes](https://github.com/Kong/kubernetes-ingress-controller)<br>
+OSM - [Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh](https://github.com/openservicemesh/osm)<br>
 
 ## Observability
 
