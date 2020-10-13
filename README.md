@@ -39,7 +39,6 @@ Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/script
 
 Thanos - [Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project. https://thanos.io
 ](https://github.com/thanos-io/thanos)<br>
-Kiali - [Kiali project, observability for the Istio service mesh](https://github.com/kiali/kiali) <br>
 Prometheus - [The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus) <br>
 Grafana - [The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More](https://github.com/grafana/grafana)  <br>
 Kubetail - [Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail) <br>
@@ -47,6 +46,13 @@ Searchlight - [Alerts for Kubernetes](https://github.com/searchlight/searchlight
 linkerd2 Monitoring Mixin for Grafana - [Grafana dashboards for linkerd2 monitoring and can work in standalone (default) or in multi cluster setup](https://github.com/andrew-waters/linkerd2-mixin)<br>
 kuberhaus - [Kubernetes resource dashboard with node/pod layout and resource requests](https://github.com/stevelacy/kuberhaus)<br>
 Kubernetes Job/CronJob Notifier - [This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success](https://github.com/sukeesh/k8s-job-notify)<br>
+
+## K8s Logging and Tracing
+Jaeger - [CNCF Jaeger, a Distributed Tracing Platform](https://github.com/jaegertracing/jaeger)<br>
+Kiali - [Kiali project, observability for the Istio service mesh](https://github.com/kiali/kiali) <br>
+ELK - [Elasticsearch, Logstash, Kibana](https://github.com/elastic)<br>
+fluentbit - [Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX](https://github.com/fluent/fluent-bit)<br>
+Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 
 ## K8s Troubleshooting
 
@@ -87,6 +93,7 @@ werf - [GitOps tool to deliver apps to Kubernetes and integrate this process wit
 Flux - [GitOps Kubernetes operator](https://github.com/fluxcd/flux)<br>
 Argo CD - [Declarative continuous deployment for Kubernetes](https://github.com/argoproj/argo-cd)<br>
 Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)<br>
+Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)<br>
 
 ## Kubernetes Security Tools
 klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br>
@@ -128,6 +135,8 @@ Autopilot - [THE SERVICE MESH SDK](https://docs.solo.io/autopilot/latest)<br>
 linkerd-config - [A Kubernetes controller that knows how to reconcile the Linkerd configuration](https://github.com/ihcsim/linkerd-config)<br>
 Kong - [Kong for Kubernetes: the official Ingress Controller for Kubernetes](https://github.com/Kong/kubernetes-ingress-controller)<br>
 OSM - [Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh](https://github.com/openservicemesh/osm)<br>
+Layer5 - [Layer5, the service mesh company, representing every service mesh](https://github.com/layer5io/layer5)<br>
+
 
 ## Observability
 
@@ -196,7 +205,7 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: September 25, 2020
+Last Updated: October 13, 2020
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
