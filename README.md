@@ -21,6 +21,7 @@ Sealed Secrets - [A Kubernetes controller and tool for one-way encrypted Secrets
 OpenKruise/Kruise - [Automate application workloads management on Kubernetes https://openkruise.io](https://github.com/openkruise/kruise)<br>
 kubectl snapshot - [Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)<br>
 kapp - [simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label https://get-kapp.io](https://github.com/k14s/kapp)<br>
+keda - [Event-driven autoscaler for Kubernetes](https://keda.sh)<br>
 
 ## K8s Cluster with core CLI tools
 
