@@ -55,6 +55,7 @@ Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 
 ## K8s Troubleshooting
 
+Kubectl-debug - [Allows you to run a new container with all the troubleshooting tools installed in existing running pod for debugging purpose](https://github.com/aylei/kubectl-debug)
 PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
 Crash-diagnostic - [Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters](https://github.com/vmware-tanzu/crash-diagnostics) <br>
 K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s) <br>
