@@ -4,6 +4,8 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://kubetools.collabnix.com)<br>
 Kubetools is built with a purpose. It is contributed and managed by Collabnix Slack community  to target the most popular tools and technique and coming up with the best practices around these tools. 
 
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 5000+ DevOps family.
+
 
 ## K8s Cluster Management
 
