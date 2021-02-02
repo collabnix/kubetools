@@ -208,7 +208,7 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: October 13, 2020
+Last Updated: 21 Jan, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
