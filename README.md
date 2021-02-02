@@ -46,6 +46,7 @@ Searchlight - [Alerts for Kubernetes](https://github.com/searchlight/searchlight
 linkerd2 Monitoring Mixin for Grafana - [Grafana dashboards for linkerd2 monitoring and can work in standalone (default) or in multi cluster setup](https://github.com/andrew-waters/linkerd2-mixin)<br>
 kuberhaus - [Kubernetes resource dashboard with node/pod layout and resource requests](https://github.com/stevelacy/kuberhaus)<br>
 Kubernetes Job/CronJob Notifier - [This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success](https://github.com/sukeesh/k8s-job-notify)<br>
+Argus - [This tool monitors changes in the filesystem on specified paths](https://clustergarage.io/argus/docs/overview)<br>
 
 ## K8s Logging and Tracing
 Jaeger - [CNCF Jaeger, a Distributed Tracing Platform](https://github.com/jaegertracing/jaeger)<br>
