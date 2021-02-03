@@ -103,6 +103,9 @@ klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br
 Kyverno - [Kubernetes Native Policy Management https://kyverno.io](https://github.com/nirmata/kyverno)<br>
 kiosk - [kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning](https://github.com/kiosk-sh/kiosk)<br>
 kube-bench - [CIS Kubernetes Benchmark tool](https://github.com/aquasecurity/kube-bench)<br>
+kube-hunter - [Pentesting tool - Hunts for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter)<br>
+kube-who-can - [Show who has RBAC permissions to perform actions on different resources in Kubernetes](https://github.com/aquasecurity/kubectl-who-can)<br>
+starboard - [Kubernetes-native security toolkit](https://github.com/aquasecurity/starboard)<br>
 Simulator - [Kubernetes Security Training Platform - Focussing on security mitigation](https://github.com/kubernetes-simulator/simulator)<br>
 RBAC Lookup - [Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster https://fairwinds.com](https://github.com/FairwindsOps/rbac-lookup)<br>
 Kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common security controls](https://github.com/Shopify/kubeaudit)<br>
