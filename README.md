@@ -77,6 +77,7 @@ Copper - [A configuration file validator for Kubernetes](https://github.com/clou
 ko - [Build and deploy Go applications on Kubernetes](https://github.com/google/ko)<br>
 Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekorateio/dekorate)<br>
 Tilt - [Local Kubernetes development with no stress https://tilt.dev/](https://github.com/windmilleng/tilt)<br>
+Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
 
 ## K8s Alternative Tools for Developement
 
