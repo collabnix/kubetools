@@ -24,6 +24,7 @@ OpenKruise/Kruise - [Automate application workloads management on Kubernetes htt
 kubectl snapshot - [Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)<br>
 kapp - [simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label https://get-kapp.io](https://github.com/k14s/kapp)<br>
 keda - [Event-driven autoscaler for Kubernetes](https://keda.sh)<br>
+Portainer - [Portainer inside a Kubernetes environment](https://github.com/portainer/k8s)<br>
 
 ## K8s Cluster with core CLI tools
 
@@ -212,7 +213,7 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 21 Jan, 2021
+Last Updated: 10 Feb, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
