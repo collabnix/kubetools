@@ -37,6 +37,7 @@ K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/dera
 Ktunnel - [A cli that exposes your local resources to kubernetes](https://github.com/omrikiei/ktunnel?utm_sq=g93l33gmsu)<br>
 KubeOperator - [Run kubectl command in Web Browser. https://kubeoperator.io/](https://github.com/KubeOperator/webkubectl)<br>
 Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)<br>
+KubeHelper - [KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)<br>
 
 ## K8s Alert and Monitoring
 
