@@ -114,7 +114,8 @@ Simulator - [Kubernetes Security Training Platform - Focussing on security mitig
 RBAC Lookup - [Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster https://fairwinds.com](https://github.com/FairwindsOps/rbac-lookup)<br>
 Kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common security controls](https://github.com/Shopify/kubeaudit)<br>
 Gangway - [An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster](https://github.com/heptiolabs/gangway)<br>
-Audit2rbac - [Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
+Audit2rbac - [Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)<br>
+Chartsec - [Helm Chart security scanner](https://github.com/banzaicloud/chartsec)
 
 ## Network Policies
 
