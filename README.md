@@ -1,10 +1,10 @@
 # Kubetools - A Curated List of Kubernetes Tools
- ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
+![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://kubetools.collabnix.com)<br>
 Kubetools is built with a purpose. It is contributed and managed by Collabnix Slack community  to target the most popular tools and technique and coming up with the best practices around these tools. 
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 5000+ DevOps family.
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 5300+ DevOps enthusiasts.
 
 
 ## K8s Cluster Management
