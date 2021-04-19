@@ -37,6 +37,7 @@ K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/dera
 Ktunnel - [A cli that exposes your local resources to kubernetes](https://github.com/omrikiei/ktunnel?utm_sq=g93l33gmsu)<br>
 KubeOperator - [Run kubectl command in Web Browser. https://kubeoperator.io/](https://github.com/KubeOperator/webkubectl)<br>
 Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)<br>
+KubeHelper - [KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)<br>
 
 ## K8s Alert and Monitoring
 
@@ -116,6 +117,9 @@ Kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common s
 Gangway - [An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster](https://github.com/heptiolabs/gangway)<br>
 Audit2rbac - [Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)<br>
 Chartsec - [Helm Chart security scanner](https://github.com/banzaicloud/chartsec)
+kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestriker)
+
+
 
 ## Network Policies
 
