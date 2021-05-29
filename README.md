@@ -9,7 +9,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 Want to contribute? Click [here](https://github.com/collabnix/kubetools/pulls) and get your favorite tool added.
 
 
-## K8s Cluster Management
+## Cluster Management
 
 kops - [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) <br>
 Kube-ops-view - [Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view) <br>
@@ -28,7 +28,7 @@ kapp - [simple deployment tool focused on the concept of "Kubernetes application
 keda - [Event-driven autoscaler for Kubernetes](https://keda.sh)<br>
 Portainer - [Portainer inside a Kubernetes environment](https://github.com/portainer/k8s)<br>
 
-## K8s Cluster with core CLI tools
+## Cluster with core CLI tools
 
 Bootkube - [bootkube - Launch a self-hosted Kubernetes cluster](https://github.com/kubernetes-sigs/bootkube) <br>
 kubectx + kubens - [Switch faster between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)<br>
@@ -41,7 +41,7 @@ KubeOperator - [Run kubectl command in Web Browser. https://kubeoperator.io/](ht
 Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)<br>
 KubeHelper - [KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)<br>
 
-## K8s Alert and Monitoring
+## Alert and Monitoring
 
 Thanos - [Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project. https://thanos.io
 ](https://github.com/thanos-io/thanos)<br>
@@ -54,14 +54,14 @@ kuberhaus - [Kubernetes resource dashboard with node/pod layout and resource req
 Kubernetes Job/CronJob Notifier - [This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success](https://github.com/sukeesh/k8s-job-notify)<br>
 Argus - [This tool monitors changes in the filesystem on specified paths](https://clustergarage.io/argus/docs/overview)<br>
 
-## K8s Logging and Tracing
+## Logging and Tracing
 Jaeger - [CNCF Jaeger, a Distributed Tracing Platform](https://github.com/jaegertracing/jaeger)<br>
 Kiali - [Kiali project, observability for the Istio service mesh](https://github.com/kiali/kiali) <br>
 ELK - [Elasticsearch, Logstash, Kibana](https://github.com/elastic)<br>
 fluentbit - [Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX](https://github.com/fluent/fluent-bit)<br>
 Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 
-## K8s Troubleshooting
+## Troubleshooting
 Kubectl-debug - [Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purpose](https://github.com/aylei/kubectl-debug)<br>
 PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
 Crash-diagnostic - [Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters](https://github.com/vmware-tanzu/crash-diagnostics) <br>
@@ -71,7 +71,7 @@ Knative Inspect - [A light-weight debugging tool for Knative's system components
 Kubeman - [To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istio](https://github.com/walmartlabs/kubeman)<br>
 
 
-## K8s Developement Tools/kit
+## Developement Tools/kit
 
 Okteto: A Tool for Cloud Native Developers - [Build better applications by developing and testing your code directly in Kubernetes](https://github.com/okteto/okteto)<br>
 Tilt: Tilt manages local development instances for teams that deploy to Kubernetes - [Local Kubernetes development with no stress](https://github.com/windmilleng/tilt)<br>
@@ -83,13 +83,13 @@ Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekora
 Tilt - [Local Kubernetes development with no stress https://tilt.dev/](https://github.com/windmilleng/tilt)<br>
 Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
 
-## K8s Alternative Tools for Developement
+## Alternative Tools for Developement
 
 KubeSphere - [Easy-to-use Production Ready Container Platform https://kubesphere.io](https://github.com/kubesphere/kubesphere)<br>
 skippbox - [A Desktop application for k8s](https://github.com/skippbox/skippbox)<br>
 kind - [Kubernetes IN Docker - local clusters for testing Kubernetes https://kind.sigs.k8s.io/](https://github.com/kubernetes-sigs/kind)<br>
 
-## K8s CI/CD integration Tools
+## CI/CD integration Tools
 
 Skaffold - [Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold) <br>
 Apollo - [Apollo - The logz.io continuous deployment solution over kubernetes](https://github.com/logzio/apollo)<br>
@@ -103,7 +103,7 @@ Argo CD - [Declarative continuous deployment for Kubernetes](https://github.com/
 Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)<br>
 Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)<br>
 
-## Kubernetes Security Tools
+## Security Tools
 
 TerraScan - [Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/accurics/terrascan) <br>
 klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)<br>
@@ -133,7 +133,7 @@ Submariner - [Connect all your Kubernetes clusters, no matter where they are in 
 egress-operator - [An operator to produce egress gateway pods and control access to them with network policies](https://github.com/monzo/egress-operator)<br>
 kubefwd (Kube Forward) - [Bulk port forwarding Kubernetes services for local development ](https://github.com/txn2/kubefwd)<br>
 
-## K8s Testing Tools
+## Testing Tools
 
 k6 - [A modern load testing tool, using Go and JavaScript](https://github.com/loadimpact/k6) <br>
 Network bandwith and load testing - [Test suite for Kubernetes](https://github.com/mrahbar/k8s-testsuite)<br>
@@ -191,7 +191,7 @@ Draft: Streamlined Kubernetes Development - [A tool for developers to create clo
 helm-ssm - [A low dependency tool for retrieving and injecting secrets from AWS SSM into Helm](https://github.com/totango/helm-ssm)<br>
 Skupper - [Multicloud communication for Kubernetes](https://skupper.io/)<br>
 
-## Kubernetes Storage Providers
+## Storage Providers
 
 ChubaoFS - [distributed file system and object storage](https://github.com/chubaofs/chubaofs) <br>
 Longhorn - [Cloud-Native distributed block storage built on and for Kubernetes](https://github.com/longhorn/longhorn)<br>
