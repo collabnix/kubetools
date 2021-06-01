@@ -13,7 +13,7 @@ Want to contribute? Click [here](https://github.com/collabnix/kubetools/pulls) a
 
 kops - [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) <br>
 Kube-ops-view - [Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view) <br>
-Kubeprompt - [Kubernetes prompt info](https://github.com/jlesquembre/kubeprompt) <br>
+kubeprompt - [Kubernetes prompt info](https://github.com/jlesquembre/kubeprompt) <br>
 Metalk8s - [An opinionated Kubernetes distribution with a focus on long-term on-prem deployments](https://github.com/scality/metalk8s) <br>
 kind - [Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind)<br>
 Clusterman - [Cluster Autoscaler for Kubernetes and Mesos](https://github.com/Yelp/clusterman)<br>
@@ -26,9 +26,10 @@ OpenKruise/Kruise - [Automate application workloads management on Kubernetes htt
 kubectl snapshot - [Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)<br>
 kapp - [simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label https://get-kapp.io](https://github.com/k14s/kapp)<br>
 keda - [Event-driven autoscaler for Kubernetes](https://keda.sh)<br>
+Octant - [To better understand the complexity of Kubernetes clusters](https://github.com/vmware-tanzu/octant)<br>
 Portainer - [Portainer inside a Kubernetes environment](https://github.com/portainer/k8s)<br>
 
-## Cluster with core CLI tools
+## Cluster with Core CLI tools
 
 Bootkube - [bootkube - Launch a self-hosted Kubernetes cluster](https://github.com/kubernetes-sigs/bootkube) <br>
 kubectx + kubens - [Switch faster between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)<br>
@@ -71,7 +72,7 @@ Knative Inspect - [A light-weight debugging tool for Knative's system components
 Kubeman - [To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istio](https://github.com/walmartlabs/kubeman)<br>
 
 
-## Developement Tools/kit
+## Developement Tools/Kit
 
 Okteto: A Tool for Cloud Native Developers - [Build better applications by developing and testing your code directly in Kubernetes](https://github.com/okteto/okteto)<br>
 Tilt: Tilt manages local development instances for teams that deploy to Kubernetes - [Local Kubernetes development with no stress](https://github.com/windmilleng/tilt)<br>
@@ -201,12 +202,12 @@ TiKV - [Distributed transactional key-value database](https://github.com/tikv/ti
 velero - [Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/vmware-tanzu/velero)<br>
 Vitess - [Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)<br>
 
-## Multiple tools repo
+## Multiple Tools Repo
 Chaos Toolkit Kubernetes Support - [Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)<br>
 k14s - [Kubernetes Tools that follow Unix philosophy to be simple and composable](https://github.com/k14s)<br>
 Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com](https://github.com/pulumi/pulumi)<br>
 
-## Non-categorize
+## Non-Categorize
 
 Rudr - [A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr) <br>
 Cabin, the mobile app for Kubernetes - [The Mobile Dashboard for Kubernetes](https://github.com/bitnami-labs/cabin)<br>
