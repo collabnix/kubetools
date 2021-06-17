@@ -83,6 +83,7 @@ ko - [Build and deploy Go applications on Kubernetes](https://github.com/google/
 Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekorateio/dekorate)<br>
 Tilt - [Local Kubernetes development with no stress https://tilt.dev/](https://github.com/windmilleng/tilt)<br>
 Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
+Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
 
 ## Alternative Tools for Developement
 
@@ -225,7 +226,7 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 10 Feb, 2021
+Last Updated: 17 June, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
