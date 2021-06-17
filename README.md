@@ -70,7 +70,7 @@ K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/dera
 Kubernetes CLI Plugin - Doctor - [kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)](https://github.com/emirozer/kubectl-doctor)<br>
 Knative Inspect - [A light-weight debugging tool for Knative's system components](https://github.com/nimakaviani/knative-inspect)<br>
 Kubeman - [To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istio](https://github.com/walmartlabs/kubeman)<br>
-
+kpexec - [kpexec is a kubernetes cli that runs commands in a container with high privileges](https://github.com/ssup2/kpexec)<br>
 
 ## Developement Tools/Kit
 
