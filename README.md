@@ -142,7 +142,7 @@ test-infra - [Test infrastructure for the Kubernetes project](https://github.com
 kube-score - [Kubernetes object analysis with recommendations for improved reliability and security](https://github.com/zegl/kube-score)<br>
 Litmus - [Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes](https://github.com/litmuschaos/litmus)<br>
 PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
-kube-burner -[Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)<br>
+kube-burner - [Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)<br>
 
 ## Service Mesh
 
@@ -201,6 +201,8 @@ Rook - [Storage Orchestration for Kubernetes](https://github.com/rook/rook)<br>
 TiKV - [Distributed transactional key-value database](https://github.com/tikv/tikv)<br>
 velero - [Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/vmware-tanzu/velero)<br>
 Vitess - [Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)<br>
+kaDalu - [A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background](https://github.com/kadalu/kadalu)<br>
+
 
 ## Multiple Tools Repo
 Chaos Toolkit Kubernetes Support - [Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)<br>
