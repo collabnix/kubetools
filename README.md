@@ -156,6 +156,7 @@ linkerd-config - [A Kubernetes controller that knows how to reconcile the Linker
 Kong - [Kong for Kubernetes: the official Ingress Controller for Kubernetes](https://github.com/Kong/kubernetes-ingress-controller)<br>
 OSM - [Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh](https://github.com/openservicemesh/osm)<br>
 Layer5 - [Layer5, the service mesh company, representing every service mesh](https://github.com/layer5io/layer5)<br>
+Gloo Mesh - [The Service Mesh Orchestration Platform](https://github.com/solo-io/gloo-mesh)<br>
 
 
 ## Observability
