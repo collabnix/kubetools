@@ -122,9 +122,8 @@ Kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common s
 Gangway - [An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster](https://github.com/heptiolabs/gangway)<br>
 Audit2rbac - [Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)<br>
 Chartsec - [Helm Chart security scanner](https://github.com/banzaicloud/chartsec)
-kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestriker)
-
-
+kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestriker)  
+Datree - [CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://datree.io)
 
 ## Network Policies
 
