@@ -93,6 +93,7 @@ kind - [Kubernetes IN Docker - local clusters for testing Kubernetes https://kin
 
 ## CI/CD integration Tools
 
+HybridK8s Droid - [Intelligence foor your favourite Delivery Platform](https://hybridk8s.tech) <br> 
 Devtron - [Software Delivery Workflow for Kubernetes](https://github.com/devtron-labs/devtron) <br> 
 Skaffold - [Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold) <br>
 Apollo - [Apollo - The logz.io continuous deployment solution over kubernetes](https://github.com/logzio/apollo)<br>
