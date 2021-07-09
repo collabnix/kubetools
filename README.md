@@ -90,6 +90,7 @@ Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
 KubeSphere - [Easy-to-use Production Ready Container Platform https://kubesphere.io](https://github.com/kubesphere/kubesphere)<br>
 skippbox - [A Desktop application for k8s](https://github.com/skippbox/skippbox)<br>
 kind - [Kubernetes IN Docker - local clusters for testing Kubernetes https://kind.sigs.k8s.io/](https://github.com/kubernetes-sigs/kind)<br>
+k3d - [k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker.](https://k3d.io)<br>
 
 ## CI/CD integration Tools
 
