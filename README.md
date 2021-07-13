@@ -215,6 +215,7 @@ Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give 
 ## Non-Categorize
 
 Rudr - [A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr) <br>
+Keel - [Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://keel.sh) <br>
 Cabin, the mobile app for Kubernetes - [The Mobile Dashboard for Kubernetes](https://github.com/bitnami-labs/cabin)<br>
 Funktion - [CLI tool for working with funktion](https://github.com/funktionio/funktion)<br>
 Alterant - [A simple Kubernetes configuration modifier](https://github.com/cloud66-oss/alterant)<br>
