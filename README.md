@@ -11,13 +11,13 @@ Want to contribute? Click [here](https://github.com/collabnix/kubetools/pulls) a
 
 ## Cluster Management
 
-kops - [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) <br>
-Kube-ops-view - [Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view) <br>
-kubeprompt - [Kubernetes prompt info](https://github.com/jlesquembre/kubeprompt) <br>
-Metalk8s - [An opinionated Kubernetes distribution with a focus on long-term on-prem deployments](https://github.com/scality/metalk8s) <br>
+kops - [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)<br>
+Kube-ops-view - [Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view)<br>
+kubeprompt - [Kubernetes prompt info](https://github.com/jlesquembre/kubeprompt)<br>
+Metalk8s - [An opinionated Kubernetes distribution with a focus on long-term on-prem deployments](https://github.com/scality/metalk8s)<br>
 kind - [Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind)<br>
 Clusterman - [Cluster Autoscaler for Kubernetes and Mesos](https://github.com/Yelp/clusterman)<br>
-Cert-manager - [Automatically provision and manage TLS certificates](https://github.com/jetstack/cert-manager) <br>
+Cert-manager - [Automatically provision and manage TLS certificates](https://github.com/jetstack/cert-manager)<br>
 Goldilocks - [Get your resource requests "Just Right"](https://github.com/FairwindsOps/goldilocks)<br>
 katafygio - [Dump, or continuously backup Kubernetes objets as yaml files in git](https://github.com/bpineau/katafygio)<br>
 Rancher - [Complete container management platform](https://github.com/rancher/rancher)<br>
@@ -65,8 +65,8 @@ Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 ## Troubleshooting
 Kubectl-debug - [Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purpose](https://github.com/aylei/kubectl-debug)<br>
 PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
-Crash-diagnostic - [Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters](https://github.com/vmware-tanzu/crash-diagnostics) <br>
-K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s) <br>
+Crash-diagnostic - [Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters](https://github.com/vmware-tanzu/crash-diagnostics)<br>
+K9s - [Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s)<br>
 Kubernetes CLI Plugin - Doctor - [kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)](https://github.com/emirozer/kubectl-doctor)<br>
 Knative Inspect - [A light-weight debugging tool for Knative's system components](https://github.com/nimakaviani/knative-inspect)<br>
 Kubeman - [To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istio](https://github.com/walmartlabs/kubeman)<br>
@@ -123,9 +123,9 @@ RBAC Lookup - [Easily find roles and cluster roles attached to any user, service
 Kubeaudit - [kubeaudit helps you audit your Kubernetes clusters against common security controls](https://github.com/Shopify/kubeaudit)<br>
 Gangway - [An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster](https://github.com/heptiolabs/gangway)<br>
 Audit2rbac - [Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)<br>
-Chartsec - [Helm Chart security scanner](https://github.com/banzaicloud/chartsec)
-kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestriker)  
-Datree - [CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://datree.io)
+Chartsec - [Helm Chart security scanner](https://github.com/banzaicloud/chartsec)<br>
+kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestriker)<br>
+Datree - [CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://datree.io)<br>
 Krane - [Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane)<br>
 
 ## Network Policies
