@@ -126,6 +126,7 @@ Audit2rbac - [Autogenerate RBAC policies based on Kubernetes audit logs](https:/
 Chartsec - [Helm Chart security scanner](https://github.com/banzaicloud/chartsec)
 kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestriker)  
 Datree - [CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://datree.io)
+Krane - [Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane)<br>
 
 ## Network Policies
 
@@ -230,7 +231,7 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 19 June, 2021
+Last Updated: 13 July, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
