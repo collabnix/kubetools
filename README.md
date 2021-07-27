@@ -81,7 +81,6 @@ KuberNix - [Single dependency Kubernetes clusters for local testing, experimenti
 Copper - [A configuration file validator for Kubernetes](https://github.com/cloud66-oss/copper?utm_sq=g93mop70o8)<br>
 ko - [Build and deploy Go applications on Kubernetes](https://github.com/google/ko)<br>
 Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekorateio/dekorate)<br>
-Tilt - [Local Kubernetes development with no stress https://tilt.dev/](https://github.com/windmilleng/tilt)<br>
 Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
 Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
 
