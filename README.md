@@ -84,6 +84,7 @@ Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekora
 Tilt - [Local Kubernetes development with no stress https://tilt.dev/](https://github.com/windmilleng/tilt)<br>
 Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
 Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
+Telepresence - [Fast, local development for Kubernetes and Openshift microservices](https://www.telepresence.io/)<br>
 
 ## Alternative Tools for Developement
 
