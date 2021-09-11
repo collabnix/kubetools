@@ -226,7 +226,7 @@ BUCK - [Brigade Universal Controller for Kubernetes](https://github.com/brigadec
 kube-fledged - [A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly](https://github.com/senthilrch/kube-fledged)<br>
 Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)<br>
 kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration](https://github.com/GoogleContainerTools/kpt)<br>
-
+capsule - [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster](https://github.com/clastix/capsule)
 ## Maintainer
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
