@@ -131,6 +131,7 @@ kubestriker - [Security Auditing tool](https://github.com/vchinnipilli/kubestrik
 Datree - [CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://datree.io)<br>
 Krane - [Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane)<br>
 Flaco - [The Falco Project - Cloud-Native runtime security](https://falco.org/)<br>
+Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
 
 ## Network Policies
 
