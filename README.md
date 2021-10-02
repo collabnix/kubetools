@@ -88,6 +88,7 @@ Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kube
 
 ## Alternative Tools for Developement
 
+Minikube - [minikube implements a local Kubernetes cluster](https://github.com/kubernetes/minikube)<br>
 KubeSphere - [Easy-to-use Production Ready Container Platform https://kubesphere.io](https://github.com/kubesphere/kubesphere)<br>
 skippbox - [A Desktop application for k8s](https://github.com/skippbox/skippbox)<br>
 kind - [Kubernetes IN Docker - local clusters for testing Kubernetes https://kind.sigs.k8s.io/](https://github.com/kubernetes-sigs/kind)<br>
