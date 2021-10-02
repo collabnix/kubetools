@@ -84,6 +84,7 @@ Dekorate - [Java annotation processors for Kubernetes](https://github.com/dekora
 Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
 Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
 Telepresence - [Fast, local development for Kubernetes and Openshift microservices](https://www.telepresence.io/)<br>
+Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kubeshop/monokle/)<br>
 
 ## Alternative Tools for Developement
 
