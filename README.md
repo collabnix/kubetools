@@ -1,4 +1,11 @@
 # Kubetools - A Curated List of Kubernetes Tools
+
+![stars](https://img.shields.io/github/stars/collabnix/kubetools)
+![forks](https://img.shields.io/github/forks/collabnix/kubetools)
+![issues](https://img.shields.io/github/issues/collabnix/kubetools)
+![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
+
+
 ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
 
 There are more than 200+ Kubernetes Certified Service Providers and tons of distributions. Choosing a right distribution can be a daunting task. Kubetools is built with a purpose. It is contributed and managed by [Collabnix community](https://collabnix.com) to target the most popular tools and technique and coming up with the best practices around these tools. 
