@@ -19,6 +19,7 @@ Want to contribute? Click [here](https://github.com/collabnix/kubetools/pulls) a
 ## Cluster Management
 
 kops - [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) <br>
+silver-surfer - [Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions](https://github.com/devtron-labs/silver-surfer)<br>
 Kube-ops-view - [Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view)<br>
 kubeprompt - [Kubernetes prompt info](https://github.com/jlesquembre/kubeprompt)<br>
 Metalk8s - [An opinionated Kubernetes distribution with a focus on long-term on-prem deployments](https://github.com/scality/metalk8s)<br>
