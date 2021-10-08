@@ -161,6 +161,7 @@ kube-score - [Kubernetes object analysis with recommendations for improved relia
 Litmus - [Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes](https://github.com/litmuschaos/litmus)<br>
 PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
 kube-burner - [Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)<br>
+kube-monkey - [kube-monkey randomly deletes k8 pods in the cluster to validate failure-resilient services](https://github.com/asobti/kube-monkey/)<br>
 
 ## Service Mesh
 
