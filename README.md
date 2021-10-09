@@ -120,7 +120,7 @@ Flux - [GitOps Kubernetes operator](https://github.com/fluxcd/flux)<br>
 Argo CD - [Declarative continuous deployment for Kubernetes](https://github.com/argoproj/argo-cd)<br>
 Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)<br>
 Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)<br>
-KubeVela - [KubeVela works as an application delivery control plane that is fully decoupled from runtime infrastructure. It can deploy any workload types including containers, cloud services, databases, or even VM instances to any cloud or Kubernetes cluster, following the workflow designed by you](https://github.com/oam-dev/kubevela)<br>
+KubeVela - [KubeVela works as an application delivery control plane that is fully decoupled from runtime infrastructure](https://github.com/oam-dev/kubevela)<br>
 
 ## Security Tools
 
