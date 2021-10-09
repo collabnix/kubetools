@@ -121,6 +121,7 @@ Argo CD - [Declarative continuous deployment for Kubernetes](https://github.com/
 Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)<br>
 Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)<br>
 KubeVela - [KubeVela works as an application delivery control plane that is fully decoupled from runtime infrastructure. It can deploy any workload types including containers, cloud services, databases, or even VM instances to any cloud or Kubernetes cluster, following the workflow designed by you](https://github.com/oam-dev/kubevela)<br>
+ksonnet - [ksonnet is a framework for writing, sharing, and deploying Kubernetes application manifests. With its CLI, you can generate a complete application from scratch in only a few commands, or manage a complex system at scale.](https://github.com/ksonnet/ksonnet)<br>
 
 ## Security Tools
 
