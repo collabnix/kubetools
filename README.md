@@ -73,6 +73,7 @@ fluentbit - [Fast and Lightweight Log processor and forwarder for Linux, BSD and
 Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)<br>
 
 ## Troubleshooting
+
 Kubectl-debug - [Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purpose](https://github.com/aylei/kubectl-debug)<br>
 PowerfulSeal - [A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)<br>
 Crash-diagnostic - [Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clusters](https://github.com/vmware-tanzu/crash-diagnostics)<br>
@@ -202,7 +203,6 @@ Kubeflow - [Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow
 Volcano - [A Kubernetes Native Batch System](https://github.com/volcano-sh/volcano)<br>
 
 ## Compute Edge Tools
-
 KubeEdge - [Kubernetes Native Edge Computing Framework](https://github.com/kubeedge/kubeedge) <br>
 Kubeless - [Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless)<br>
 
@@ -227,6 +227,7 @@ kaDalu - [A lightweight Persistent storage solution for Kubernetes / OpenShift u
 
 
 ## Multiple Tools Repo
+
 Chaos Toolkit Kubernetes Support - [Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)<br>
 k14s - [Kubernetes Tools that follow Unix philosophy to be simple and composable](https://github.com/k14s)<br>
 Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com](https://github.com/pulumi/pulumi)<br>
@@ -243,12 +244,13 @@ kube-fledged - [A kubernetes add-on for creating and managing a cache of contain
 Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)<br>
 kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration](https://github.com/GoogleContainerTools/kpt)<br>
 capsule - [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster](https://github.com/clastix/capsule)
+
 ## Maintainer
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 4 Oct, 2021
+Last Updated: 9 Oct, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
