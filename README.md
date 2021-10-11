@@ -122,6 +122,7 @@ Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](h
 Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)<br>
 KubeVela - [KubeVela works as an application delivery control plane that is fully decoupled from runtime infrastructure](https://github.com/oam-dev/kubevela)<br>
 ksonnet - [A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters](https://github.com/ksonnet/ksonnet)<br>
+CircleCI - [A cloud-based tool that helps build continuous integration and continuous delivery pipelines to Kubernetes.](https://github.com/circleci)<br>
 
 ## Security Tools
 
