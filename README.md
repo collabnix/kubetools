@@ -145,6 +145,7 @@ Datree - [CLI tool to prevent K8s misconfigurations by ensuring that manifests a
 Krane - [Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane)<br>
 Flaco - [The Falco Project - Cloud-Native runtime security](https://falco.org/)<br>
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
+Anchore Cli - [Coomand Line Interface built on top of anchore engine to manage and inspect images, policies, subscriptions and registries](https://github.com/anchore/anchore-cli)<br>
 
 ## Network Policies
 
