@@ -4,6 +4,7 @@
 ![forks](https://img.shields.io/github/forks/collabnix/kubetools)
 ![issues](https://img.shields.io/github/issues/collabnix/kubetools)
 ![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
@@ -255,7 +256,7 @@ capsule - [Capsule helps to implement a multi-tenancy and policy-based environme
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 16 Oct, 2021
+Last Updated: 17 Oct, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
