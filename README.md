@@ -259,3 +259,9 @@ Last Updated: 16 Oct, 2021
 
 ## LICENSE 
 [Apache License 2.0](./LICENSE)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/collabnix/kubetools.svg)](https://starchart.cc/collabnix/kubetools)
+
