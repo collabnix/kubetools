@@ -147,6 +147,7 @@ Krane - [Kubernetes RBAC static Analysis & visualisation tool](https://github.co
 Flaco - [The Falco Project - Cloud-Native runtime security](https://falco.org/)<br>
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
 Anchore Cli - [Coomand Line Interface built on top of anchore engine to manage and inspect images, policies, subscriptions and registries](https://github.com/anchore/anchore-cli)<br>
+Project Quay - [Container image registry designed to boost the security of your repositories via vulnerability scanning and tight access control](https://github.com/quay/quay)<br>
 
 ## Network Policies
 
