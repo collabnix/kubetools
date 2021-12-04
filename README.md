@@ -98,6 +98,7 @@ Lens IDE [The Kubernetes IDE](https://k8slens.dev/)<br>
 Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
 Telepresence - [Fast, local development for Kubernetes and Openshift microservices](https://www.telepresence.io/)<br>
 Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kubeshop/monokle/)<br>
+Kr8s - [Desktop application made for developers that need to monitor and visualize their Kubernetes clusters in a user friendly GUI](https://github.com/oslabs-beta/kr8s.git)<br>
 
 ## Alternative Tools for Developement
 
@@ -149,6 +150,7 @@ Flaco - [The Falco Project - Cloud-Native runtime security](https://falco.org/)<
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)<br>
 Anchore Cli - [Coomand Line Interface built on top of anchore engine to manage and inspect images, policies, subscriptions and registries](https://github.com/anchore/anchore-cli)<br>
 Project Quay - [Container image registry designed to boost the security of your repositories via vulnerability scanning and tight access control](https://github.com/quay/quay)<br>
+Kubescape - [Tool to test if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the NSA-CISA and the MITRE ATT&CK®](https://github.com/armosec/kubescape)<br>
 
 ## Network Policies
 
