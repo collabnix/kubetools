@@ -254,6 +254,7 @@ kube-fledged - [A kubernetes add-on for creating and managing a cache of contain
 Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)<br>
 kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration](https://github.com/GoogleContainerTools/kpt)<br>
 capsule - [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster](https://github.com/clastix/capsule)
+KubeMQ - [An Open-Source, Kubernetes-Native Messaging Platform](https://kubemq.io/)<br>
 
 ## Maintainer
 
