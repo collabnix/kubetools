@@ -40,6 +40,7 @@ Portainer - [Portainer inside a Kubernetes environment](https://github.com/porta
 Gardener - [Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service](https://gardener.cloud)<br>
 Kubed - [Kubernetes Cluster Operator Daemon](https://github.com/kubeops/kubed)<br>
 Kubestack - [Kubestack is the free and open-source GitOps framework to codify your custom platform stack using Terraform.](https://www.kubestack.com/)
+Cluster-API - [To simplify provisioning, upgrading, and operating multiple Kubernetes clusters](https://cluster-api.sigs.k8s.io/)
 
 ## Cluster with Core CLI tools
 
