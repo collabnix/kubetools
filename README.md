@@ -39,7 +39,8 @@ Octant - [To better understand the complexity of Kubernetes clusters](https://gi
 Portainer - [Portainer inside a Kubernetes environment](https://github.com/portainer/k8s)<br>
 Gardener - [Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service](https://gardener.cloud)<br>
 Kubed - [Kubernetes Cluster Operator Daemon](https://github.com/kubeops/kubed)<br>
-Kubestack - [Kubestack is the free and open-source GitOps framework to codify your custom platform stack using Terraform.](https://www.kubestack.com/)
+Kubestack - [Kubestack is the free and open-source GitOps framework to codify your custom platform stack using Terraform.](https://www.kubestack.com/)<br>
+Cluster-API - [To simplify provisioning, upgrading, and operating multiple Kubernetes clusters](https://cluster-api.sigs.k8s.io/)<br>
 
 ## Cluster with Core CLI tools
 
@@ -100,6 +101,8 @@ Telepresence - [Fast, local development for Kubernetes and Openshift microservic
 Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kubeshop/monokle/)<br>
 Kr8s - [Desktop application made for developers that need to monitor and visualize their Kubernetes clusters in a user friendly GUI](https://github.com/oslabs-beta/kr8s.git)<br>
 DevSpace - [Developer CLI tool for Kubernetes](https://devspace.sh/)<br>
+Eclipse JKube - [Java Kubernetes Maven and Gradle plugins](https://github.com/eclipse/jkube)<br>
+
 
 ## Alternative Tools for Developement
 
@@ -127,7 +130,7 @@ Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Envi
 KubeVela - [KubeVela works as an application delivery control plane that is fully decoupled from runtime infrastructure](https://github.com/oam-dev/kubevela)<br>
 ksonnet - [A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters](https://github.com/ksonnet/ksonnet)<br>
 CircleCI - [A cloud-based tool that helps build continuous integration and continuous delivery pipelines to Kubernetes.](https://github.com/circleci)<br>
-
+Shipwright - [A framework for building container images on Kubernetes](https://shipwright.io/)<br>
 ## Security Tools
 
 TerraScan - [Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/accurics/terrascan) <br>
