@@ -165,6 +165,7 @@ kokotap - [Tools for kubernetes pod network tapping](https://github.com/redhat-n
 Submariner - [Connect all your Kubernetes clusters, no matter where they are in the world](https://github.com/submariner-io/submariner)<br>
 egress-operator - [An operator to produce egress gateway pods and control access to them with network policies](https://github.com/monzo/egress-operator)<br>
 kubefwd (Kube Forward) - [Bulk port forwarding Kubernetes services for local development ](https://github.com/txn2/kubefwd)<br>
+Cilium - [Providing, securing and observing network connectivity between container workloads](https://cilium.io/)<br>
 
 ## Testing Tools
 
