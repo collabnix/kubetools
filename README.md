@@ -41,6 +41,7 @@ Gardener - [Deliver fully-managed clusters at scale everywhere with your own Kub
 Kubed - [Kubernetes Cluster Operator Daemon](https://github.com/kubeops/kubed)<br>
 Kubestack - [Kubestack is the free and open-source GitOps framework to codify your custom platform stack using Terraform.](https://www.kubestack.com/)<br>
 Cluster-API - [To simplify provisioning, upgrading, and operating multiple Kubernetes clusters](https://cluster-api.sigs.k8s.io/)<br>
+Vcluster - [It spins up lightweight, virtual k8s clusters that run inside the namespaces of an underlying k8s cluster allowing better multi-tenancy management.](https://www.vcluster.com)
 
 ## Cluster with Core CLI tools
 
