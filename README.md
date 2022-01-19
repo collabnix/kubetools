@@ -100,7 +100,9 @@ Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)<br>
 Telepresence - [Fast, local development for Kubernetes and Openshift microservices](https://www.telepresence.io/)<br>
 Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kubeshop/monokle/)<br>
 Kr8s - [Desktop application made for developers that need to monitor and visualize their Kubernetes clusters in a user friendly GUI](https://github.com/oslabs-beta/kr8s.git)<br>
+DevSpace - [Developer CLI tool for Kubernetes](https://devspace.sh/)<br>
 Eclipse JKube - [Java Kubernetes Maven and Gradle plugins](https://github.com/eclipse/jkube)<br>
+
 
 ## Alternative Tools for Developement
 
