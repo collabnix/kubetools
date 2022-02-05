@@ -7,9 +7,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
+![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg)
 
-There are more than 200+ Kubernetes Certified Service Providers and tons of distributions. Choosing a right distribution can be a daunting task. Kubetools is built with a purpose. It is contributed and managed by [Collabnix community](https://collabnix.com) to target the most popular tools and technique and coming up with the best practices around these tools. 
+There are more than 200+ Kubernetes Certified Service Providers and tons of distributions. Choosing a right distribution can be a daunting task. Kubetools is built with a purpose. It is contributed and managed by [Collabnix community](https://collabnix.com) to target the most popular tools and technique and coming up with the best practices around these tools.
 
 Currently, we are maintaining a database of 300+ Kubernetes tools but there is a plan to take it to next step and help you pick up the most popular tool for your infrastructure.
 
@@ -67,6 +67,7 @@ Searchlight - [Alerts for Kubernetes](https://github.com/searchlight/searchlight
 linkerd2 Monitoring Mixin for Grafana - [Grafana dashboards for linkerd2 monitoring and can work in standalone (default) or in multi cluster setup](https://github.com/andrew-waters/linkerd2-mixin)<br>
 kuberhaus - [Kubernetes resource dashboard with node/pod layout and resource requests](https://github.com/stevelacy/kuberhaus)<br>
 Kubernetes Job/CronJob Notifier - [This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success](https://github.com/sukeesh/k8s-job-notify)<br>
+kwatch - [monitor & detect crashes in your Kubernetes(K8s) cluster instantly ](https://github.com/abahmed/kwatch)<br>
 Argus - [This tool monitors changes in the filesystem on specified paths](https://clustergarage.io/argus/docs/overview)<br>
 
 ## Logging and Tracing
@@ -115,8 +116,8 @@ k3d - [k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernet
 
 ## CI/CD integration Tools
 
-HybridK8s Droid - [Intelligence foor your favourite Delivery Platform](https://hybridk8s.tech) <br> 
-Devtron - [Software Delivery Workflow for Kubernetes](https://github.com/devtron-labs/devtron) <br> 
+HybridK8s Droid - [Intelligence foor your favourite Delivery Platform](https://hybridk8s.tech) <br>
+Devtron - [Software Delivery Workflow for Kubernetes](https://github.com/devtron-labs/devtron) <br>
 Skaffold - [Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold) <br>
 Apollo - [Apollo - The logz.io continuous deployment solution over kubernetes](https://github.com/logzio/apollo)<br>
 Helm Cabin - [Web UI that visualizes Helm releases in a Kubernetes cluster](https://github.com/Nick-Triller/helm-cabin)<br>
@@ -184,7 +185,7 @@ Microcks - [Kubernetes native tool for API mocking and testing](https://microcks
 ## Service Mesh
 
 Istio - [Connect, secure, control, and observe services](https://github.com/istio/istio) <br>
-Traefik - [The Cloud Native Edge Router](https://github.com/containous/traefik)<br> 
+Traefik - [The Cloud Native Edge Router](https://github.com/containous/traefik)<br>
 NGINX Ingress Controller - [NGINX and NGINX Plus Ingress Controllers for Kubernetes](https://github.com/nginxinc/kubernetes-ingress)<br>
 Autopilot - [THE SERVICE MESH SDK](https://docs.solo.io/autopilot/latest)<br>
 linkerd-config - [A Kubernetes controller that knows how to reconcile the Linkerd configuration](https://github.com/ihcsim/linkerd-config)<br>
@@ -270,7 +271,7 @@ KubeMQ - [An Open-Source, Kubernetes-Native Messaging Platform](https://kubemq.i
 
 Last Updated: 25 Oct, 2021
 
-## LICENSE 
+## LICENSE
 [Apache License 2.0](./LICENSE)
 
 
