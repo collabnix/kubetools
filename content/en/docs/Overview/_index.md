@@ -15,5 +15,5 @@ Want to contribute? Click here and get your favorite tool added.
 
 What's Next?
 
-* [Getting Started](/docs/cluster-management/) - Get access to Cluster Managemen tool.
+* [Getting Started](/docs/cluster-management/) - Get access to Cluster Management tool.
 
