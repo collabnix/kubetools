@@ -3,9 +3,15 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/10d590b1-cc31-4f40-ad93-9c2366130f61/deploy-status)](https://app.netlify.com/sites/kubetools/deploys)
 
 
+There are more than 200+ Kubernetes Certified Service Providers and tons of distributions. Choosing a right distribution can be a daunting task. Kubetools is built with a purpose. It is contributed and managed by Collabnix community to target the most popular tools and technique and coming up with the best practices around these tools.
+
+Currently, we are maintaining a database of 300+ Kubernetes tools but there is a plan to take it to next step and help you pick up the most popular tool for your infrastructure.
+
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6000+ DevOps enthusiasts. Want to contribute? Click here and get your favorite tool added.
 
 
-Kubetools was built with a purpose. It is being used by Collabnix Slack community internally to target the most popular tools and technique and coming up with the best practices around these tools. The community is planning to conduct webinar for the most voted tools based on the popularity. Do visit http://webinar.collabnix.com for the upcoming webinars around these tools.
+
+
 
 
 ## K8s Cluster Management
