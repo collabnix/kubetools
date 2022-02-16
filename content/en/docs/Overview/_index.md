@@ -15,6 +15,5 @@ Want to contribute? Click here and get your favorite tool added.
 
 What's Next?
 
-* [Cluster Management](/docs/cluster-management/) - Get access to Cluster Managemen tool.
-* [Continuous Integration & Deployment](/docs/continuous-integration-deployment/): Check out some cool CI-CD tools!
+* [Getting Started](/docs/cluster-management/) - Get access to Cluster Managemen tool.
 
