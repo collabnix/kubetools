@@ -3,8 +3,4 @@
 HUGO_VERSION = "0.88.1"
 
 
-[[redirects]]
-  from = "https://kubetools.netlify.app"
-  to = "https://kubetools.collabnix.com"
-  force = true
 
