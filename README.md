@@ -1,6 +1,6 @@
 # Kubetools - a Curated List of Kubernetes Tools
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/10d590b1-cc31-4f40-ad93-9c2366130f61/deploy-status)](https://app.netlify.com/sites/kubetools/deploys)
+
 
 
 There are more than 200+ Kubernetes Certified Service Providers and tons of distributions. Choosing a right distribution can be a daunting task. Kubetools is built with a purpose. It is contributed and managed by Collabnix community to target the most popular tools and technique and coming up with the best practices around these tools.
