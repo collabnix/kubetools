@@ -1,6 +1,5 @@
 # Kubetools - a Curated List of Kubernetes Tools
 
-[![github pages](https://github.com/collabnix/kubetools/actions/workflows/main.yml/badge.svg)](https://github.com/collabnix/kubetools/actions/workflows/main.yml)
 
 
 
