@@ -116,9 +116,9 @@ version = "0.0"
 url_latest_version = "https://collabnix.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/collabnix/cherrybot"
+github_repo = "https://github.com/collabnix/kubetools"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/collabnix/cherrybot"
+github_project_repo = "https://github.com/collabnix/kubetools"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
