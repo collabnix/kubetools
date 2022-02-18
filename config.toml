@@ -1,4 +1,4 @@
-baseURL = "https://collabnix.github.io/kubetools"
+baseURL = "/"
 title = "Kubetools"
 
 enableRobotsTXT = true
