@@ -42,7 +42,12 @@
       {% if site.show_downloads %}
         <a href="https://launchpass.com/collabnix" class="btn">Join Slack</a>
      {% endif %}
-          
+     {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="https://collabnix.com" class="btn">Visit Collabnix Site</a>
+     {% endif %}          
     </header>
 
     <main id="content" class="main-content" role="main">
