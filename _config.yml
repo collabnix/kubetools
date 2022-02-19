@@ -1,5 +1,5 @@
 show_downloads: true
-google_analytics:
+google_analytics: UA-221020677-1
 theme: jekyll-theme-cayman
 jekyll_admin:
   hidden_links:
