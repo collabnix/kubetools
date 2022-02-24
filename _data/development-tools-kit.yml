@@ -1,0 +1,42 @@
+- topic: "Okteto: A Tool for Cloud Native Developers"
+  title: Build better applications by developing and testing your code directly in Kubernetes
+  url: https://github.com/okteto/okteto
+
+- topic: "Tilt: Tilt manages local development instances for teams that deploy to Kubernetes"
+  title: Local Kubernetes development with no stress
+  url: https://github.com/windmilleng/tilt
+
+- topic: "Garden: Kubernetes from source to finish"
+  title: Development orchestrator for Kubernetes, containers and functions.
+  url: https://github.com/garden-io/garden
+
+- topic: KuberNix
+  title: Single dependency Kubernetes clusters for local testing, experimenting and development
+  url: https://github.com/saschagrunert/kubernix
+
+- topic: Copper
+  title: A configuration file validator for Kubernetes
+  url: https://github.com/cloud66-oss/copper?utm_sq=g93mop70o8
+
+- topic: ko
+  title: Build and deploy Go applications on Kubernetes
+  url: https://github.com/google/ko
+
+- topic: Dekorate
+  title: Java annotation processors for Kubernetes
+  url: https://github.com/dekorateio/dekorate
+
+- topic: Lens IDE [The Kubernetes IDE
+  url: https://k8slens.dev  /
+
+- topic: Kosko
+  title: Organize Kubernetes manifests in JavaScript
+  url: https://kosko.dev/
+
+- topic: Telepresence
+  title: Fast, local development for Kubernetes and Openshift microservices
+  url: https://www.telepresence.io/
+
+- topic: Monokle
+  title: Desktop UI for managing Kubernetes manifests
+  url: https://github.com/kubeshop/monokle/

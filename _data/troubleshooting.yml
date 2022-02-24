@@ -1,0 +1,31 @@
+- topic: Kubectl-debug
+  title: Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purposed
+  url: https://github.com/aylei/kubectl-debug
+
+- topic: PowerfulSeal
+  title: A powerful testing tool for Kubernetes clustersd
+  url: https://github.com/bloomberg/powerfulseal
+
+- topic: Crash-diagnostic
+  title: Crash-Diagnostics is a tool to help investigate, analyze, and troubleshoot unresponsive or crashed Kubernetes clustersd
+  url: https://github.com/vmware-tanzu/crash-diagnostics
+
+- topic: K9s
+  title: Kubernetes CLI To Manage Your Clusters In Style!d
+  url: https://github.com/derailed/k9s
+
+- topic: Kubernetes CLI Plugin - Doctor
+  title: kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)d
+  url: https://github.com/emirozer/kubectl-doctor
+
+- topic: Knative Inspect
+  title: A light-weight debugging tool for Knative's system componentsd
+  url: https://github.com/nimakaviani/knative-inspect
+
+- topic: Kubeman
+  title: To find information from Kubernetes clusters, and to investigate issues related to Kubernetes and Istiod
+  url: https://github.com/walmartlabs/kubeman
+
+- topic: kpexec
+  title: kpexec is a kubernetes cli that runs commands in a container with high privilegesd
+  url: https://github.com/ssup2/kpexec

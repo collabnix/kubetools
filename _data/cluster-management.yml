@@ -1,0 +1,76 @@
+- topic: kops
+  title: Production Grade K8s Installation, Upgrades, and Management
+  url: https://github.com/kubernetes/kops
+
+- topic: silver-surfer
+  title: Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions
+  url: https://github.com/devtron-labs/silver-surfer
+
+- topic: Kube-ops-view
+  title: Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
+  url: https://github.com/hjacobs/kube-ops-view
+
+- topic: kubeprompt
+  title: Kubernetes prompt info
+  url: https://github.com/jlesquembre/kubeprompt
+
+- topic: Metalk8s
+  title: An opinionated Kubernetes distribution with a focus on long-term on-prem deployments
+  url: https://github.com/scality/metalk8s
+
+- topic: kind
+  title: Kubernetes IN Docker - local clusters for testing Kubernetes
+  url: https://github.com/kubernetes-sigs/kind
+
+- topic: Clusterman
+  title: Cluster Autoscaler for Kubernetes and Mesos
+  url: https://github.com/Yelp/clusterman
+
+- topic: Cert-manager
+  title: Automatically provision and manage TLS certificates
+  url: https://github.com/jetstack/cert-manager
+
+- topic: Goldilocks
+  title: Get your resource requests "Just Right"
+  url: https://github.com/FairwindsOps/goldilocks
+
+- topic: katafygio
+  title: Dump, or continuously backup Kubernetes objets as yaml files in git
+  url: https://github.com/bpineau/katafygio
+
+- topic: Rancher
+  title: Complete container management platform
+  url: https://github.com/rancher/rancher
+
+- topic: Sealed Secrets
+  title: A Kubernetes controller and tool for one-way encrypted Secrets
+  url: https://github.com/bitnami-labs/sealed-secrets
+
+- topic: OpenKruise/Kruise
+  title: Automate application workloads management on Kubernetes https://openkruise.io
+  url: https://github.com/openkruise/kruise
+
+- topic: kubectl snapshot
+  title: Take Cluster Snapshots
+  url: https://github.com/fbrubbo/kubectl-snapshot
+
+- topic: kapp
+  title: simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label https://get-kapp.io
+  url: https://github.com/k14s/kapp
+
+- topic: keda
+  title: Event-driven autoscaler for Kubernetes
+  url: https://keda.sh
+
+- topic: Octant
+  title: To better understand the complexity of Kubernetes clusters
+  url: https://github.com/vmware-tanzu/octant
+
+- topic: Portainer
+  title: Portainer inside a Kubernetes environment
+  url: https://github.com/portainer/k8s
+
+- topic: Gardener
+  title: Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service
+  url: https://gardener.cloud
+

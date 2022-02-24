@@ -1,0 +1,9 @@
+<p class="tools">
+  {{include.topic}} -
+  <a href="{{include.url}}" title="{{include.topic}} - {{include.title}}">{{include.title}}</a>
+  {% if include.lab %}
+  <a class="lab" href="{{include.lab}}" title="{{include.title}}">
+    <button>Try Hands On</button>
+  </a>
+  {% endif %}
+</p>

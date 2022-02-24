@@ -1,0 +1,63 @@
+- topic: Kubespy
+  title: Tools for observing Kubernetes resources in real time
+  url: https://github.com/pulumi/kubespy
+
+- topic: Popeye
+  title: A Kubernetes cluster resource sanitizer
+  url: https://github.com/derailed/popeye
+
+- topic: Stern
+  title: Multi pod and container log tailing for Kubernetes
+  url: https://github.com/wercker/stern
+
+- topic: Cri-tools
+  title: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
+  url: https://github.com/kubernetes-sigs/cri-tools
+
+- topic: Kubebox
+  title: Terminal and Web console for Kubernetes
+  url: https://github.com/astefanutti/kubebox
+
+- topic: Kubewatch
+  title: Watch k8s events and trigger Handlers
+  url: https://github.com/bitnami-labs/kubewatch
+
+- topic: kube-state-metrics
+  title: Add-on agent to generate and expose cluster-level metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+
+- topic: Sloop
+  title: Kubernetes History Visualization
+  url: https://github.com/salesforce/sloop?utm_sq=g90yo8t8s1
+
+- topic: kubectl tree 🎄
+  title: Kubectl plugin to observe object hierarchies through ownerReferences
+  url: https://github.com/ahmetb/kubectl-tree
+
+- topic: chaoskube
+  title: chaoskube periodically kills random pods in your Kubernetes cluster
+  url: https://github.com/linki/chaoskube
+
+- topic: BotKube
+  title: Helps you monitor your Kubernetes cluster(s), debug critical deployments and gives recommendations for standard practices
+  url: https://www.botkube.io/
+
+- topic: Kubestone
+  title: Kubestone is a benchmarking Operator that can evaluate the performance of Kubernetes installations
+  url: https://kubestone.io/en/latest
+
+- topic: Chaos Mesh
+  title: A Chaos Engineering Platform for Kubernetes
+  url: https://github.com/pingcap/chaos-mesh
+
+- topic: Lemur
+  title: "LEMUR: Observability and Context"
+  url: https://github.com/turbonomic/lemur
+
+- topic: kubernetes-event-exporter
+  title: Export Kubernetes events to multiple destinations with routing and filtering
+  url: https://github.com/opsgenie/kubernetes-event-exporter
+
+- topic: Kubevious
+  title: Kubevious provides a usable and highly graphical interface for Kubernetes
+  url: https://github.com/kubevious/kubevious

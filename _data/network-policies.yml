@@ -1,0 +1,28 @@
+- topic: trireme-kubernetes
+  title: Aporeto integration with Kubernetes Network Policies
+  url: https://github.com/aporeto-inc/trireme-kubernetes
+
+- topic: Calico
+  title: Cloud native connectivity and network policy 
+  url: https://github.com/projectcalico/calico
+
+- topic: kubepox
+  title: Kubernetes network Policy eXploration tool
+  url: https://github.com/aporeto-inc/kubepox
+
+- topic: kokotap
+  title: Tools for kubernetes pod network tapping
+  url: https://github.com/redhat-nfvpe/kokotap
+
+- topic: Submariner
+  title: Connect all your Kubernetes clusters, no matter where they are in the world
+  url: https://github.com/submariner-io/submariner
+
+- topic: egress-operator
+  title: An operator to produce egress gateway pods and control access to them with network policies
+  url: https://github.com/monzo/egress-operator
+
+- topic: kubefwd (Kube Forward)
+  title: Bulk port forwarding Kubernetes services for local development 
+  url: https://github.com/txn2/kubefwd
+

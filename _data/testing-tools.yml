@@ -1,0 +1,27 @@
+- topic: k6d
+  title: A modern load testing tool, using Go and JavaScript
+  url: https://github.com/loadimpact/k6
+
+- topic: Network bandwith and load testingd
+  title: Test suite for Kubernetes
+  url: https://github.com/mrahbar/k8s-testsuite
+
+- topic: test-infrad
+  title: Test infrastructure for the Kubernetes project
+  url: https://github.com/kubernetes/test-infra
+
+- topic: kube-scored
+  title: Kubernetes object analysis with recommendations for improved reliability and security
+  url: https://github.com/zegl/kube-score
+
+- topic: Litmusd
+  title: Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes
+  url: https://github.com/litmuschaos/litmus
+
+- topic: PowerfulSeald
+  title: A powerful testing tool for Kubernetes clusters
+  url: https://github.com/bloomberg/powerfulseal
+
+- topic: kube-burnerd
+  title: Kube-burner is a tool aimed at stressing kubernetes clusters
+  url: https://kube-burner.readthedocs.io/en/latest/

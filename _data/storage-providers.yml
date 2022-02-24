@@ -1,0 +1,35 @@
+- topic: ChubaoFS
+  title: distributed file system and object storage
+  url: https://github.com/chubaofs/chubaofs
+
+- topic: Longhorn
+  title: Cloud-Native distributed block storage built on and for Kubernetes
+  url: https://github.com/longhorn/longhorn
+
+- topic: OpenEBS
+  title: Kubernetes native - hyperconverged block storage with multiple storage engines
+  url: https://github.com/openebs/openebs
+
+- topic: Rook
+  title: Storage Orchestration for Kubernetes
+  url: https://github.com/rook/rook
+
+- topic: SeaweedFS
+  title: Distributed file system supports read-write many volumes
+  url: https://github.com/chrislusf/seaweedfs
+
+- topic: TiKV
+  title: Distributed transactional key-value database
+  url: https://github.com/tikv/tikv
+
+- topic: velero
+  title: Backup and migrate Kubernetes applications and their persistent volumes
+  url: https://github.com/vmware-tanzu/velero
+
+- topic: Vitess
+  title: Vitess is a database clustering system for horizontal scaling of MySQL
+  url: https://github.com/vitessio/vitess
+
+- topic: kaDalu
+  title: A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background
+  url: https://github.com/kadalu/kadalu

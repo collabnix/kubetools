@@ -1,73 +1,32 @@
-.hands-on-labs {
-  margin-bottom: 1.5rem;
-  .lab {
-    display: flex;
-    align-items: center;
-    margin-bottom: 0.5rem;
+h2 {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+p.tools {
+  margin-bottom: 0;
+}
 
-    img {
-      width: 40px;
-      height: 40px;
-      margin-right: 1rem;
-      object-fit: contain;
-      object-position: center;
-    }
-    a {
-      display: block;
-      margin-left: auto;
-
-      button {
-        padding: 0.25rem 0.5rem;
-        background-color: #0a5;
-        border: 1px solid #0a5;
-        border-radius: 4px;
-        color: white;
-        cursor: pointer;
-        &:hover {
-          background-color: rgb(2, 133, 67);
-          border-color: rgb(2, 133, 67);
-        }
-      }
+.lab {
+  float: right;
+  button {
+    padding: 0.25rem 0.5rem;
+    background-color: #0a5;
+    border: 1px solid #0a5;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    &:hover {
+      background-color: rgb(2, 133, 67);
+      border-color: rgb(2, 133, 67);
     }
   }
 }
 
-.lab-cards {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 1rem;
-  margin-bottom: 1.5rem;
-  .lab {
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
-    box-shadow: 0 0 8px #ddd;
-    border: 1px solid #ddd;
-    h4 {
-      margin: 0;
-    }
-    img {
-      width: 40px;
-      height: 40px;
-      margin: 1rem 0;
-      object-fit: contain;
-      object-position: center;
-      text-align: right;
-    }
-    a {
-      margin-top: auto;
-      button {
-        padding: 0.25rem 0.5rem;
-        background-color: #0a5;
-        border: 1px solid #0a5;
-        border-radius: 4px;
-        color: white;
-        cursor: pointer;
-        &:hover {
-          background-color: rgb(2, 133, 67);
-          border-color: rgb(2, 133, 67);
-        }
-      }
-    }
+.edit {
+  display: flex;
+  svg {
+    margin-left: auto;
+    height: 1.5rem;
+    width: 1.5rem;
   }
 }

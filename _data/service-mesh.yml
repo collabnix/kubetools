@@ -1,0 +1,40 @@
+
+- topic: Istio
+  title: Connect, secure, control, and observe services
+  url: https://github.com/istio/istio
+
+- topic: Traefik
+  title: The Cloud Native Edge Router
+  url: https://github.com/containous/traefik
+
+- topic: NGINX Ingress Controller
+  title: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  url: https://github.com/nginxinc/kubernetes-ingress
+
+- topic: Autopilot
+  title: THE SERVICE MESH SDK
+  url: https://docs.solo.io/autopilot/latest
+
+- topic: linkerd-config
+  title: A Kubernetes controller that knows how to reconcile the Linkerd configuration
+  url: https://github.com/ihcsim/linkerd-config
+
+- topic: Kong
+  title: "Kong for Kubernetes: the official Ingress Controller for Kubernetes"
+  url: https://github.com/Kong/kubernetes-ingress-controller
+
+- topic: OSM
+  title: Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh
+  url: https://github.com/openservicemesh/osm
+
+- topic: Layer5
+  title: Layer5, the service mesh company, representing every service mesh
+  url: https://github.com/layer5io/layer5
+
+- topic: Gloo Mesh
+  title: The Service Mesh Orchestration Platform
+  url: https://github.com/solo-io/gloo-mesh
+
+- topic: APISIX
+  title: Apache APISIX is a dynamic, real-time, high-performance API gateway.
+  url: https://github.com/apache/apisix

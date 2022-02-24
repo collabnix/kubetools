@@ -1,0 +1,76 @@
+- topic: TerraScan
+  title: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+  url: https://github.com/accurics/terrascan
+
+- topic: klum
+  title: Kubernetes Lazy User Manager
+  url: https://github.com/ibuildthecloud/klum
+
+- topic: Kyverno
+  title: Kubernetes Native Policy Management https://kyverno.io
+  url: https://github.com/nirmata/kyverno
+
+- topic: kiosk
+  title: kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
+  url: https://github.com/kiosk-sh/kiosk
+
+- topic: kube-bench
+  title: CIS Kubernetes Benchmark tool
+  url: https://github.com/aquasecurity/kube-bench
+
+- topic: kube-hunter
+  title: Pentesting tool - Hunts for security weaknesses in Kubernetes clusters
+  url: https://github.com/aquasecurity/kube-hunter
+
+- topic: kube-who-can
+  title: Show who has RBAC permissions to perform actions on different resources in Kubernetes
+  url: https://github.com/aquasecurity/kubectl-who-can
+
+- topic: starboard
+  title: Kubernetes-native security toolkit
+  url: https://github.com/aquasecurity/starboard
+
+- topic: Simulator
+  title: Kubernetes Security Training Platform - Focussing on security mitigation
+  url: https://github.com/kubernetes-simulator/simulator
+
+- topic: RBAC Lookup
+  title: Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster https://fairwinds.com
+  url: https://github.com/FairwindsOps/rbac-lookup
+
+- topic: Kubeaudit
+  title: kubeaudit helps you audit your Kubernetes clusters against common security controls
+  url: https://github.com/Shopify/kubeaudit
+
+- topic: Gangway
+  title: An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster
+  url: https://github.com/heptiolabs/gangway
+
+- topic: Audit2rbac
+  title: Autogenerate RBAC policies based on Kubernetes audit logs
+  url: https://github.com/liggitt/audit2rbac
+
+- topic: Chartsec
+  title: Helm Chart security scanner
+  url: https://github.com/banzaicloud/chartsec
+
+- topic: kubestriker
+  title: Security Auditing tool
+  url: https://github.com/vchinnipilli/kubestriker
+
+- topic: Datree
+  title: CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
+  url: https://datree.io
+
+- topic: Krane
+  title: Kubernetes RBAC static Analysis & visualisation tool
+  url: https://github.com/appvia/krane
+
+- topic: Flaco
+  title: The Falco Project - Cloud-Native runtime security
+  url: https://falco.org/
+
+- topic: Clair
+  title: Vulnerability Static Analysis for Containers
+  url: https://github.com/quay/clair
+

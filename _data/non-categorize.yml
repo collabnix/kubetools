@@ -1,0 +1,39 @@
+- topic: Rudr
+  title: A Kubernetes implementation of the Open Application Model specification
+  url: https://github.com/oam-dev/rudr
+
+- topic: Keel
+  title: Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
+  url: https://keel.sh
+
+- topic: Cabin, the mobile app for Kubernetes
+  title: The Mobile Dashboard for Kubernetes
+  url: https://github.com/bitnami-labs/cabin
+
+- topic: Funktion
+  title: CLI tool for working with funktion
+  url: https://github.com/funktionio/funktion
+
+- topic: Alterant
+  title: A simple Kubernetes configuration modifier
+  url: https://github.com/cloud66-oss/alterant
+
+- topic: BUCK
+  title: Brigade Universal Controller for Kubernetes
+  url: https://github.com/brigadecore/buck
+
+- topic: kube-fledged
+  title: A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly
+  url: https://github.com/senthilrch/kube-fledged
+
+- topic: Kubecost
+  title: Cross-cloud cost allocation models for workloads running on Kubernetes
+  url: https://github.com/kubecost/cost-model
+
+- topic: kpt
+  title: toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration
+  url: https://github.com/GoogleContainerTools/kpt
+
+- topic: capsule
+  title: Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster
+  url: https://github.com/clastix/capsule

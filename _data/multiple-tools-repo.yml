@@ -1,0 +1,11 @@
+- topic: Chaos Toolkit Kubernetes Support
+  title: Kubernetes driver extension of the Chaos Toolkit probes and actions API
+  url: https://github.com/chaostoolkit/chaostoolkit-kubernetes
+
+- topic: k14s
+  title: Kubernetes Tools that follow Unix philosophy to be simple and composable
+  url: https://github.com/k14s
+
+- topic: Pulumi
+  title: Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com
+  url: https://github.com/pulumi/pulumi

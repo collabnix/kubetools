@@ -1,0 +1,39 @@
+- topic: Bootkube
+  title: bootkube - Launch a self-hosted Kubernetes cluster
+  url: https://github.com/kubernetes-sigs/bootkube)
+
+- topic: kubectx + kubens
+  title: Switch faster between clusters and namespaces in kubectl
+  url: https://github.com/ahmetb/kubectx
+
+- topic: kube-shell
+  title: "Kubernetes shell: An integrated shell for working with the Kubernetes"
+  url: https://github.com/cloudnativelabs/kube-shell
+
+- topic: "kuttle: kubectl wrapper for sshuttle without SSH"
+  title: Kubernetes wrapper for sshuttle
+  url: https://github.com/kayrus/kuttle
+
+- topic: kubectl sudo
+  title: Run kubernetes commands with the security privileges of another user
+  url: https://github.com/postfinance/kubectl-sudo
+
+- topic: K9s
+  title: Kubernetes CLI To Manage Your Clusters In Style!
+  url: https://github.com/derailed/k9s)
+
+- topic: Ktunnel
+  title: A cli that exposes your local resources to kubernetes
+  url: https://github.com/omrikiei/ktunnel?utm_sq=g93l33gmsu
+
+- topic: KubeOperator
+  title: Run kubectl command in Web Browser. https://kubeoperator.io/
+  url: https://github.com/KubeOperator/webkubectl
+
+- topic: Vimkubectl
+  title: Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph
+  url: https://github.com/rottencandy/vimkubectl
+
+- topic: KubeHelper
+  title: KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
+  url: https://github.com/KubeHelper/kubehelper
