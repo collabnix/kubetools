@@ -229,6 +229,34 @@ velero - [Backup and migrate Kubernetes applications and their persistent volume
 Vitess - [Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)<br>
 kaDalu - [A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background](https://github.com/kadalu/kadalu)<br>
 
+## Hands on Labs
+
+<div class="hands-on-labs">
+  {% for item in site.data.hands-on-labs %}
+    <div class="lab">
+      <img src="{{item.image}}" alt="{{ite.title}}" />
+      <h4>{{item.title}}</h4>
+      <a href="{{item.url}}" target="_blank">
+        <button>Do Hands On</button>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="lab-cards">
+  {% for item in site.data.hands-on-labs %}
+    <div class="lab">
+      <h4>{{item.title}}</h4>
+      <div>
+        <img src="{{item.image}}" alt="{{ite.title}}" />
+      </div>
+      <a href="{{item.url}}" target="_blank">
+        <button>Do Hands On</button>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
 ## Multiple Tools Repo
 
 Chaos Toolkit Kubernetes Support - [Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)<br>
