@@ -1,0 +1,52 @@
+- topic: HybridK8s Droid
+  title: Intelligence foor your favourite Delivery Platform
+  url: https://hybridk8s.tech)
+
+- topic: Devtron
+  title: Software Delivery Workflow for Kubernetes
+  url: https://github.com/devtron-labs/devtron)
+
+- topic: Skaffold
+  title: Easy and Repeatable Kubernetes Development
+  url: https://github.com/GoogleContainerTools/skaffold)
+
+- topic: Apollo
+  title: Apollo - The logz.io continuous deployment solution over kubernetes
+  url: https://github.com/logzio/apollo
+
+- topic: Helm Cabin
+  title: Web UI that visualizes Helm releases in a Kubernetes cluster
+  url: https://github.com/Nick-Triller/helm-cabin
+
+- topic: flagger
+  title: Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+  url: https://github.com/weaveworks/flagger
+
+- topic: Kubeform
+  title: Kubernetes CRDs for Terraform providers https://kubeform.com
+  url: https://github.com/kubeform/kubeform
+
+- topic: Spinnaker
+  title: Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. http://www.spinnaker.io/
+  url: https://github.com/spinnaker/spinnaker
+
+- topic: werf
+  title: GitOps tool to deliver apps to Kubernetes and integrate this process with GitLab and other CI tools
+  url: https://github.com/werf/werf
+
+- topic: Flux
+  title: GitOps Kubernetes operator
+  url: https://github.com/fluxcd/flux
+
+- topic: Argo CD
+  title: Declarative continuous deployment for Kubernetes
+  url: https://github.com/argoproj/argo-cd
+  lab: https://cloudyuga.guru/hands_on_lab/jenkins-argo
+
+- topic: Tekton
+  title: A cloud native continuous integration and delivery (CI/CD) solution
+  url: https://github.com/tektoncd/pipeline
+
+- topic: Jenkins X
+  title: Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
+  url: https://github.com/jenkins-x/jx

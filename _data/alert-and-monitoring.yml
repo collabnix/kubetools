@@ -1,0 +1,37 @@
+
+- topic: Thanos
+  title: Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project. https://thanos.io
+  url: https://github.com/thanos-io/thanos
+
+- topic: Prometheus
+  title: The Prometheus monitoring system and time series database.
+  url: https://github.com/prometheus/prometheus
+
+- topic: Grafana
+  title: The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+  url: https://github.com/grafana/grafana
+
+- topic: Kubetail
+  title: Bash script to tail Kubernetes logs from multiple pods at the same time
+  url: https://github.com/johanhaleby/kubetail
+
+- topic: Searchlight
+  title: Alerts for Kubernetes
+  url: https://github.com/searchlight/searchlight
+
+- topic: linkerd2 Monitoring Mixin for Grafana
+  title: Grafana dashboards for linkerd2 monitoring and can work in standalone (default) or in multi cluster setup
+  url: https://github.com/andrew-waters/linkerd2-mixin
+
+- topic: kuberhaus
+  title: Kubernetes resource dashboard with node/pod layout and resource requests
+  url: https://github.com/stevelacy/kuberhaus
+
+- topic: Kubernetes Job/CronJob Notifier
+  title: This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success
+  url: https://github.com/sukeesh/k8s-job-notify
+
+- topic: Argus
+  title: This tool monitors changes in the filesystem on specified paths
+  url: https://clustergarage.io/argus/docs/overview
+

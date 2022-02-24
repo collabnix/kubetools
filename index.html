@@ -1,0 +1,269 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
+<h1>{{site.description}}</h1>
+
+<p>
+  <img
+    src="https://img.shields.io/github/stars/collabnix/kubetools"
+    alt="stars"
+  />
+
+  <img
+    src="https://img.shields.io/github/forks/collabnix/kubetools"
+    alt="forks"
+  />
+
+  <img
+    src="https://img.shields.io/github/issues/collabnix/kubetools"
+    alt="issues"
+  />
+
+  <img
+    src="https://img.shields.io/twitter/follow/kubetools?style=social"
+    alt="twitter"
+  />
+</p>
+<p>
+  <img
+    src="https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg"
+    alt="{{site.title}}"
+  />
+</p>
+
+<p>
+  There are more than 200+ Kubernetes Certified Service Providers and tons of
+  distributions. Choosing a right distribution can be a daunting task. Kubetools
+  is built with a purpose. It is contributed and managed by
+  <a href="https://collabnix.com">Collabnix community</a> to target the most
+  popular tools and technique and coming up with the best practices around these
+  tools.
+</p>
+<p>
+  Currently, we are maintaining a database of 300+ Kubernetes tools but there is
+  a plan to take it to next step and help you pick up the most popular tool for
+  your infrastructure.
+</p>
+<p>
+  Have Questions? Join us over
+  <a href="https://launchpass.com/collabnix">Slack</a> and get chance to be a
+  part of 5500+ DevOps enthusiasts.
+</p>
+<p>
+  Want to contribute? Click
+  <a href="https://github.com/collabnix/kubetools/pulls">here</a> and get your
+  favorite tool added.
+</p>
+
+<h2>Cluster Management</h2>
+{% for item in site.data.cluster-management %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="data.cluster-management" %}
+
+<h2>Cluster with Core CLI tools</h2>
+{% for item in site.data.cluster-with-cli-tools %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="cluster-with-cli-tools" %}
+
+<h2>Alert and Monitoring</h2>
+{% for item in site.data.alert-and-monitoring %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="alert-and-monitoring" %}
+
+<h2>Logging and Tracing</h2>
+{% for item in site.data.logging-and-tracing %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="logging-and-tracing" %}
+
+<h2>Troubleshooting</h2>
+{% for item in site.data.troubleshooting %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="troubleshooting" %}
+
+<h2>Developement Tools/Kit</h2>
+{% for item in site.data.development-tools-kit %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="development-tools-kit" %}
+
+<h2>Alternative Tools for Developement</h2>
+{% for item in site.data.alternative-tools-for-development %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="" %}
+
+<h2>CI/CD integration Tools</h2>
+{% for item in site.data.ci-cd-integration-tools %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="ci-cd-integration-tools" %}
+
+<h2>Security Tools</h2>
+{% for item in site.data.security-tools %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="security-tools" %}
+
+<h2>Network Policies</h2>
+{% for item in site.data.network-policies %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="network-policies" %}
+
+<h2>Testing Tools</h2>
+{% for item in site.data.network-policies %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="network-policies" %}
+
+<h2>Service Mesh</h2>
+{% for item in site.data.service-mesh %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="service-mesh" %}
+
+<h2>Observability</h2>
+{% for item in site.data.observability-kubespy %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="observability-kubespy" %}
+
+<h2>Machine Learning/Deep Learning</h2>
+{% for item in site.data.machine-deep-learning %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="machine-deep-learning" %}
+
+<h2>Compute Edge Tools</h2>
+{% for item in site.data.compute-edge-tools %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="compute-edge-tools" %}
+
+<h2>Kubernetes Tools for Specific Cloud</h2>
+{% for item in site.data.kubernetes-tools-for-specific-cloud %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="kubernetes-tools-for-specific-cloud" %}
+
+<h2>Storage Providers</h2>
+{% for item in site.data.storage-providers %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="storage-providers" %}
+
+<h2>Multiple Tools Repo</h2>
+{% for item in site.data.multiple-tools-repo %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="multiple-tools-repo" %}
+
+<h2>Non-Categorize</h2>
+{% for item in site.data.non-categorize %}
+{% assign topic = item.topic %}
+{% assign title = item.title %}
+{% assign url = item.url %}
+{% assign lab = item.lab %}
+{% include link.html topic=topic title=title url=url lab=lab  %}
+{% endfor %}
+{% include edit.html url="non-categorize" %}
+
+<h2>Maintainers</h2>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/apurvabhandari-linux/"
+      >Apurva Bhandari</a
+    >
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/ajeetsraina">Ajeet Singh Raina</a>
+  </li>
+</ul>
+
+<p>Last Updated: 4 Oct, 2021</p>
+
+<h2>LICENSE</h2>
+<p>
+  <a href="./LICENSE">Apache License 2.0</a>
+</p>
