@@ -8,12 +8,11 @@
 
 ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
 
-There are more than 200+ Kubernetes Certified Service Providers and tons of distributions. Choosing a right distribution can be a daunting task. Kubetools is built with a purpose. It is contributed and managed by [Collabnix community](https://collabnix.com) to target the most popular tools and technique and coming up with the best practices around these tools. 
+There are more than 200+ [Kubernetes Certified Service Providers](https://www.cncf.io/certification/kcsp/) and [tons of Kubernetes Certified distributions](https://kubernetes.io/partners/). Choosing a right distribution can be a daunting task. Kubetools is built with a purpose to build a curated list of popular Kubernetes tools. It is actively maintained by [Collabnix Slack ommunity](https://collabnix.com).  
 
-Currently, we are maintaining a database of 300+ Kubernetes tools but there is a plan to take it to next step and help you pick up the most popular tool for your infrastructure.
+Follow [the Kubetools Twitter account](https://twitter.com/kubetools) for updates on new list additions.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 5500+ DevOps enthusiasts.<br>
-Want to contribute? Click [here](https://github.com/collabnix/kubetools/pulls) and get your favorite tool added.
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6400+ DevOps enthusiasts.<br>
 
 
 ## Cluster Management
