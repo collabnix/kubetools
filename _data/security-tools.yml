@@ -9,6 +9,7 @@
 - topic: Kyverno
   title: Kubernetes Native Policy Management https://kyverno.io
   url: https://github.com/nirmata/kyverno
+  lab: https://cloudyuga.guru/hands_on_lab/kyverno-introduction
 
 - topic: kiosk
   title: kiosk office Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
