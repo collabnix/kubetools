@@ -10,9 +10,9 @@
 
 [Check out all tools](https://kubetools.collabnix.com/)
 
-There are more than 200+ [Kubernetes Certified Service Providers](https://www.cncf.io/certification/kcsp/) and [tons of Kubernetes Certified distributions](https://kubernetes.io/partners/). Choosing a right distribution can be a daunting task. Kubetools is built with a purpose to build a curated list of popular Kubernetes tools. It is actively maintained by [Collabnix Slack ommunity](https://collabnix.com).  
+There are more than 200+ [Kubernetes Certified Service Providers](https://www.cncf.io/certification/kcsp/) and [tons of Kubernetes Certified distributions](https://kubernetes.io/partners/). Choosing a right distribution can be a daunting task. Kubetools is built with a purpose to build a curated list of popular Kubernetes tools. It is actively maintained by Collabnix Slack [Community](https://collabnix.com)  
 
-Follow [the Kubetools Twitter account](https://twitter.com/kubetools) for updates on new list additions.
+Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for the latest entries.
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6400+ DevOps enthusiasts.<br>
 
