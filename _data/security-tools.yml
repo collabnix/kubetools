@@ -67,7 +67,7 @@
   title: Kubernetes RBAC static Analysis & visualisation tool
   url: https://github.com/appvia/krane
 
-- topic: Flaco
+- topic: Falco
   title: The Falco Project - Cloud-Native runtime security
   url: https://falco.org/
 
