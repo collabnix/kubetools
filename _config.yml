@@ -21,7 +21,7 @@
 title: Kubetools
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Kubetools - Curated List of Kubernetes Tools
+  Kubetools - A Curated List of Kubernetes Tools
 baseurl: "/kubetools" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kubetools
