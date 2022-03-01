@@ -24,4 +24,4 @@ Follow us over [Twitter](https://twitter.com/kubetools) to learn more about thes
 - [What are Kubernetes Replicasets? – KubeLabs Glossary](https://collabnix.com/what-are-kubernetes-replicasets-kubelabs-glossary/)
 - [What is Kubernetes Scheduler and why do you need it? – KubeLabs Glossary](https://collabnix.com/what-is-kubernetes-scheduler-and-why-do-you-need-it-kubelabs-glossary/)
 - [Running Automated Tasks with a CronJob over Kubernetes running on Docker Desktop 4.1.1](https://collabnix.com/running-automated-tasks-with-a-cronjob-over-kubernetes-running-on-docker-desktop-4-1-1/)
-- 
+
