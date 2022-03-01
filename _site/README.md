@@ -23,5 +23,4 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 Last Updated: 1 March, 2022
 
-## LICENSE 
-[Apache License 2.0](./LICENSE)
+
