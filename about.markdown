@@ -14,7 +14,7 @@ Kubetools is built with a purpose to solve this pain. Here's a curated list of t
 Follow us over [Twitter](https://twitter.com/kubetools) to learn more about these tools.
 
 
-## Recommended Blogs
+## Further Reading
 
 - [Top Kubernetes Tools You Need for 2022 – Popeye](https://collabnix.com/top-10-kubernetes-tools-you-need-for-2021/)
 - [Top Kubernetes Tools You Need for 2022- Devtron](https://collabnix.com/top-10-kubernetes-tool-you-need-for-2021-devtron/)
