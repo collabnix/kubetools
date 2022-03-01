@@ -23,5 +23,3 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 Last Updated: 1 March, 2022
 
-## LICENSE 
-[MIT](./LICENSE)
