@@ -21,7 +21,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 4 Oct, 2021
+Last Updated: 1 March, 2022
 
 ## LICENSE 
-[Apache License 2.0](./LICENSE)
+[MIT](./LICENSE)
