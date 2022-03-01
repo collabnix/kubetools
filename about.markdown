@@ -10,7 +10,7 @@ As enterprises accelerate digital transformation and adopt the Kubernetes ecosys
 
 Based on the survey conducted among 357 qualified software developers and IT professionals, you will be surprised to know that almost 96% survey respondents reported difficulties selecting a Kubernetes distribution. Interestingly, Lack of internal experience and expertise remains the biggest challenge when making the choice (55%). 
 
-Kubetools is built with a purpose. Here's a curated list of top 200 Kubernetes tools that are voted and contributed by the community members.
+Kubetools is built with a purpose to solve this pain. Here's a curated list of top 200 Kubernetes tools that are voted and contributed by the community members.
 Follow us over [Twitter](https://twitter.com/kubetools) to learn more about these tools.
 
 
