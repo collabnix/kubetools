@@ -38,3 +38,7 @@
 - topic: APISIX
   title: Apache APISIX is a dynamic, real-time, high-performance API gateway.
   url: https://github.com/apache/apisix
+  
+- topic: Contour
+  title: High performance ingress controller for Kubernetes
+  url: https://projectcontour.io
