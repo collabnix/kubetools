@@ -1,6 +1,6 @@
 - topic: Bootkube
   title: bootkube - Launch a self-hosted Kubernetes cluster
-  url: https://github.com/kubernetes-sigs/bootkube)
+  url: https://github.com/kubernetes-sigs/bootkube
 
 - topic: kubectx + kubens
   title: Switch faster between clusters and namespaces in kubectl
