@@ -1,6 +1,6 @@
 - topic: Bootkube
   title: bootkube - Launch a self-hosted Kubernetes cluster
-  url: https://github.com/kubernetes-sigs/bootkube)
+  url: https://github.com/kubernetes-sigs/bootkube
 
 - topic: kubectx + kubens
   title: Switch faster between clusters and namespaces in kubectl
@@ -20,11 +20,11 @@
 
 - topic: K9s
   title: Kubernetes CLI To Manage Your Clusters In Style!
-  url: https://github.com/derailed/k9s)
+  url: https://github.com/derailed/k9s
 
 - topic: Ktunnel
   title: A cli that exposes your local resources to kubernetes
-  url: https://github.com/omrikiei/ktunnel?utm_sq=g93l33gmsu
+  url: https://github.com/omrikiei/ktunnel
 
 - topic: KubeOperator
   title: Run kubectl command in Web Browser. https://kubeoperator.io/
