@@ -1,6 +1,6 @@
 - topic: HybridK8s Droid
   title: Intelligence foor your favourite Delivery Platform
-  url: https://hybridk8s.tech)
+  url: https://hybridk8s.tech
 
 - topic: Devtron
   title: Software Delivery Workflow for Kubernetes
@@ -9,7 +9,7 @@
 
 - topic: Skaffold
   title: Easy and Repeatable Kubernetes Development
-  url: https://github.com/GoogleContainerTools/skaffold)
+  url: https://github.com/GoogleContainerTools/skaffold
 
 - topic: Apollo
   title: Apollo - The logz.io continuous deployment solution over kubernetes
