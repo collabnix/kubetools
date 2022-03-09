@@ -8,7 +8,7 @@
 
 ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
 
-[Check out all tools](https://kubetools.collabnix.com/)
+[Click Here to access 300+ Kubernetes Tools](https://kubetools.collabnix.com/)
 
 There are more than 200+ [Kubernetes Certified Service Providers](https://www.cncf.io/certification/kcsp/) and [tons of Kubernetes Certified distributions](https://kubernetes.io/partners/). Choosing a right distribution can be a daunting task. Kubetools is built with a purpose to build a curated list of popular Kubernetes tools. It is actively maintained by [Collabnix Slack Community](https://collabnix.com).  
 
