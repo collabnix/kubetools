@@ -26,7 +26,7 @@
   title: Java annotation processors for Kubernetes
   url: https://github.com/dekorateio/dekorate
 
-- topic: Lens IDE [The Kubernetes IDE
+- topic: Lens IDE
   url: https://k8slens.dev/
 
 - topic: Kosko
