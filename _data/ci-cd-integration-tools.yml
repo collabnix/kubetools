@@ -4,7 +4,7 @@
 
 - topic: Devtron
   title: Software Delivery Workflow for Kubernetes
-  url: https://github.com/devtron-labs/devtron)
+  url: https://github.com/devtron-labs/devtron
   lab: https://cloudyuga.guru/hands_on_lab/devtron-introduction
 
 - topic: Skaffold
