@@ -155,14 +155,14 @@ Follow the Kubetools Twitter account for the latest entries.
 {% include edit.html url="network-policies" %}
 
 <h2>Testing Tools</h2>
-{% for item in site.data.network-policies %}
+{% for item in site.data.testing-tools %}
 {% assign topic = item.topic %}
 {% assign title = item.title %}
 {% assign url = item.url %}
 {% assign lab = item.lab %}
 {% include link.html topic=topic title=title url=url lab=lab  %}
 {% endfor %}
-{% include edit.html url="network-policies" %}
+{% include edit.html url="testing-tools" %}
 
 <h2>Service Mesh</h2>
 {% for item in site.data.service-mesh %}
