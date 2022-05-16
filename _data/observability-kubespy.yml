@@ -59,5 +59,5 @@
   url: https://github.com/opsgenie/kubernetes-event-exporter
 
 - topic: Kubevious
-  title: Kubevious provides a usable and highly graphical interface for Kubernetes
-  url: https://github.com/kubevious/kubevious
+  title: Kubevious is an app-centric assurance, validation, and introspection platform for Kubernetes
+  url: https://kubevious.io
