@@ -29,3 +29,8 @@
 - topic: kpexec
   title: kpexec is a kubernetes cli that runs commands in a container with high privilegesd
   url: https://github.com/ssup2/kpexec
+  
+  
+ - topic: Koolkits
+   title: 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
+   url: https://github.com/lightrun-platform/koolkits
