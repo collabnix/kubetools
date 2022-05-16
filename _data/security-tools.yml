@@ -5,6 +5,10 @@
 - topic: klum
   title: Kubernetes Lazy User Manager
   url: https://github.com/ibuildthecloud/klum
+  
+- topic: kube2iam
+  title: IAM credentials to containers running inside a kubernetes cluster based on annotations.
+  url: https://github.com/jtblin/kube2iam
 
 - topic: Kyverno
   title: Kubernetes Native Policy Management https://kyverno.io
