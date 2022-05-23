@@ -28,7 +28,7 @@ twitter_username: kubetools
 github_username: collabnix
 google_analytics: UA-221020677-1
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 # Exclude from processing.
