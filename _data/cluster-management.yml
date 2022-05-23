@@ -1,5 +1,5 @@
 - topic: kops
-  title: Production Grade K8s Installation, Upgrades, and Management ![GitHub Stars](https://img.shields.io/github/stars/kubernetes/kops?style=social)
+  title: Production Grade K8s Installation, Upgrades, and Management 
   url: https://github.com/kubernetes/kops 
 
 - topic: silver-surfer
