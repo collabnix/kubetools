@@ -4,6 +4,7 @@
 ![forks](https://img.shields.io/github/forks/collabnix/kubetools)
 ![issues](https://img.shields.io/github/issues/collabnix/kubetools)
 ![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/collabnix/kubetools)
 
 
 ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
