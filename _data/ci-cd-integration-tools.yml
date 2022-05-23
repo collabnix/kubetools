@@ -42,7 +42,7 @@
 - topic: Argo CD
   title: Declarative continuous deployment for Kubernetes
   url: https://github.com/argoproj/argo-cd
-  lab: https://cloudyuga.guru/hands_on_lab/jenkins-argo
+  
 
 - topic: Tekton
   title: A cloud native continuous integration and delivery (CI/CD) solution
