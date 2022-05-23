@@ -15,7 +15,7 @@
   url: https://github.com/derailed/k9s
 
 - topic: Kubernetes CLI Plugin - Doctor
-  title: kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)d
+  title: kubectl cluster triage plugin for k8s  🏥 (brew doctor equivalent)d
   url: https://github.com/emirozer/kubectl-doctor
 
 - topic: Knative Inspect
