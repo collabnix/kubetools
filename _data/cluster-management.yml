@@ -46,7 +46,7 @@
 - topic: Sealed Secrets
   title: A Kubernetes controller and tool for one-way encrypted Secrets
   url: https://github.com/bitnami-labs/sealed-secrets
-  lab: https://cloudyuga.guru/hands_on_lab/sealedsecrets
+  
 
 - topic: OpenKruise/Kruise
   title: Automate application workloads management on Kubernetes https://openkruise.io
