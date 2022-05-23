@@ -15,7 +15,7 @@
   url: https://github.com/derailed/k9s
 
 - topic: Kubernetes CLI Plugin - Doctor
-  title: kubectl cluster triage plugin for k8s  🏥 (brew doctor equivalent)d
+  title: kubectl cluster triage plugin for k8s - 🏥 (brew doctor equivalent)d
   url: https://github.com/emirozer/kubectl-doctor
 
 - topic: Knative Inspect
@@ -31,6 +31,6 @@
   url: https://github.com/ssup2/kpexec
   
   
- - topic: Koolkits
-   title: 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
-   url: https://github.com/lightrun-platform/koolkits
+- topic: Koolkits
+  title: 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.
+  url: https://github.com/lightrun-platform/koolkits
