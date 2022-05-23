@@ -1,6 +1,6 @@
 - topic: kops
-  title: Production Grade K8s Installation, Upgrades, and Management
-  url: https://github.com/kubernetes/kops
+  title: Production Grade K8s Installation, Upgrades, and Management ![GitHub Stars](https://img.shields.io/github/stars/kubernetes/kops?style=social)
+  url: https://github.com/kubernetes/kops 
 
 - topic: silver-surfer
   title: Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions
