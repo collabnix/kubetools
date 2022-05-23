@@ -1,11 +1,8 @@
 - title: "Kubernetes: Deployments vs StatefulSets vs DaemonSets"
-  url: https://cloudyuga.guru/hands_on_lab/Deployments-vs-StatefulSets-vs-DaemonSets
   image: https://user-images.githubusercontent.com/8033084/155093325-f1301bb3-5906-4914-94f7-5cf8dbf048f6.png
 
 - title: "Mounting Volume with RWX mode in KIND Cluster using NFS"
-  url: https://cloudyuga.guru/hands_on_lab/nfs-kind
   image: https://user-images.githubusercontent.com/8033084/155093334-0d4668de-fc13-4bd9-aebe-207f58703bfb.png
 
 - title: "CI/CD with Jenkins & ArgoCD"
-  url: https://cloudyuga.guru/hands_on_lab/jenkins-argo
   image: https://user-images.githubusercontent.com/8033084/155093650-9d9edd87-b146-419c-9f50-dc953ea62e92.svg
