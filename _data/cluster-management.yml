@@ -21,7 +21,7 @@
 - topic: kind
   title: Kubernetes IN Docker - local clusters for testing Kubernetes
   url: https://github.com/kubernetes-sigs/kind
-  lab: https://cloudyuga.guru/hands_on_lab/kind-k8s
+  
 
 - topic: Clusterman
   title: Cluster Autoscaler for Kubernetes and Mesos
