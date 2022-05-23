@@ -3,9 +3,9 @@
 ![stars](https://img.shields.io/github/stars/collabnix/kubetools)
 ![forks](https://img.shields.io/github/forks/collabnix/kubetools)
 ![issues](https://img.shields.io/github/issues/collabnix/kubetools)
-![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.kubetools)
 ![GitHub contributors](https://img.shields.io/github/contributors/collabnix/kubetools)
+![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
 
 
 ![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
