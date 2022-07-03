@@ -19,6 +19,7 @@
 - topic: Searchlight
   title: Alerts for Kubernetes
   url: https://github.com/searchlight/searchlight
+  
 
 - topic: linkerd2 Monitoring Mixin for Grafana
   title: Grafana dashboards for linkerd2 monitoring and can work in standalone (default) or in multi cluster setup
@@ -36,3 +37,6 @@
   title: This tool monitors changes in the filesystem on specified paths
   url: https://clustergarage.io/argus/docs/overview
 
+- topic: Kube-Scout
+  title: Scout for alarming issues across your Kubernetes clusters
+  url: https://github.com/ReallyLiri/kubescout
