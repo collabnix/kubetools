@@ -23,5 +23,5 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 11 May, 2022
+Last Updated: 4 Jul, 2022
 
