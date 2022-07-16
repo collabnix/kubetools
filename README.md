@@ -163,6 +163,8 @@ Telepresence - [Fast, local development for Kubernetes and Openshift microservic
 
 Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kubeshop/monokle/)
 
+KuberEz - [Graphical modeling tool for Kubernetes manifest](https://github.com/uengine-oss/kuber-ez)
+
 
 ## Alternative Tools for Developement
 
