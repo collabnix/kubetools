@@ -309,6 +309,8 @@ APISIX - [Apache APISIX is a dynamic, real-time, high-performance API gateway.](
 
 Contour - [High performance ingress controller for Kubernetes](https://projectcontour.io/)
 
+Kusk Gateway - [OpenAPI-driven Ingress Controller for Kubernetes](https://kusk.io/kusk-gateway)
+
 
 ## Observability
 

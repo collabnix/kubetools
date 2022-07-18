@@ -42,3 +42,7 @@
 - topic: Contour
   title: High performance ingress controller for Kubernetes
   url: https://projectcontour.io
+
+- topic: Kusk gateway
+  title: OpenAPI-driven Ingress Controller for Kubernetes
+  url: https://kusk.io/kusk-gateway
