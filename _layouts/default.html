@@ -23,13 +23,13 @@
    
 
     <header class="page-header" role="banner">
-      <center><a href="http://kubetools.collabnix.com"><img src="https://raw.githubusercontent.com/collabnix/dockerlabs/master/images/moby_large.png"></a></center>
+      <center><a href="http://dockerlabs.collabnix.com"><img src="https://raw.githubusercontent.com/collabnix/dockerlabs/master/images/moby_large.png"></a></center>
       <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Collabnix/kubetools" data-size="large" data-show-count="true" aria-label="Star Collabnix/kubetools on GitHub">Star</a>
+<a class="github-button" href="https://github.com/Collabnix/dockertools" data-size="large" data-show-count="true" aria-label="Star Collabnix/dockertools on GitHub">Star</a>
       <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Collabnix/dockertools/fork" data-size="large" data-show-count="true" aria-label="Fork Collabnix/kubetools on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/Collabnix/dockertools/fork" data-size="large" data-show-count="true" aria-label="Fork Collabnix/dockertools on GitHub">Fork</a>
      <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/collabnix/kubetools/subscription" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch collabnix/dockertools on GitHub">Watch</a>
+<a class="github-button" href="https://github.com/collabnix/dockertools/subscription" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch collabnix/dockertools on GitHub">Watch</a>
       <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/collabnix" data-size="large" data-show-count="true" aria-label="Follow @collabnix on GitHub">Follow @collabnix</a>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -41,9 +41,11 @@
         <a href="https://launchpass.com/collabnix" class="btn">Join Slack</a>
      {% endif %}
       {% if site.show_downloads %}
-        <a href="https://collabnix.com/kubectl-cheatsheet/" class="btn">Kubectl Cheatsheet</a>
+        <a href="https://collabnix.com/docker-cheatsheet/" class="btn">Docker Cheatsheet</a>
      {% endif %}
-        
+        {% if site.show_downloads %}
+        <a href="https://collabnix.com/docker-compose-cheatsheet/" class="btn">Docker Compose Cheatsheet</a>
+     {% endif %}
           
     </header>
 
@@ -55,8 +57,8 @@
       <footer class="site-footer">
   
      
-              <h3> Practice Kubernertes Tutorial </h3>
-        <button> <a href=" https://kubelabs.collabnix.com"> Docker Labs </a></button>
+              <h3> Practice Docker Tutorial </h3>
+        <button> <a href=" https://dockerlabs.collabnix.com"> Docker Labs </a></button>
     
         <div class="hackr-widget" data-tutorial="dockerlabs-docker-and-kubernetes" data-type="1"></div><script src="https://hackr.io/widget.js?v=1.0"></script>
         {% if site.github.is_project_page %}
