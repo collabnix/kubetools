@@ -8,7 +8,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
 
 
-![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/img/kubetool.jpg) 
+![Image](https://raw.githubusercontent.com/collabnix/kubetools/master/kubetools.jpg) 
 
 
 
