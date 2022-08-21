@@ -1,0 +1,19 @@
+- topic: Jaeger
+  title: CNCF Jaeger, a Distributed Tracing Platform
+  url: https://github.com/jaegertracing/jaeger
+
+- topic: Kiali
+  title: Kiali project, observability for the Istio service mesh
+  url: https://github.com/kiali/kiali
+
+- topic: ELK
+  title: Elasticsearch, Logstash, Kibana
+  url: https://github.com/elastic
+
+- topic: fluentbit
+  title: Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX
+  url: https://github.com/fluent/fluent-bit
+
+- topic: Loki
+  title: Like Prometheus, but for logs
+  url: https://github.com/grafana/loki

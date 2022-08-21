@@ -1,0 +1,19 @@
+<p class="tools">
+  {{include.topic}} -
+  <a
+    href="{{include.url}}"
+    title="{{include.topic}} - {{include.title}}"
+    target="_blank"
+    >{{include.title}}</a
+  >
+  {% if include.lab %}
+  <a
+    class="lab"
+    href="{{include.lab}}"
+    title="{{include.title}}"
+    target="_blank"
+  >
+    <button>Try Hands On</button>
+  </a>
+  {% endif %}
+</p>

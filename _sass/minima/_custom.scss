@@ -1,0 +1,32 @@
+h2 {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+p.tools {
+  margin-bottom: 0;
+}
+
+.lab {
+  float: right;
+  button {
+    padding: 0.25rem 0.5rem;
+    background-color: #0a5;
+    border: 1px solid #0a5;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    &:hover {
+      background-color: rgb(2, 133, 67);
+      border-color: rgb(2, 133, 67);
+    }
+  }
+}
+
+.edit {
+  display: flex;
+  svg {
+    margin-left: auto;
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+}

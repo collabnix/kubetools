@@ -1,0 +1,17 @@
+
+- topic: Kubernetes on AWS (kube-aws)
+  title: A command-line tool to declaratively manage Kubernetes clusters on AWS
+  url: https://github.com/kubernetes-incubator/kube-aws
+
+- topic: "Draft: Streamlined Kubernetes Development"
+  title: A tool for developers to create cloud-native applications on Kubernetes
+  url: https://github.com/azure/draft
+
+- topic: helm-ssm
+  title: A low dependency tool for retrieving and injecting secrets from AWS SSM into Helm
+  url: https://github.com/totango/helm-ssm
+
+- topic: Skupper
+  title: Multicloud communication for Kubernetes
+  url: https://skupper.io/
+
