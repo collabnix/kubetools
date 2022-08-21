@@ -1,6 +1,6 @@
-title: Docker Developer Tools
+title: Kubernetes Tools
 description: >- # this means to ignore newlines until "baseurl:"
-  Dockertools - A Curated List of Developers Tools
+  Dockertools - A Curated List of Kubernetes Tools
 show_downloads: true
 twitter_username: collabnix
 github_username: collabnix
@@ -8,10 +8,4 @@ youtube: c/Collabnix
 post_search: true
 google_analytics:
 theme: jekyll-theme-cayman
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
+
