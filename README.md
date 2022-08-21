@@ -432,5 +432,5 @@ capsule - [Capsule helps to implement a multi-tenancy and policy-based environme
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
-Last Updated: 26 Jul, 2022
+
 
