@@ -16,7 +16,7 @@ There are more than 300+ [Kubernetes Certified Service Providers](https://www.cn
 
 Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for updates on new list additions.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 6400+ DevOps enthusiasts.<br>
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7200+ DevOps enthusiasts.<br>
 
 ## Cluster Management
 
