@@ -58,6 +58,8 @@ Portainer - [Portainer inside a Kubernetes environment](https://github.com/porta
 
 Gardener - [Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service](https://gardener.cloud/)
 
+xlskubectl - [xlskubectl — a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
+
 
 ## Cluster with Core CLI tools
 
