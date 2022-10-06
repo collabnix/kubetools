@@ -428,6 +428,8 @@ kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes R
 
 capsule - [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster](https://github.com/clastix/capsule)
 
+KubeSlice - [KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices](https://github.com/kubeslice)
+
 
 ## Maintainer
 
