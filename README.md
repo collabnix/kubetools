@@ -348,6 +348,7 @@ kubernetes-event-exporter - [Export Kubernetes events to multiple destinations w
 
 Kubevious - [Kubevious is an app-centric assurance, validation, and introspection platform for Kubernetes](https://kubevious.io/)
 
+OpenTelemetry - [High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)
 
 ## Machine Learning/Deep Learning
 
