@@ -351,6 +351,8 @@ Kubevious - [Kubevious is an app-centric assurance, validation, and introspectio
 
 OpenTelemetry - [High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)
 
+Grafana Tempo - [Grafana Tempo is a high volume, minimal dependency distributed tracing backend](https://github.com/grafana/tempo)
+
 ## Machine Learning/Deep Learning
 
 Kubeflow - [Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)
