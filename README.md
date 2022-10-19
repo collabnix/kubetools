@@ -180,6 +180,8 @@ kind - [Kubernetes IN Docker - local clusters for testing Kubernetes https://kin
 
 k3d - [k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker.d](https://k3d.io/)
 
+Systemk: virtual kubelet for systemd - [Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units](https://github.com/virtual-kubelet/systemk)
+
 
 ## CI/CD integration Tools
 
