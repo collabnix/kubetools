@@ -167,6 +167,8 @@ Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kube
 
 KuberEz - [Graphical modeling tool for Kubernetes manifest](https://github.com/uengine-oss/kuber-ez)
 
+mirrord - [Run your local process in the context of your cloud cluster](https://github.com/metalbear-co/mirrord)
+
 
 ## Alternative Tools for Developement
 
