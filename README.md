@@ -444,5 +444,12 @@ KubeSlice - [KubeSlice enables Kubernetes pods and services to communicate seaml
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
 
+# Join Discord Channel
+
+
+
+
+[![Title](https://user-images.githubusercontent.com/34368930/198940642-50d0e7f0-c670-4800-b0ea-5b95d56aaf0e.png)](https://discord.gg/ztZpXzjSmF)
+  
 
 
