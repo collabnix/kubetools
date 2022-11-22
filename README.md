@@ -67,6 +67,8 @@ Bootkube - [bootkube - Launch a self-hosted Kubernetes cluster](https://github.c
 
 kubectx + kubens - [Switch faster between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 
+kube-ps1 - [Kubernetes prompt info for Bash and Zsh ](https://github.com/jonmosco/kube-ps1)
+
 kube-shell - [Kubernetes shell: An integrated shell for working with the Kubernetes](https://github.com/cloudnativelabs/kube-shell)
 
 kuttle: kubectl wrapper for sshuttle without SSH - [Kubernetes wrapper for sshuttle](https://github.com/kayrus/kuttle)
