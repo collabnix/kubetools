@@ -217,6 +217,8 @@ Drone - [Drone is a Container-Native, Continuous Delivery Platform](https://gith
 
 ## Security Tools
 
+Kubevious CLI - [Prevent cross-manifest errors and violations of best practicees in YAML files, Helm Charts and Kubernetes clusters](https://github.com/kubevious/cli)
+
 TerraScan - [Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/accurics/terrascan)
 
 klum - [Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)
