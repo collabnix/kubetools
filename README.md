@@ -60,6 +60,7 @@ Gardener - [Deliver fully-managed clusters at scale everywhere with your own Kub
 
 xlskubectl - [xlskubectl — a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
 
+Kubefirst - [Fully-automated OSS delivery & infrastructure management gitops platforms](https://github.com/kubefirst/kubefirst)
 
 ## Cluster with Core CLI tools
 
