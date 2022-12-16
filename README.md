@@ -298,6 +298,7 @@ PowerfulSeald - [A powerful testing tool for Kubernetes clusters](https://github
 
 kube-burnerd - [Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)
 
+Tracetest - [Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)
 
 ## Service Mesh
 
@@ -363,6 +364,8 @@ Kubevious - [Kubevious is an app-centric assurance, validation, and introspectio
 OpenTelemetry - [High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)
 
 Grafana Tempo - [Grafana Tempo is a high volume, minimal dependency distributed tracing backend](https://github.com/grafana/tempo)
+
+Tracetest - [Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)
 
 ## Machine Learning/Deep Learning
 
