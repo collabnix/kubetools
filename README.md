@@ -20,6 +20,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Cluster Management
 
+Monokle - [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)
+
 kops - [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
 
 silver-surfer - [Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions](https://github.com/devtron-labs/silver-surfer)
@@ -122,6 +124,8 @@ Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)
 
 ## Troubleshooting
 
+Monokle - [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)
+
 Kubectl-debug - [Allows you to run a new container with all the troubleshooting tools installed in running pod for debugging purposed](https://github.com/aylei/kubectl-debug)
 
 PowerfulSeal - [A powerful testing tool for Kubernetes clustersd](https://github.com/bloomberg/powerfulseal)
@@ -163,7 +167,7 @@ Kosko - [Organize Kubernetes manifests in JavaScript](https://kosko.dev/)
 
 Telepresence - [Fast, local development for Kubernetes and Openshift microservices](https://www.telepresence.io/)
 
-Monokle - [Desktop UI for managing Kubernetes manifests](https://github.com/kubeshop/monokle/)
+Monokle - [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)
 
 KuberEz - [Graphical modeling tool for Kubernetes manifest](https://github.com/uengine-oss/kuber-ez)
 
