@@ -176,6 +176,7 @@ KuberEz - [Graphical modeling tool for Kubernetes manifest](https://github.com/u
 
 mirrord - [Run your local process in the context of your cloud cluster](https://github.com/metalbear-co/mirrord)
 
+Aptakube - [A modern, lightweight and multi-cluster desktop client for Kubernetes](https://aptakube.com)
 
 ## Alternative Tools for Developement
 
