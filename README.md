@@ -383,7 +383,13 @@ Volcano - [A Kubernetes Native Batch System](https://github.com/volcano-sh/volca
 
 KubeEdge - [Kubernetes Native Edge Computing Framework](https://github.com/kubeedge/kubeedge)
 
-Kubeless - [Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless)
+OpenYurt - [Extending your native Kubernetes to edge](https://github.com/openyurtio/openyurt)
+
+Akri - [A Kubernetes Resource Interface for the Edge](https://github.com/project-akri/akri)
+
+SuperEdge - [An edge-native container management system for edge computing](https://github.com/superedge/superedge)
+
+Keylime - [A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)
 
 
 ## Kubernetes Tools for Specific Cloud
