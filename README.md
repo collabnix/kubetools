@@ -90,6 +90,8 @@ Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/script
 
 KubeHelper - [KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)
 
+kubecolor - [colorizes kubectl output](https://github.com/hidetatz/kubecolor)
+
 
 ## Alert and Monitoring
 
