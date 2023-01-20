@@ -439,7 +439,7 @@ k14s - [Kubernetes Tools that follow Unix philosophy to be simple and composable
 Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com](https://github.com/pulumi/pulumi)
 
 
-## Cost Optimization
+## Cost Optimisation
 
 Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)
 
