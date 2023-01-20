@@ -94,6 +94,8 @@ KubeHelper - [KubeHelper - simplifies many daily Kubernetes cluster tasks throug
 
 kubecolor - [colorizes kubectl output](https://github.com/hidetatz/kubecolor)
 
+Krew - [Krew is the package manager for kubectl plugins](https://github.com/kubernetes-sigs/krew)
+
 
 ## Alert and Monitoring
 
