@@ -178,6 +178,8 @@ mirrord - [Run your local process in the context of your cloud cluster](https://
 
 Aptakube - [A modern, lightweight and multi-cluster desktop client for Kubernetes](https://aptakube.com)
 
+Kubes - [Kubernetes App Deploy Tool: build docker image, compile Kubernetes YAML files, and apply them](https://github.com/boltops-tools/kubes)
+
 ## Alternative Tools for Developement
 
 Minikube - [minikube implements a local Kubernetes clusterd](https://github.com/kubernetes/minikube)
