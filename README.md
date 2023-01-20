@@ -16,7 +16,7 @@ There are more than 300+ [Kubernetes Certified Service Providers](https://www.cn
 
 Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for updates on new list additions.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7200+ DevOps enthusiasts.<br>
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7800+ DevOps enthusiasts.<br>
 
 ## Cluster Management
 
@@ -65,6 +65,8 @@ xlskubectl - [xlskubectl — a spreadsheet to control your Kubernetes cluster](h
 Kubefirst - [Fully-automated OSS delivery & infrastructure management gitops platforms](https://github.com/kubefirst/kubefirst)
 
 Kamaji - [Build and operate Kubernetes at scale with a fraction of operational burden](https://github.com/clastix/kamaji)
+
+kustomizer - [An experimental package manager for distributing Kubernetes configuration as OCI artifacts](https://github.com/stefanprodan/kustomizer)
 
 ## Cluster with Core CLI tools
 
@@ -478,7 +480,3 @@ routernetes - [Use Kubernetes to make a home router!](https://github.com/routern
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
-
-
-
-
