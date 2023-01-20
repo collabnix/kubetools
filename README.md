@@ -125,7 +125,7 @@ fluentbit - [Fast and Lightweight Log processor and forwarder for Linux, BSD and
 Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)
 
 
-## Troubleshooting
+## Troubleshooting / Debugging
 
 Monokle - [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)
 
@@ -145,8 +145,9 @@ Kubeman - [To find information from Kubernetes clusters, and to investigate issu
 
 kpexec - [kpexec is a kubernetes cli that runs commands in a container with high privilegesd](https://github.com/ssup2/kpexec)
 
-Koolkits - [🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.](https://github.com/lightrun-platform/koolkits)
+Koolkits - [🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes](https://github.com/lightrun-platform/koolkits)
 
+kubespy - [pod debugging tool for kubernetes clusters with docker runtimes](https://github.com/huazhihao/kubespy)
 
 ## Developement Tools/Kit
 
