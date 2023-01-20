@@ -98,6 +98,8 @@ Krew - [Krew is the package manager for kubectl plugins](https://github.com/kube
 
 Kueue - [Kueue is a set of APIs and controller for job queueing](https://github.com/kubernetes-sigs/kueue)
 
+fubectl - [Reduces repetitive interactions with kubectl](https://github.com/kubermatic/fubectl)
+
 
 ## Alert and Monitoring
 
