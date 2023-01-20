@@ -96,6 +96,8 @@ kubecolor - [colorizes kubectl output](https://github.com/hidetatz/kubecolor)
 
 Krew - [Krew is the package manager for kubectl plugins](https://github.com/kubernetes-sigs/krew)
 
+Kueue - [Kueue is a set of APIs and controller for job queueing](https://github.com/kubernetes-sigs/kueue)
+
 
 ## Alert and Monitoring
 
