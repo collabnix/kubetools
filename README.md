@@ -225,6 +225,8 @@ Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Envi
 
 Drone - [Drone is a Container-Native, Continuous Delivery Platform](https://github.com/harness/drone)
 
+Helmwave - [Helmwave is helm3-native tool for deploy your Helm Charts](https://github.com/helmwave/helmwave)
+
 ## Security Tools
 
 Kubevious CLI - [Prevent cross-manifest errors and violations of best practicees in YAML files, Helm Charts and Kubernetes clusters](https://github.com/kubevious/cli)
