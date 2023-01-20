@@ -130,6 +130,8 @@ fluentbit - [Fast and Lightweight Log processor and forwarder for Linux, BSD and
 
 Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)
 
+kubectl-mtail - [tail logs from multiple pods matching label selector](https://gitlab.com/grzesuav/kubectl-mtail)
+
 
 ## Troubleshooting / Debugging
 
