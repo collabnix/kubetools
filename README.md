@@ -64,6 +64,8 @@ xlskubectl - [xlskubectl — a spreadsheet to control your Kubernetes cluster](h
 
 Kubefirst - [Fully-automated OSS delivery & infrastructure management gitops platforms](https://github.com/kubefirst/kubefirst)
 
+Kamaji - [Build and operate Kubernetes at scale with a fraction of operational burden](https://github.com/clastix/kamaji)
+
 ## Cluster with Core CLI tools
 
 Bootkube - [bootkube - Launch a self-hosted Kubernetes cluster](https://github.com/kubernetes-sigs/bootkube)
