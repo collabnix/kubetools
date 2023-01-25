@@ -100,6 +100,8 @@ Kueue - [Kueue is a set of APIs and controller for job queueing](https://github.
 
 fubectl - [Reduces repetitive interactions with kubectl](https://github.com/kubermatic/fubectl)
 
+kube-ps1 - [Kubernetes prompt for bash and zsh](https://github.com/jonmosco/kube-ps1)
+
 
 ## Alert and Monitoring
 
