@@ -395,6 +395,8 @@ Tracetest - [Generate end-to-end and integration tests automatically from your O
 
 ## Machine Learning/Deep Learning
 
+Nos  - [nos is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs](https://github.com/nebuly-ai/nos)
+
 Kubeflow - [Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)
 
 Volcano - [A Kubernetes Native Batch System](https://github.com/volcano-sh/volcano)
