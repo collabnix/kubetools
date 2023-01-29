@@ -16,7 +16,7 @@ There are more than 300+ [Kubernetes Certified Service Providers](https://www.cn
 
 Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for updates on new list additions.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7200+ DevOps enthusiasts.<br>
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7800+ DevOps enthusiasts.<br>
 
 ## Cluster Management
 
@@ -64,6 +64,10 @@ xlskubectl - [xlskubectl — a spreadsheet to control your Kubernetes cluster](h
 
 Kubefirst - [Fully-automated OSS delivery & infrastructure management gitops platforms](https://github.com/kubefirst/kubefirst)
 
+Kamaji - [Build and operate Kubernetes at scale with a fraction of operational burden](https://github.com/clastix/kamaji)
+
+kustomizer - [An experimental package manager for distributing Kubernetes configuration as OCI artifacts](https://github.com/stefanprodan/kustomizer)
+
 ## Cluster with Core CLI tools
 
 Bootkube - [bootkube - Launch a self-hosted Kubernetes cluster](https://github.com/kubernetes-sigs/bootkube)
@@ -87,6 +91,16 @@ KubeOperator - [Run kubectl command in Web Browser. https://kubeoperator.io/](ht
 Vimkubectl - [Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)
 
 KubeHelper - [KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)
+
+kubecolor - [colorizes kubectl output](https://github.com/hidetatz/kubecolor)
+
+Krew - [Krew is the package manager for kubectl plugins](https://github.com/kubernetes-sigs/krew)
+
+Kueue - [Kueue is a set of APIs and controller for job queueing](https://github.com/kubernetes-sigs/kueue)
+
+fubectl - [Reduces repetitive interactions with kubectl](https://github.com/kubermatic/fubectl)
+
+kube-ps1 - [Kubernetes prompt for bash and zsh](https://github.com/jonmosco/kube-ps1)
 
 
 ## Alert and Monitoring
@@ -124,8 +138,10 @@ fluentbit - [Fast and Lightweight Log processor and forwarder for Linux, BSD and
 
 Loki - [Like Prometheus, but for logs](https://github.com/grafana/loki)
 
+kubectl-mtail - [tail logs from multiple pods matching label selector](https://gitlab.com/grzesuav/kubectl-mtail)
 
-## Troubleshooting
+
+## Troubleshooting / Debugging
 
 Monokle - [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)
 
@@ -145,8 +161,9 @@ Kubeman - [To find information from Kubernetes clusters, and to investigate issu
 
 kpexec - [kpexec is a kubernetes cli that runs commands in a container with high privilegesd](https://github.com/ssup2/kpexec)
 
-Koolkits - [🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes.](https://github.com/lightrun-platform/koolkits)
+Koolkits - [🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes](https://github.com/lightrun-platform/koolkits)
 
+kubespy - [pod debugging tool for kubernetes clusters with docker runtimes](https://github.com/huazhihao/kubespy)
 
 ## Developement Tools/Kit
 
@@ -177,6 +194,8 @@ KuberEz - [Graphical modeling tool for Kubernetes manifest](https://github.com/u
 mirrord - [Run your local process in the context of your cloud cluster](https://github.com/metalbear-co/mirrord)
 
 Aptakube - [A modern, lightweight and multi-cluster desktop client for Kubernetes](https://aptakube.com)
+
+Kubes - [Kubernetes App Deploy Tool: build docker image, compile Kubernetes YAML files, and apply them](https://github.com/boltops-tools/kubes)
 
 ## Alternative Tools for Developement
 
@@ -222,6 +241,8 @@ Tekton - [A cloud native continuous integration and delivery (CI/CD) solution](h
 Jenkins X - [Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)
 
 Drone - [Drone is a Container-Native, Continuous Delivery Platform](https://github.com/harness/drone)
+
+Helmwave - [Helmwave is helm3-native tool for deploy your Helm Charts](https://github.com/helmwave/helmwave)
 
 ## Security Tools
 
@@ -438,6 +459,11 @@ Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give 
 PerfectScale - [Reduce Kubernetes costs while improving performance and resilience with data-driven intelligence built for continuous optimization](https://www.perfectscale.io)
 
 
+## Cost Optimisation
+
+Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)
+
+
 ## Non-Categorize
 
 Rudr - [A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr)
@@ -454,20 +480,16 @@ BUCK - [Brigade Universal Controller for Kubernetes](https://github.com/brigadec
 
 kube-fledged - [A kubernetes add-on for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly](https://github.com/senthilrch/kube-fledged)
 
-Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)
-
 kpt - [toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration](https://github.com/GoogleContainerTools/kpt)
 
 capsule - [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster](https://github.com/clastix/capsule)
 
 KubeSlice - [KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices](https://github.com/kubeslice)
 
+routernetes - [Use Kubernetes to make a home router!](https://github.com/routernetes/routernetes)
+
 
 ## Maintainer
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
-
-
-
-
