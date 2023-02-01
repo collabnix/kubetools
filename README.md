@@ -462,6 +462,8 @@ Pulumi - [Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give 
 
 Kubecost - [Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)
 
+PerfectScale - [Reduce Kubernetes costs while improving performance and resilience with data-driven intelligence built for continuous optimization](https://www.perfectscale.io)
+
 
 ## Non-Categorize
 
