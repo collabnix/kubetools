@@ -288,6 +288,8 @@ Falco - [The Falco Project - Cloud-Native runtime security](https://falco.org/)
 
 Clair - [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
 
+M9sweeper - [Complete Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)
+
 
 ## Network Policies
 
