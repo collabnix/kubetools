@@ -18,6 +18,15 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7800+ DevOps enthusiasts.<br>
 
+
+
+| Category        | Tool Name       | Description with link           |  GitHub Popularity  |
+| :-------------: | :-------------: |:---------------------:| :------------------:|
+| Cluster Management | Monokle       | [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle) | 3000 |
+| Cluster Management | kops       | [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) | 700 |
+| Cluster Management | silver-surfer       | [Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions](https://github.com/devtron-labs/silver-surfer) |543 |
+
+
 ## Cluster Management
 
 Monokle - [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)
