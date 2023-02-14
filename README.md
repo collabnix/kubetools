@@ -20,7 +20,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 
 ## Cluster Management
-| Sr No        | Tool Name               | Description with link           |  GitHub Popularity  |
+| Sr No        | Tool Name               | Description with URL           |  GitHub Popularity  |
 | :----------: | :---------------------: |:---------------------:| :------------------:|
 | 1 | Monokle             | [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle) | ![Github Stars](https://img.shields.io/github/stars/kubeshop/monokle) |
 | 2 | kops                | [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) | ![Github Stars](https://img.shields.io/github/stars/kubernetes/kops) |
