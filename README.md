@@ -22,9 +22,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Cluster Management
 | Sr No        | Tool Name               | Description with link           |  GitHub Popularity  |
 | :----------: | :---------------------: |:---------------------:| :------------------:|
-| 1 | Monokle             | [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle) | 3000 |
-| 2 | kops                | [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) | 700 |
-| 3 | silver-surfer       | [Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions](https://github.com/devtron-labs/silver-surfer) |543 |
+| 1 | Monokle             | [Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle) | ![Github Stars](https://img.shields.io/github/stars/kubeshop/monokle) |
+| 2 | kops                | [Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) | ![Github Stars](https://img.shields.io/github/stars/kubernetes/kops) |
+| 3 | silver-surfer       | [Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions](https://github.com/devtron-labs/silver-surfer) |![Github Stars](https://img.shields.io/github/stars/devtron-labs/silver-surfer) |
 
 
 ## Cluster Management
