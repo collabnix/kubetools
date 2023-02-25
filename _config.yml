@@ -2,3 +2,15 @@ show_downloads: true
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+jekyll_simple_search:
+  # Enable or disable search on your site
+  enabled: true
+  # The URL path for the search page
+  search_page_url: /search/
+  # The URL path for the search data file
+  search_data_url: /search.json
+  # The minimum number of characters required to perform a search
+  min_chars: 3
+  # The maximum number of search results to display
+  max_results: 10
+
