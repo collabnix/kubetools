@@ -18,6 +18,29 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7800+ DevOps enthusiasts.<br>
 
+## Table of Contents
+
+- [Categories](#categories)
+  - 🧰 [Cluster Management](#cluster-management)
+  - 🧑‍💻 [Cluster with Core CLI tools](#cluster-with-core-cli-tools)
+  - 🫙 [Alert and Monitoring](#alert-and-monitoring)
+  - 🌐 [Logging and Tracing](#logging-and-tracing)
+  - 🗄️ [Troubleshooting / Debugging](#troubleshooting--debugging)
+  - 💾 [Developement Tools/Kit](#developement-toolskit)
+  - 🔒 [Alternative Tools for Developement](#alternative-tools-for-developement)
+  - 🪵 [CI/CD integration Tools](#cicd-integration-tools)
+  - 🎮 [Security Tools](#security-tools)
+  - 🧪 [Network Policies](#network-policies)
+  - 🏗️ [Testing Tools](#testing-tools)
+  - ⚙️ [Service Mesh](#service-mesh)
+  - 🇼 [Observability](#observability)
+  - 🧰 [Machine Learning/Deep Learning](#machine-learningdeep-learning)
+  - 🧑‍💻 [Compute Edge Tools](#compute-edge-tools)
+  - 🫙 [Kubernetes Tools for Specific Cloud](#kubernetes-tools-for-specific-cloud)
+  - 🌐 [Storage Providers](#storage-providers)
+  - 🗄️ [Multiple Tools Repo](#multiple-tools-repo)
+  - 💾 [Cost Optimisation](#cost-optimisation)
+  - 🔒 [Non-Categorize](#non-categorize)
 
 ## Cluster Management						
 									
