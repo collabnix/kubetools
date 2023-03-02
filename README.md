@@ -71,6 +71,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	22	|	Kubefirst  	|	[	Fully-automated OSS delivery & infrastructure management gitops platforms](https://github.com/kubefirst/kubefirst)	|	![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)	|
 |	23	|	Kamaji  	|	[	Build and operate Kubernetes at scale with a fraction of operational burden](https://github.com/clastix/kamaji)	|	![Github Stars](https://img.shields.io/github/stars/clastix/kamaji)	|
 |	24	|	kustomizer  	|	[	An experimental package manager for distributing Kubernetes configuration as OCI artifacts](https://github.com/stefanprodan/kustomizer)	|	![Github Stars](https://img.shields.io/github/stars/stefanprodan/kustomizer)	|
+|	25	|	Kudo  	|	[	declarative approach to building production-grade Kubernetes Operators ](https://github.com/kudobuilder/kudo)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kudo)	|
+
 									
 ## Cluster with Core CLI tools						
 									
@@ -92,7 +94,10 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	14	|	Kueue  	|	[	Kueue is a set of APIs and controller for job queueing](https://github.com/kubernetes-sigs/kueue)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)	|
 |	15	|	fubectl  	|	[	Reduces repetitive interactions with kubectl](https://github.com/kubermatic/fubectl)	|	![Github Stars](https://img.shields.io/github/stars/kubermatic/fubectl)	|
 |	16	|	kube-ps1  	|	[	Kubernetes prompt for bash and zsh](https://github.com/jonmosco/kube-ps1)	|	![Github Stars](https://img.shields.io/github/stars/jonmosco/kube-ps1)	|
-									
+|	17	|	Conftest  	|	[ Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/open-policy-agent/conftest)	|	![Github Stars](https://img.shields.io/github/stars/open-policy-agent/conftest)	|
+|	18	|	Kube-capacity  	|	[	A  CLI that provides an overview of the resource requests, limits, and utilization in a k8s cluster](https://github.com/robscott/kube-capacity)	|	![Github Stars](https://img.shields.io/github/stars/robscott/kube-capacity)	|
+|	19	|	Karpenter  	|	[	Kubernetes Node Autoscaler built for flexibility, performance, and simplicity](https://github.com/aws/karpenter)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
+|	20	|	Autoscaler  	|	[	autoscaler Autoscaling components for Kubernetes]( https://github.com/kubernetes/autoscaler)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
 									
 ## Alert and Monitoring						
 									
@@ -216,9 +221,15 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	20	|	Falco  	|	[	The Falco Project - Cloud-Native runtime security](https://falco.org/)	|	-	|
 |	21	|	Clair  	|	[	Vulnerability Static Analysis for Containers](https://github.com/quay/clair)	|	![Github Stars](https://img.shields.io/github/stars/quay/clair)	|
 |	22	|	M9sweeper  	|	[	Complete Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)	|	![Github Stars](https://img.shields.io/github/stars/m9sweeper/m9sweeper)	|
-|	23	|	Trivy  	|	[ Find vulnerabilities, misconfigurations, secrets, SBOM in Kubernetes,](https://github.com/aquasecurity/trivy)	|	![Github Stars](https://img.shields.io/github/stars/aquasecurity/trivy)	|
+|	23	|	Trivy  	|	[ Find vulnerabilities, misconfigurations, secrets, SBOM in Kubernetes](https://github.com/aquasecurity/trivy)	|	![Github Stars](https://img.shields.io/github/stars/aquasecurity/trivy)	|
+|	24	|	kubesec  	|	[ Security risk analysis for Kubernetes resources]( https://github.com/controlplaneio/kubesec)	|	![Github Stars](https://img.shields.io/github/stars/controlplaneio/kubesec)	|
+|	25	|	Vault-k8s  	|	[ First-class support for Vault and Kubernetes](https://github.com/hashicorp/vault-k8s)	|	![Github Stars](https://img.shields.io/github/stars/hashicorp/vault-k8s)	|
+|	26	|	Hardeneks  	|	[  Runs checks to see if an EKS cluster follows EKS Best Practices.](https://github.com/aws-samples/hardeneks)	|	![Github Stars](https://img.shields.io/github/stars/aws-samples/hardeneks)	|
+|	27	|	Hubble  	|	[ Network, Service & Security Observability for Kubernetes using eBPF]( https://github.com/cilium/hubble)	|	![Github Stars](https://img.shields.io/github/stars/cilium/hubble)	|
+|	28	|	Kubeval  	|	[ Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/instrumenta/kubeval)	|	![Github Stars](https://img.shields.io/github/stars/instrumenta/kubeval)	|
 
-									
+ 
+
 									
 ## Network Policies						
 									
@@ -271,7 +282,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | ---------- | --------------------- | --------------------- | ------------------|									
 |	1	|	Kubespy  	|	[	Tools for observing Kubernetes resources in real time](https://github.com/pulumi/kubespy)	|	![Github Stars](https://img.shields.io/github/stars/pulumi/kubespy)	|
 |	2	|	Popeye  	|	[	A Kubernetes cluster resource sanitizer](https://github.com/derailed/popeye)	|	![Github Stars](https://img.shields.io/github/stars/derailed/popeye)	|
-|	3	|	Stern  	|	[	Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern)	|	![Github Stars](https://img.shields.io/github/stars/wercker/stern)	|
+|	3	|	Stern  	|	[	Multi pod and container log tailing for Kubernetes](https://github.com/stern/stern)	|	![Github Stars](https://img.shields.io/github/stars/stern/stern)	|
 |	4	|	Cri-tools  	|	[	CLI and validation tools for Kubelet Container Runtime Interface (CRI)](https://github.com/kubernetes-sigs/cri-tools)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/cri-tools)	|
 |	5	|	Kubebox  	|	[	Terminal and Web console for Kubernetes](https://github.com/astefanutti/kubebox)	|	![Github Stars](https://img.shields.io/github/stars/astefanutti/kubebox)	|
 |	6	|	Kubewatch  	|	[	Watch k8s events and trigger Handlers](https://github.com/bitnami-labs/kubewatch)	|	![Github Stars](https://img.shields.io/github/stars/bitnami-labs/kubewatch)	|
