@@ -215,6 +215,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	20	|	Falco  	|	[	The Falco Project - Cloud-Native runtime security](https://falco.org/)	|	-	|
 |	21	|	Clair  	|	[	Vulnerability Static Analysis for Containers](https://github.com/quay/clair)	|	![Github Stars](https://img.shields.io/github/stars/quay/clair)	|
 |	22	|	M9sweeper  	|	[	Complete Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)	|	![Github Stars](https://img.shields.io/github/stars/m9sweeper/m9sweeper)	|
+|	23	|	Trivy  	|	[ Find vulnerabilities, misconfigurations, secrets, SBOM in Kubernetes,](https://github.com/aquasecurity/trivy)	|	![Github Stars](https://img.shields.io/github/stars/aquasecurity/trivy)	|
+
 									
 									
 ## Network Policies						
