@@ -20,28 +20,30 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Table of Contents
 
-- [Categories](#categories)
-  - 🧰 [Cluster Management](#cluster-management)
-  - 🧑‍💻 [Cluster with Core CLI tools](#cluster-with-core-cli-tools)
-  - 🫙 [Alert and Monitoring](#alert-and-monitoring)
-  - 🌐 [Logging and Tracing](#logging-and-tracing)
-  - 🗄️ [Troubleshooting / Debugging](#troubleshooting--debugging)
-  - 💾 [Developement Tools/Kit](#developement-toolskit)
-  - 🔒 [Alternative Tools for Developement](#alternative-tools-for-developement)
-  - 🪵 [CI/CD integration Tools](#cicd-integration-tools)
-  - 🎮 [Security Tools](#security-tools)
-  - 🧪 [Network Policies](#network-policies)
-  - 🏗️ [Testing Tools](#testing-tools)
-  - ⚙️ [Service Mesh](#service-mesh)
-  - 🇼 [Observability](#observability)
-  - 🧰 [Machine Learning/Deep Learning](#machine-learningdeep-learning)
-  - 🧑‍💻 [Compute Edge Tools](#compute-edge-tools)
-  - 🫙 [Kubernetes Tools for Specific Cloud](#kubernetes-tools-for-specific-cloud)
-  - 🌐 [Storage Providers](#storage-providers)
-  - 🗄️ [Multiple Tools Repo](#multiple-tools-repo)
-  - 💾 [Cost Optimisation](#cost-optimisation)
-  - ⚙️ [Function as a Service FaaS](#function-as-a-service-faas)
-  - 🔒 [Non-Categorize](#non-categorize)
+- [Kubetools - A Curated List of Kubernetes Tools](#kubetools---a-curated-list-of-kubernetes-tools)
+  - [Table of Contents](#table-of-contents)
+  - [Cluster Management](#cluster-management)
+  - [Cluster with Core CLI tools](#cluster-with-core-cli-tools)
+  - [Alert and Monitoring](#alert-and-monitoring)
+  - [Logging and Tracing](#logging-and-tracing)
+  - [Troubleshooting / Debugging](#troubleshooting--debugging)
+  - [Developement Tools/Kit](#developement-toolskit)
+  - [Alternative Tools for Developement](#alternative-tools-for-developement)
+  - [CI/CD integration Tools](#cicd-integration-tools)
+  - [Security Tools](#security-tools)
+  - [Network Policies](#network-policies)
+  - [Testing Tools](#testing-tools)
+  - [Service Mesh](#service-mesh)
+  - [Observability](#observability)
+  - [Machine Learning/Deep Learning](#machine-learningdeep-learning)
+  - [Compute Edge Tools](#compute-edge-tools)
+  - [Kubernetes Tools for Specific Cloud](#kubernetes-tools-for-specific-cloud)
+  - [Storage Providers](#storage-providers)
+  - [Multiple Tools Repo](#multiple-tools-repo)
+  - [Cost Optimisation](#cost-optimisation)
+  - [Function as a Service FaaS](#function-as-a-service-faas)
+  - [Non-Categorize](#non-categorize)
+  - [Maintainer](#maintainer)
 
 ## Cluster Management						
 									
@@ -217,6 +219,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	21	|	Clair  	|	[	Vulnerability Static Analysis for Containers](https://github.com/quay/clair)	|	![Github Stars](https://img.shields.io/github/stars/quay/clair)	|
 |	22	|	M9sweeper  	|	[	Complete Kubernetes Security Platform](https://github.com/m9sweeper/m9sweeper)	|	![Github Stars](https://img.shields.io/github/stars/m9sweeper/m9sweeper)	|
 |	23	|	Trivy  	|	[ Find vulnerabilities, misconfigurations, secrets, SBOM in Kubernetes,](https://github.com/aquasecurity/trivy)	|	![Github Stars](https://img.shields.io/github/stars/aquasecurity/trivy)	|
+|	24	|	Paralus  	|	[ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus)	|	![Github Stars](https://img.shields.io/github/stars/paralus/paralus)	|
 
 									
 									
