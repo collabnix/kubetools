@@ -98,7 +98,18 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	18	|	Kube-capacity  	|	[	A  CLI that provides an overview of the resource requests, limits, and utilization in a k8s cluster](https://github.com/robscott/kube-capacity)	|	![Github Stars](https://img.shields.io/github/stars/robscott/kube-capacity)	|
 |	19	|	Karpenter  	|	[	Kubernetes Node Autoscaler built for flexibility, performance, and simplicity](https://github.com/aws/karpenter)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
 |	20	|	Autoscaler  	|	[	autoscaler Autoscaling components for Kubernetes]( https://github.com/kubernetes/autoscaler)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
-									
+|	21	|	Kured  	|	[	 Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)	|	![Github Stars](https://img.shields.io/github/stars/kubereboot/kured)	|
+|	22	|	Kube-prompt  	|	[	 An interactive kubernetes client featuring auto-complete](https://github.com/c-bata/kube-prompt)	|	![Github Stars](https://img.shields.io/github/stars/c-bata/kube-prompt)	|
+|	23	|	Click  	|	[	  Command Line Interactive Controller for Kubernetes](https://github.com/databricks/click)	|	![Github Stars](https://img.shields.io/github/stars/databricks/click)	|
+|	24	|	Kubie  	|	[	 A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)	|	![Github Stars](https://img.shields.io/github/stars/sbstp/kubie)	|
+|	25	|	Pluto  	|	[	 A cli tool to help discover deprecated apiVersions in Kubernetes](https://github.com/FairwindsOps/pluto)	|	![Github Stars](https://img.shields.io/github/stars/FairwindsOps/pluto)	|
+|	26	|	ksync  	|	[	 Sync files between your local system and a kubernetes cluster](https://github.com/ksync/ksync)	|	![Github Stars](https://img.shields.io/github/stars/ksync/ksync)	|
+|	27	|	fleet  	|	[	 Manage large fleets of Kubernetes clusters](https://github.com/rancher/fleet)	|	![Github Stars](https://img.shields.io/github/stars/rancher/fleet)	|
+|	28	|	stash  	|	[	 Backup your Kubernetes Stateful Applications](https://github.com/stashed/stash)	|	![Github Stars](https://img.shields.io/github/stars/stashed/stash)	|
+
+
+
+
 ## Alert and Monitoring						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -113,8 +124,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	Kubernetes Job/CronJob Notifier  	|	[	This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success](https://github.com/sukeesh/k8s-job-notify)	|	![Github Stars](https://img.shields.io/github/stars/sukeesh/k8s-job-notify)	|
 |	9	|	Argus  	|	[	This tool monitors changes in the filesystem on specified paths](https://clustergarage.io/argus/docs/overview)	|	-	|
 |	10	|	Kube-Scout  	|	[	Scout for alarming issues across your Kubernetes clusters](https://github.com/ReallyLiri/kubescout)	|	![Github Stars](https://img.shields.io/github/stars/ReallyLiri/kubescout)	|
-									
-									
+|	11	|	Kwatch  	|	[	monitor & detect crashes in your Kubernetes(K8s) cluster instantly](https://github.com/abahmed/kwatch)	|	![Github Stars](https://img.shields.io/github/stars/abahmed/kwatch)	|
+|	12	|	Kwatch  	|	[	 Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)	|	![Github Stars](https://img.shields.io/github/stars/weaveworks/scope)	|
+
 ## Logging and Tracing						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -162,7 +174,24 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	13	|	mirrord  	|	[	Run your local process in the context of your cloud cluster](https://github.com/metalbear-co/mirrord)	|	![Github Stars](https://img.shields.io/github/stars/metalbear-co/mirrord)	|
 |	14	|	Aptakube  	|	[	A modern, lightweight and multi-cluster desktop client for Kubernetes](https://aptakube.com)	|	-	|
 |	15	|	Kubes  	|	[	Kubernetes App Deploy Tool: build docker image, compile Kubernetes YAML files, and apply them](https://github.com/boltops-tools/kubes)	|	![Github Stars](https://img.shields.io/github/stars/boltops-tools/kubes)	|
-									
+|	16	|	Kaniko  	|	[	 Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)	|	![Github Stars](https://img.shields.io/github/stars/GoogleContainerTools/kaniko)	|
+|	17	|	Python client for kuberenetes  	|	[	 Official Python client library for kubernetes](https://github.com/kubernetes-client/python)	    |	![Github Stars](https://img.shields.io/github/stars/kubernetes-client/python)	|
+|	18	|	eclipse che IDE for k8s	|	[	 The Kubernetes-Native IDE for Developer Teams](https://github.com/eclipse/che)	    |	![Github Stars](https://img.shields.io/github/stars/eclipse/che)	|
+|	19	|	Kubebuilder	|	[	SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder)	    |	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kubebuilder)	|
+|	20	|	Operator-sdk	|	[	  SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding](https://github.com/operator-framework/operator-sdk)	    |	![Github Stars](https://img.shields.io/github/stars/operator-framework/operator-sdk)	|
+|	21	|	cdk8s	|	[	  Kubernetes native apps and abstractions using object-oriented programming](https://github.com/cdk8s-team/cdk8s)	    |	![Github Stars](https://img.shields.io/github/stars/cdk8s-team/cdk8s)	|
+|	22	|	Gitkube	|	[	 Build and deploy docker images to Kubernetes using git push](https://github.com/hasura/gitkube)	    |	![Github Stars](https://img.shields.io/github/stars/hasura/gitkube)	|
+|	23	|	Arkade	|	[	 Open Source Marketplace For Kubernetes](https://github.com/alexellis/arkade)	    |	![Github Stars](https://img.shields.io/github/stars/alexellis/arkade)	|
+|	24	|	k2tf	|	[	 k2tf - Kubernetes YAML to Terraform HCL converters](https://github.com/sl1pm4t/k2tf)	    |	![Github Stars](https://img.shields.io/github/stars/sl1pm4t/k2tf)	|
+|	25	|	Terraformer	|	[	 CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code](https://github.com/GoogleCloudPlatform/terraformer)	    |	![Github Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/terraformer)	|
+|	26	|	Atomix	|	[	 A Kubernetes toolkit for building distributed applications using cloud native principles](https://github.com/atomix/atomix)	    |	![Github Stars](https://img.shields.io/github/stars/atomix/atomix)	|
+|	27	|	Brigade	|	[	  Event-driven scripting for Kubernetes](https://github.com/brigadecore/brigade)	    |	![Github Stars](https://img.shields.io/github/stars/brigadecore/brigade)	|
+|	28	|	Spread	|	[	  Docker to Kubernetes in one command](https://github.com/redspread/spread)	    |	![Github Stars](https://img.shields.io/github/stars/redspread/spread)	|
+|	29	|	Kompose	|	[	  convert docker compose to kubernetes resources](https://github.com/kubernetes/kompose)	    |	![Github Stars](https://img.shields.io/github/stars/kubernetes/kompose)	|
+|	30	|	Helmfile	|	[	 Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.](https://github.com/helmfile/helmfile)	    |	![Github Stars](https://img.shields.io/github/stars/helmfile/helmfile)	|
+
+
+
 ## Alternative Tools for Developement						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -216,7 +245,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	15	|	Audit2rbac  	|	[	Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)	|	![Github Stars](https://img.shields.io/github/stars/liggitt/audit2rbac)	|
 |	16	|	Chartsec  	|	[	Helm Chart security scanner](https://github.com/banzaicloud/chartsec)	|	![Github Stars](https://img.shields.io/github/stars/banzaicloud/chartsec)	|
 |	17	|	kubestriker  	|	[	Security Auditing tool](https://github.com/vchinnipilli/kubestriker)	|	![Github Stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker)	|
-|	18	|	Datree  	|	[	CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://datree.io/)	|	-	|
+|	18	|	Datree  	|	[	CLI tool to prevent K8s misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies](https://github.com/datreeio/datree)	|	![Github Stars](https://img.shields.io/github/stars/datreeio/datree)	|
 |	19	|	Krane  	|	[	Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane)	|	![Github Stars](https://img.shields.io/github/stars/appvia/krane)	|
 |	20	|	Falco  	|	[	The Falco Project - Cloud-Native runtime security](https://falco.org/)	|	-	|
 |	21	|	Clair  	|	[	Vulnerability Static Analysis for Containers](https://github.com/quay/clair)	|	![Github Stars](https://img.shields.io/github/stars/quay/clair)	|
@@ -255,7 +284,10 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	7	|	PowerfulSeald  	|	[	A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)	|	![Github Stars](https://img.shields.io/github/stars/bloomberg/powerfulseal)	|
 |	8	|	kube-burnerd  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)	|	-	|
 |	9	|	Tracetest  	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
-									
+|	10	|	Microcks  	|	[	 Kubernetes native tool for mocking and testing API and micro-services](https://github.com/microcks/microcks)	|	![Github Stars](https://img.shields.io/github/stars/microcks/microcks)	|
+
+
+                           		
 ## Service Mesh						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -297,7 +329,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	17	|	OpenTelemetry  	|	[	High-quality, ubiquitous, and portable telemetry to enable effective observability](https://opentelemetry.io/)	|	-	|
 |	18	|	Grafana Tempo  	|	[	Grafana Tempo is a high volume, minimal dependency distributed tracing backend](https://github.com/grafana/tempo)	|	![Github Stars](https://img.shields.io/github/stars/grafana/tempo)	|
 |	19	|	Tracetest 	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
-									
+|	20	|	Pumba  	|	[	Chaos testing, network emulation, and stress testing tool for containers](https://github.com/alexei-led/pumba)	|	![Github Stars](https://img.shields.io/github/stars/alexei-led/pumba)	|
+|	21	|	Robusta  	|	[	Kubernetes observability and automation, with an awesome Prometheus integration](https://github.com/robusta-dev/robusta)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/robusta)	|
+
 ## Machine Learning/Deep Learning						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -316,8 +350,12 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	3	|	Akri  	|	[	A Kubernetes Resource Interface for the Edge](https://github.com/project-akri/akri)	|	![Github Stars](https://img.shields.io/github/stars/project-akri/akri)	|
 |	4	|	SuperEdge  	|	[	An edge-native container management system for edge computing](https://github.com/superedge/superedge)	|	![Github Stars](https://img.shields.io/github/stars/superedge/superedge)	|
 |	5	|	Keylime  	|	[	A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)	|	![Github Stars](https://img.shields.io/github/stars/keylime/keylime)	|
+|	6	|	Microk8s  	|	[	A small, fast, single-package Kubernetes for developers, IoT and edge](https://github.com/canonical/microk8s)	|	![Github Stars](https://img.shields.io/github/stars/canonical/microk8s)	|
+|	7	|	Shifu  	|	[	 Kubernetes native IoT software development framework](https://github.com/Edgenesis/shifu)	|	![Github Stars](https://img.shields.io/github/stars/Edgenesis/shifu)	|
+
+
 									
-									
+ 									
 ## Kubernetes Tools for Specific Cloud						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -326,7 +364,12 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	2	|	Draft: Streamlined Kubernetes Development  	|	[	A tool for developers to create cloud-native applications on Kubernetes](https://github.com/azure/draft)	|	![Github Stars](https://img.shields.io/github/stars/azure/draft)	|
 |	3	|	helm-ssm  	|	[	A low dependency tool for retrieving and injecting secrets from AWS SSM into Helm](https://github.com/totango/helm-ssm)	|	![Github Stars](https://img.shields.io/github/stars/totango/helm-ssm)	|
 |	4	|	Skupper  	|	[	Multicloud communication for Kubernetes](https://skupper.io/)	|	-	|
-									
+|	5	|	AWS workshop for kubernetes  	|	[	AWS workshop for kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)	|	![Github Stars](https://img.shields.io/github/stars/aws-samples/aws-workshop-for-kubernetes)	|
+|	6	|	Sealos  	|	[  A Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications](https://github.com/labring/sealos)	|	![Github Stars](https://img.shields.io/github/stars/labring/sealos)	|
+|	7	|	Porter  	|	[   Kubernetes-powered PaaS that runs in your own cloud.](https://github.com/porter-dev/porter)	|	![Github Stars](https://img.shields.io/github/stars/porter-dev/porter)	|
+|	8	|	Kubicorn  	|	[   Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud](https://github.com/kubicorn/kubicorn)	|	![Github Stars](https://img.shields.io/github/stars/kubicorn/kubicorn)	|
+
+ 							
 									
 ## Storage Providers						
 									
@@ -351,8 +394,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	1	|	Chaos Toolkit Kubernetes Support  	|	[	Kubernetes driver extension of the Chaos Toolkit probes and actions API](https://github.com/chaostoolkit/chaostoolkit-kubernetes)	|	![Github Stars](https://img.shields.io/github/stars/chaostoolkit/chaostoolkit-kubernetes)	|
 |	2	|	k14s  	|	[	Kubernetes Tools that follow Unix philosophy to be simple and composable](https://github.com/k14s)	|	![Github Stars](https://img.shields.io/github/stars/k14s)	|
 |	3	|	Pulumi  	|	[	Pulumi - Modern Infrastructure as Code. Any cloud, any language. Give your team cloud superpowers rocket https://www.pulumi.com](https://github.com/pulumi/pulumi)	|	![Github Stars](https://img.shields.io/github/stars/pulumi/pulumi)	|
-									
-									
+|	4	|	Gvisor  	|	[	Application Kernel for Containers](https://github.com/google/gvisor)	|	![Github Stars](https://img.shields.io/github/stars/google/gvisor)	|
+|	5	|	Colima  	|	[	 Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)	|	![Github Stars](https://img.shields.io/github/stars/abiosoft/colima)	|
+
+
+																
 ## Cost Optimisation						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
