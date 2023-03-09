@@ -256,6 +256,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	26	|	Hardeneks  	|	[  Runs checks to see if an EKS cluster follows EKS Best Practices.](https://github.com/aws-samples/hardeneks)	|	![Github Stars](https://img.shields.io/github/stars/aws-samples/hardeneks)	|
 |	27	|	Hubble  	|	[ Network, Service & Security Observability for Kubernetes using eBPF]( https://github.com/cilium/hubble)	|	![Github Stars](https://img.shields.io/github/stars/cilium/hubble)	|
 |	28	|	Kubeval  	|	[ Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/instrumenta/kubeval)	|	![Github Stars](https://img.shields.io/github/stars/instrumenta/kubeval)	|
+| 29 | Paralus | [ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus) | ![Github Stars](https://img.shields.io/github/stars/paralus/paralus) |
 
  
 
