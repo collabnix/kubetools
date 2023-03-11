@@ -136,7 +136,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	3	|	ELK  	|	[	Elasticsearch, Logstash, Kibana](https://github.com/elastic)	|	![Github Stars](https://img.shields.io/github/stars/elastic)	|
 |	4	|	fluentbit  	|	[	Fast and Lightweight Log processor and forwarder for Linux, BSD and OSX](https://github.com/fluent/fluent-bit)	|	![Github Stars](https://img.shields.io/github/stars/fluent/fluent-bit)	|
 |	5	|	Loki  	|	[	Like Prometheus, but for logs](https://github.com/grafana/loki)	|	![Github Stars](https://img.shields.io/github/stars/grafana/loki)	|
-|	6	|kubectl-mtail  |	[ tail logs from multiple pods matching label selector](https://gitlab.com/grzesuav/kubectl-mtail) | ![Github Stars](https://img.shields.io/github/stars/grzesuav/kubectl-mtail)	
+|	6	| kubectl-mtail  |	[ tail logs from multiple pods matching label selector](https://gitlab.com/grzesuav/kubectl-mtail) | ![Github Stars](https://img.shields.io/github/stars/grzesuav/kubectl-mtail)
+|	7	| k8spacket   |	[ packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket) | ![Github Stars](https://img.shields.io/github/stars/k8spacket/k8spacket)	
 									
 									
 ## Troubleshooting / Debugging						
@@ -353,6 +354,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	Keylime  	|	[	A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT](https://github.com/keylime/keylime)	|	![Github Stars](https://img.shields.io/github/stars/keylime/keylime)	|
 |	6	|	Microk8s  	|	[	A small, fast, single-package Kubernetes for developers, IoT and edge](https://github.com/canonical/microk8s)	|	![Github Stars](https://img.shields.io/github/stars/canonical/microk8s)	|
 |	7	|	Shifu  	|	[	 Kubernetes native IoT software development framework](https://github.com/Edgenesis/shifu)	|	![Github Stars](https://img.shields.io/github/stars/Edgenesis/shifu)	|
+|	8	|	kairos  	|	[	The immutable Linux meta-distribution for edge Kubernetes](https://github.com/kairos-io/kairos)	|	![Github Stars](https://img.shields.io/github/stars/kairos-io/kairos)	|
 
 
 									
