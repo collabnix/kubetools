@@ -436,6 +436,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	9	|	capsule  	|	[	Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster](https://github.com/clastix/capsule)	|	![Github Stars](https://img.shields.io/github/stars/clastix/capsule)	|
 |	10	|	KubeSlice  	|	[	KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices](https://github.com/kubeslice)	|	![Github Stars](https://img.shields.io/github/stars/kubeslice)	|
 |	11	|	routernetes 	|	[	Use Kubernetes to make a home router!](https://github.com/routernetes/routernetes)	|	![Github Stars](https://img.shields.io/github/stars/routernetes/routernetes)	|
+|	12	|	Symbiosis 	|	[	Symbiosis is a cloud service provider optimized for Kubernetes. Launch clusters in <2 min with better tools and lower costs](https://symbiosis.host/)	|	-	|
 									
 ## Maintainer
 
