@@ -125,7 +125,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	9	|	Argus  	|	[	This tool monitors changes in the filesystem on specified paths](https://clustergarage.io/argus/docs/overview)	|	-	|
 |	10	|	Kube-Scout  	|	[	Scout for alarming issues across your Kubernetes clusters](https://github.com/ReallyLiri/kubescout)	|	![Github Stars](https://img.shields.io/github/stars/ReallyLiri/kubescout)	|
 |	11	|	Kwatch  	|	[	monitor & detect crashes in your Kubernetes(K8s) cluster instantly](https://github.com/abahmed/kwatch)	|	![Github Stars](https://img.shields.io/github/stars/abahmed/kwatch)	|
-|	12	|	Kwatch  	|	[	 Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)	|	![Github Stars](https://img.shields.io/github/stars/weaveworks/scope)	|
+|	12	|	Scope  	|	[	 Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)	|	![Github Stars](https://img.shields.io/github/stars/weaveworks/scope)	|
+|	13	|	Kubeshark  	|	[	TCPDump and Wireshark re-invented for Kubernetes](https://github.com/kubeshark/kubeshark)	|	![Github Stars](https://img.shields.io/github/stars/kubeshark/kubeshark)	|
+|	14	|	Ksniff  	|	[	Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff)	|	![Github Stars](https://img.shields.io/github/stars/eldadru/ksniff)	|
 
 ## Logging and Tracing						
 									
@@ -138,8 +140,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	Loki  	|	[	Like Prometheus, but for logs](https://github.com/grafana/loki)	|	![Github Stars](https://img.shields.io/github/stars/grafana/loki)	|
 |	6	| kubectl-mtail  |	[ tail logs from multiple pods matching label selector](https://gitlab.com/grzesuav/kubectl-mtail) | ![Github Stars](https://img.shields.io/github/stars/grzesuav/kubectl-mtail)
 |	7	| k8spacket   |	[ packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket) | ![Github Stars](https://img.shields.io/github/stars/k8spacket/k8spacket)	
-									
-									
+|	8	| goldpinger   |	[  Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster](https://github.com/bloomberg/goldpinger) | ![Github Stars](https://img.shields.io/github/stars/bloomberg/goldpinger)										
+
 ## Troubleshooting / Debugging						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -257,9 +259,10 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	26	|	Hardeneks  	|	[  Runs checks to see if an EKS cluster follows EKS Best Practices.](https://github.com/aws-samples/hardeneks)	|	![Github Stars](https://img.shields.io/github/stars/aws-samples/hardeneks)	|
 |	27	|	Hubble  	|	[ Network, Service & Security Observability for Kubernetes using eBPF]( https://github.com/cilium/hubble)	|	![Github Stars](https://img.shields.io/github/stars/cilium/hubble)	|
 |	28	|	Kubeval  	|	[ Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/instrumenta/kubeval)	|	![Github Stars](https://img.shields.io/github/stars/instrumenta/kubeval)	|
-| 29 | Paralus | [ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus) | ![Github Stars](https://img.shields.io/github/stars/paralus/paralus) |
-
- 
+| 	29 	| Paralus | [ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus) | ![Github Stars](https://img.shields.io/github/stars/paralus/paralus) |
+| 	30 	| Peirates | [ Kubernetes Penetration Testing tool](https://github.com/inguardians/peirates) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates) |
+| 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates) | 
+  
 
 									
 ## Network Policies						
@@ -333,6 +336,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	19	|	Tracetest 	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
 |	20	|	Pumba  	|	[	Chaos testing, network emulation, and stress testing tool for containers](https://github.com/alexei-led/pumba)	|	![Github Stars](https://img.shields.io/github/stars/alexei-led/pumba)	|
 |	21	|	Robusta  	|	[	Kubernetes observability and automation, with an awesome Prometheus integration](https://github.com/robusta-dev/robusta)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/robusta)	|
+|	22	|	kubeinvaders  	|	[	Gamified Chaos Engineering Tool for Kubernetes](https://github.com/lucky-sideburn/kubeinvaders)	|	![Github Stars](https://img.shields.io/github/stars/lucky-sideburn/kubeinvaders)	|
+
+ 
 
 ## Machine Learning/Deep Learning						
 									
@@ -400,8 +406,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	4	|	Gvisor  	|	[	Application Kernel for Containers](https://github.com/google/gvisor)	|	![Github Stars](https://img.shields.io/github/stars/google/gvisor)	|
 |	5	|	Colima  	|	[	 Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)	|	![Github Stars](https://img.shields.io/github/stars/abiosoft/colima)	|
 |	6	|	Krateo Platformops 	|	[	 Open source platform to manage infrastructure, resources and applications via YAML files](https://github.com/krateoplatformops/krateo)	|	![Github Stars](https://img.shields.io/github/stars/krateoplatformops/krateo)	|
-
-																
+	7	|	Kamus 	|	[	 An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications](https://github.com/Soluto/kamus)	|	![Github Stars](https://img.shields.io/github/stars/Soluto/kamus)	|
+ 																
 ## Cost Optimisation						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
