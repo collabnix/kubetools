@@ -12,11 +12,20 @@
 
 
 
-There are more than 300+ [Kubernetes Certified Service Providers](https://www.cncf.io/certification/kcsp/) and [tons of Kubernetes Certified distributions](https://kubernetes.io/partners/). Choosing a right distribution can be a daunting task. Kubetools is built with a purpose to build a curated list of popular Kubernetes tools. It is actively maintained by [Collabnix Slack Community](https://collabnix.com).  
+There are more than 300+ [Kubernetes Certified Service Providers](https://www.cncf.io/certification/kcsp/) and [tons of Kubernetes Certified distributions](https://kubernetes.io/partners/). Choosing a right distribution can be a daunting task. [Kubetools](https://kubetools.io) is built with a purpose to build a curated list of popular Kubernetes tools. It is actively maintained by [Collabnix Slack Community](https://collabnix.com).  
 
 Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for updates on new list additions.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 7800+ DevOps enthusiasts.<br>
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 8000+ DevOps enthusiasts.<br>
+
+## Featured Kubernetes Tools(April 2023)				
+						
+- [K8sGPT](https://www.kubetools.io/kubernetes/k8sgpt-simplifying-kubernetes-diagnostics-with-natural-language-processing/)
+- [Monokle](https://www.kubetools.io/kubernetes/streamline-your-kubernetes-manifest-management-with-monokle/)
+- [Numaflow](https://www.kubetools.io/kubernetes/numaflow-a-way-to-handle-stream-processing-tasks/)
+- [Otterize](https://www.kubetools.io/kubernetes/securely-scaling-microservices-on-kubernetes-with-otterize/)
+- [Botkube](https://www.kubetools.io/kubernetes/botkube-the-ultimate-tool-for-kubernetes-alerts-and-notifications/)
+- [K9s](https://www.kubetools.io/kubernetes/why-k9s-should-be-your-go-to-tool-for-kubernetes-management/)
 
 ## Table of Contents
 
@@ -47,7 +56,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------ |
-|	1	|	Monokle  	|	[	Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/monokle)	|
+|	1	|	Monokle 	|	[	Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/monokle)	|
 |	2	|	kops  	|	[	Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes/kops)	|
 |	3	|	silver-surfer  	|	[	Check ApiVersion compatibility and provide Migration path for Kubernetes objects when upgrading Kubernetes to latest versions](https://github.com/devtron-labs/silver-surfer)	|	![Github Stars](https://img.shields.io/github/stars/devtron-labs/silver-surfer)	|
 |	4	|	Kube-ops-view  	|	[	Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view)	|	![Github Stars](https://img.shields.io/github/stars/hjacobs/kube-ops-view)	|
