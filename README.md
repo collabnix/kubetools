@@ -26,7 +26,6 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [Otterize](https://www.kubetools.io/kubernetes/securely-scaling-microservices-on-kubernetes-with-otterize/)
 - [Botkube](https://www.kubetools.io/kubernetes/botkube-the-ultimate-tool-for-kubernetes-alerts-and-notifications/)
 - [K9s](https://www.kubetools.io/kubernetes/why-k9s-should-be-your-go-to-tool-for-kubernetes-management/)
-- https://github.com/feiskyer/kube-copilot
 
 ## Table of Contents
 
