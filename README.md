@@ -26,6 +26,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [Otterize](https://www.kubetools.io/kubernetes/securely-scaling-microservices-on-kubernetes-with-otterize/)
 - [Botkube](https://www.kubetools.io/kubernetes/botkube-the-ultimate-tool-for-kubernetes-alerts-and-notifications/)
 - [K9s](https://www.kubetools.io/kubernetes/why-k9s-should-be-your-go-to-tool-for-kubernetes-management/)
+- https://github.com/feiskyer/kube-copilot
 
 ## Table of Contents
 
@@ -50,6 +51,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - 🗄️ [Multiple Tools Repo](#multiple-tools-repo)
   - 💾 [Cost Optimisation](#cost-optimisation)
   - ⚙️ [Function as a Service FaaS](#function-as-a-service-faas)
+  - 🚀 [Artificial Intelligence](#artificial-intelligence)
   - 🔒 [Non-Categorize](#non-categorize)
 
 ## Cluster Management						
@@ -201,7 +203,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	28	|	Spread	|	[	  Docker to Kubernetes in one command](https://github.com/redspread/spread)	    |	![Github Stars](https://img.shields.io/github/stars/redspread/spread)	|
 |	29	|	Kompose	|	[	  convert docker compose to kubernetes resources](https://github.com/kubernetes/kompose)	    |	![Github Stars](https://img.shields.io/github/stars/kubernetes/kompose)	|
 |	30	|	Helmfile	|	[	 Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.](https://github.com/helmfile/helmfile)	    |	![Github Stars](https://img.shields.io/github/stars/helmfile/helmfile)	|
-
+|	31	|	validkube	|	[    ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.]( https://github.com/komodorio/validkube)	    |	![Github Stars](https://img.shields.io/github/stars/komodorio/validkube)	|
+|	32	|	Config Syncer	|	[	 Config Syncer by AppsCode keeps ConfigMaps and Secrets synchronized across namespaces and/or clusters.](https://github.com/kubeops/config-syncer)	    |	![Github Stars](https://img.shields.io/github/stars/kubeops/config-syncer)	|
 
 
 ## Alternative Tools for Developement						
@@ -269,11 +272,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	27	|	Hubble  	|	[ Network, Service & Security Observability for Kubernetes using eBPF]( https://github.com/cilium/hubble)	|	![Github Stars](https://img.shields.io/github/stars/cilium/hubble)	|
 |	28	|	Kubeval  	|	[ Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/instrumenta/kubeval)	|	![Github Stars](https://img.shields.io/github/stars/instrumenta/kubeval)	|
 | 	29 	| Paralus | [ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus) | ![Github Stars](https://img.shields.io/github/stars/paralus/paralus) |
-| 	30 	| Peirates | [ Kubernetes Penetration Testing tool](https://github.com/inguardians/peirates) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates) |
-| 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates) | 
-  
-
-									
+| 	30 	| Peirates | [ Kubernetes Penetration Testing tool](https://github.com/inguardians/peirates) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates)    |
+| 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/controlplaneio/kubectl-kubesec)      | 
+  							
 ## Network Policies						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -415,7 +416,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	4	|	Gvisor  	|	[	Application Kernel for Containers](https://github.com/google/gvisor)	|	![Github Stars](https://img.shields.io/github/stars/google/gvisor)	|
 |	5	|	Colima  	|	[	 Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)	|	![Github Stars](https://img.shields.io/github/stars/abiosoft/colima)	|
 |	6	|	Krateo Platformops 	|	[	 Open source platform to manage infrastructure, resources and applications via YAML files](https://github.com/krateoplatformops/krateo)	|	![Github Stars](https://img.shields.io/github/stars/krateoplatformops/krateo)	|
-	7	|	Kamus 	|	[	 An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications](https://github.com/Soluto/kamus)	|	![Github Stars](https://img.shields.io/github/stars/Soluto/kamus)	|
+|	7	|	Kamus 	|	[	 An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications](https://github.com/Soluto/kamus)	|	![Github Stars](https://img.shields.io/github/stars/Soluto/kamus)	|
  																
 ## Cost Optimisation						
 									
@@ -434,6 +435,14 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	3	|	Kubeless  	|	[   Kubernetes Native Serverless Framework](https://github.com/vmware-archive/kubeless)	|	![Github Stars](https://img.shields.io/github/stars/vmware-archive/kubeless)	|									
 |	4	|    Fission	|	[	Fast and Simple Serverless Functions for Kubernetes ](https://github.com/fission/fission)	|	![Github Stars](https://img.shields.io/github/stars/fission/fission)	|
 |	5	|    Nuclio	|	[ High-Performance Serverless event and data processing platform ](https://github.com/nuclio/nuclio)	|	![Github Stars](https://img.shields.io/github/stars/nuclio/nuclio)	|
+
+## Artificial Intelligence
+|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
+| ---------- | --------------------- | --------------------- | ------------------|									
+|	1	|    	k8sgpt |	[	Giving Kubernetes SRE superpowers to everyone ](https://github.com/k8sgpt-ai/k8sgpt)	|	![Github Stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt)	|
+|	2	|    	kubectl-ai |	[	Kubectl plugin for OpenAI GPT ](https://github.com/sozercan/kubectl-ai)	|	![Github Stars](https://img.shields.io/github/stars/sozercan/kubectl-ai)	|
+|	3	|    	kopilot |	[	Your AI Kubernetes Expert ](https://github.com/knight42/kopilot)	|	![Github Stars](https://img.shields.io/github/stars/knight42/kopilot)	|
+|	4	|    	kopylot |	[	An AI-Powered assistant for Kubernetes developers ](https://github.com/avsthiago/kopylot)	|	![Github Stars](https://img.shields.io/github/stars/avsthiago/kopylot)	|
 
 
 ## Non-Categorize						
