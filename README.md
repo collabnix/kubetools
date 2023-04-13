@@ -241,7 +241,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Security Tools						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
-| ---------- | --------------------- | --------------------- | ------------------|									
+| ---------- | --------------------- | --------------------- | ------------------|								
 |	1	|	Kubevious CLI  	|	[	Prevent cross-manifest errors and violations of best practicees in YAML files, Helm Charts and Kubernetes clusters](https://github.com/kubevious/cli)	|	![Github Stars](https://img.shields.io/github/stars/kubevious/cli)	|
 |	2	|	TerraScan  	|	[	Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/accurics/terrascan)	|	![Github Stars](https://img.shields.io/github/stars/accurics/terrascan)	|
 |	3	|	klum  	|	[	Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum)	|	![Github Stars](https://img.shields.io/github/stars/ibuildthecloud/klum)	|
