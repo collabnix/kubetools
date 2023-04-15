@@ -21,6 +21,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Featured Kubernetes Tools(April 2023)				
 						
 - [K8sGPT](https://www.kubetools.io/kubernetes/k8sgpt-simplifying-kubernetes-diagnostics-with-natural-language-processing/)
+- [Kubeshark](https://www.kubetools.io/kubernetes/mastering-kubernetes-debugging-and-troubleshooting-with-kubeshark-real-time-visibility-query-language-service-map-and-integrations/) 
 - [Monokle](https://www.kubetools.io/kubernetes/streamline-your-kubernetes-manifest-management-with-monokle/)
 - [Numaflow](https://www.kubetools.io/kubernetes/numaflow-a-way-to-handle-stream-processing-tasks/)
 - [Otterize](https://www.kubetools.io/kubernetes/securely-scaling-microservices-on-kubernetes-with-otterize/)
