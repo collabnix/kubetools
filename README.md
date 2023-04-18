@@ -445,6 +445,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	2	|    	kubectl-ai |	[	Kubectl plugin for OpenAI GPT ](https://github.com/sozercan/kubectl-ai)	|	![Github Stars](https://img.shields.io/github/stars/sozercan/kubectl-ai)	|
 |	3	|    	kopilot |	[	Your AI Kubernetes Expert ](https://github.com/knight42/kopilot)	|	![Github Stars](https://img.shields.io/github/stars/knight42/kopilot)	|
 |	4	|    	kopylot |	[	An AI-Powered assistant for Kubernetes developers ](https://github.com/avsthiago/kopylot)	|	![Github Stars](https://img.shields.io/github/stars/avsthiago/kopylot)	|
+|	5	|	aiac  	|	[	Artificial Intelligence K8s manifest and package generator](https://github.com/gofireflyio/aiac)	|	![Github Stars](https://img.shields.io/github/stars/gofireflyio/aiac)	|
 
 
 ## Non-Categorize						
