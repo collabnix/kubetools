@@ -151,7 +151,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	Loki  	|	[	Like Prometheus, but for logs](https://github.com/grafana/loki)	|	![Github Stars](https://img.shields.io/github/stars/grafana/loki)	|
 |	6	| kubectl-mtail  |	[ tail logs from multiple pods matching label selector](https://gitlab.com/grzesuav/kubectl-mtail) | ![Github Stars](https://img.shields.io/github/stars/grzesuav/kubectl-mtail)
 |	7	| k8spacket   |	[ packets traffic visualization for kubernetes](https://github.com/k8spacket/k8spacket) | ![Github Stars](https://img.shields.io/github/stars/k8spacket/k8spacket)	
-|	8	| goldpinger   |	[  Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster](https://github.com/bloomberg/goldpinger) | ![Github Stars](https://img.shields.io/github/stars/bloomberg/goldpinger)										
+|	8	| goldpinger   |	[  Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster](https://github.com/bloomberg/goldpinger) | ![Github Stars](https://img.shields.io/github/stars/bloomberg/goldpinger)
+ |	9	|	Otterize network mapper  	|	[	Map Kubernetes in-cluster traffic and export as text, intents, or an image](https://github.com/otterize/network-mapper)	|	![Github Stars](https://img.shields.io/github/stars/otterize/network-mapper)	|
+						
 
 ## Troubleshooting / Debugging						
 									
@@ -349,7 +351,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	20	|	Pumba  	|	[	Chaos testing, network emulation, and stress testing tool for containers](https://github.com/alexei-led/pumba)	|	![Github Stars](https://img.shields.io/github/stars/alexei-led/pumba)	|
 |	21	|	Robusta  	|	[	Kubernetes observability and automation, with an awesome Prometheus integration](https://github.com/robusta-dev/robusta)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/robusta)	|
 |	22	|	kubeinvaders  	|	[	Gamified Chaos Engineering Tool for Kubernetes](https://github.com/lucky-sideburn/kubeinvaders)	|	![Github Stars](https://img.shields.io/github/stars/lucky-sideburn/kubeinvaders)	|
- |	23	|	Otterize network mapper  	|	[	Map Kubernetes in-cluster traffic and export as text, intents, or an image](https://github.com/otterize/network-mapper)	|	![Github Stars](https://img.shields.io/github/stars/otterize/network-mapper)	|
+ |	23	|	Headlamp  	|	[	An easy-to-use and extensible web UI for Kubernetes](https://github.com/headlamp-k8s/headlamp)	|	![Github Stars](https://img.shields.io/github/stars/headlamp-k8s/headlamp)	|
 
 
 ## Machine Learning/Deep Learning						
