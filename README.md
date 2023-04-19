@@ -209,8 +209,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	30	|	Helmfile	|	[	 Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.](https://github.com/helmfile/helmfile)	    |	![Github Stars](https://img.shields.io/github/stars/helmfile/helmfile)	|
 |	31	|	validkube	|	[    ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.]( https://github.com/komodorio/validkube)	    |	![Github Stars](https://img.shields.io/github/stars/komodorio/validkube)	|
 |	32	|	Config Syncer	|	[	 Config Syncer by AppsCode keeps ConfigMaps and Secrets synchronized across namespaces and/or clusters.](https://github.com/kubeops/config-syncer)	    |	![Github Stars](https://img.shields.io/github/stars/kubeops/config-syncer)	|
-|	33	|	Gefyra	|	[	 Gefyra: Blazingly-fast, rock-solid, local application development with Kubernetes.](https://github.com/gefyrahq/gefyra)	    |	![Github Stars](https://img.shields.io/github/stars/gefyrahq/gefyra)	|
-
+|	33	|	Gefyra	|	[	 Gefyra: Blazingly-fast, rock-solid, local application development with Kubernetes](https://github.com/gefyrahq/gefyra)	    |	![Github Stars](https://img.shields.io/github/stars/gefyrahq/gefyra)	|
+|	34	|	Kubernetes ConfigMap Reload	|	[	 Simple binary to trigger a reload when a Kubernetes ConfigMap is updated](https://github.com/jimmidyson/configmap-reload)	    |	![Github Stars](https://img.shields.io/github/stars/jimmidyson/configmap-reload)	|
 
 
 ## Alternative Tools for Developement						
