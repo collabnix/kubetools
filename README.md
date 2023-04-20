@@ -283,7 +283,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	29 	| Paralus | [ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus) | ![Github Stars](https://img.shields.io/github/stars/paralus/paralus) |
 | 	30 	| Peirates | [ Kubernetes Penetration Testing tool](https://github.com/inguardians/peirates) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates)    |
 | 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/controlplaneio/kubectl-kubesec)      |
-| 	32 	| jsPolicy | [ jsPolicy is a policy engine for Kubernetes that allows you to write policies in JavaScript or TypeScript](https://github.com/pavan-kumar-99/medium-manifests/tree/jsPolicy) | ![Github Stars](https://img.shields.io/github/stars/pavan-kumar-99/medium-manifests/tree/jsPolicy)      |
+| 	32 	| jsPolicy | [ jsPolicy is a policy engine for Kubernetes that allows you to write policies in JavaScript or TypeScript](https://github.com/pavan-kumar-99/medium-manifests/tree/jsPolicy) |  -      |
 
 
 ## Network Policies						
