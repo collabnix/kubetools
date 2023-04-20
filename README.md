@@ -212,6 +212,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	33	|	Gefyra	|	[	 Gefyra: Blazingly-fast, rock-solid, local application development with Kubernetes](https://github.com/gefyrahq/gefyra)	    |	![Github Stars](https://img.shields.io/github/stars/gefyrahq/gefyra)	|
 |	34	|	Kubernetes ConfigMap Reload	|	[	 Simple binary to trigger a reload when a Kubernetes ConfigMap is updated](https://github.com/jimmidyson/configmap-reload)	    |	![Github Stars](https://img.shields.io/github/stars/jimmidyson/configmap-reload)	|
 |	35	|	RELOADER	|	[	 A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods](https://github.com/stakater/Reloader)	    |	![Github Stars](https://img.shields.io/github/stars/stakater/Reloader)	|
+|	36	|	Ingress Monitor Controller	|	[	 A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc](https://github.com/stakater/IngressMonitorController)	    |	![Github Stars](https://img.shields.io/github/stars/stakater/IngressMonitorController)	|
 
 
 ## Alternative Tools for Developement						
