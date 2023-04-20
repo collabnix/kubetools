@@ -139,6 +139,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	13	|	Kubeshark  	|	[	TCPDump and Wireshark re-invented for Kubernetes](https://github.com/kubeshark/kubeshark)	|	![Github Stars](https://img.shields.io/github/stars/kubeshark/kubeshark)	|
 |	14	|	Ksniff  	|	[	Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff)	|	![Github Stars](https://img.shields.io/github/stars/eldadru/ksniff)	|
 |	15	|	Kube-Prometheus-Top [ kptop ]  	|	[	Monitoring for Kubernetes Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metircs](https://github.com/eslam-gomaa/kptop)	|	![Github Stars](https://img.shields.io/github/stars/eslam-gomaa/kptop)	|
+|	16	|	ktop  	|	[	A top-like tool for your Kubernetes clusters](https://github.com/vladimirvivien/ktop)	|	![Github Stars](https://img.shields.io/github/stars/vladimirvivien/ktop)	|
 
 
 ## Logging and Tracing						
@@ -279,8 +280,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	28	|	Kubeval  	|	[ Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/instrumenta/kubeval)	|	![Github Stars](https://img.shields.io/github/stars/instrumenta/kubeval)	|
 | 	29 	| Paralus | [ Paralus enables controlled, audited access to Kubernetes infrastructure and Zero trust Kubernetes with zero friction.](https://github.com/paralus/paralus) | ![Github Stars](https://img.shields.io/github/stars/paralus/paralus) |
 | 	30 	| Peirates | [ Kubernetes Penetration Testing tool](https://github.com/inguardians/peirates) | ![Github Stars](https://img.shields.io/github/stars/inguardians/peirates)    |
-| 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/controlplaneio/kubectl-kubesec)      | 
-  							
+| 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/controlplaneio/kubectl-kubesec)      |
+
+
 ## Network Policies						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
