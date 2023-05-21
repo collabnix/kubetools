@@ -21,6 +21,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Featured Kubernetes Tools(May 2023)				
 						
 - [Karpenter](https://www.kubetools.io/kubernetes/supercharge-your-kubernetes-cluster-with-karpenter/)
+- [Kubestalk](https://www.kubetools.io/kubernetes/kubestalk-uncovering-hidden-security-risks-in-your-kubernetes-clusters/)
 - [K8sGPT](https://www.kubetools.io/kubernetes/k8sgpt-simplifying-kubernetes-diagnostics-with-natural-language-processing/)
 - [Kubeshark](https://www.kubetools.io/kubernetes/mastering-kubernetes-debugging-and-troubleshooting-with-kubeshark-real-time-visibility-query-language-service-map-and-integrations/) 
 - [Monokle](https://www.kubetools.io/kubernetes/streamline-your-kubernetes-manifest-management-with-monokle/)
