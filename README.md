@@ -33,6 +33,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Table of Contents
 
 - [Categories](#categories)
+  - 🌐 [Pods](#Pods)
   - 🧰 [Cluster Management](#cluster-management)
   - 🧑‍💻 [Cluster with Core CLI tools](#cluster-with-core-cli-tools)
   - 🫙 [Alert and Monitoring](#alert-and-monitoring)
