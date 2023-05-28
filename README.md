@@ -56,6 +56,15 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - 🚀 [Artificial Intelligence](#artificial-intelligence)
   - 🔒 [Non-Categorize](#non-categorize)
 
+
+## Pods
+
+|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
+| ---------- | --------------------- | --------------------- | ------------------ |
+|	1	|	kubetail 	|	[	Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail)	|	![Github Stars](https://img.shields.io/github/stars/johanhaleby/kubetail)	|
+|	2	|	kube-s3 	|	[	Kubernetes pods used shared S3 storage](https://github.com/freegroup/kube-s3)	|	![Github Stars](https://img.shields.io/github/stars/freegroup/kube-s3)	|
+
+
 ## Cluster Management						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
