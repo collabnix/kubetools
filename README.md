@@ -63,6 +63,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | ---------- | --------------------- | --------------------- | ------------------ |
 |	1	|	kubetail 	|	[	Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail)	|	![Github Stars](https://img.shields.io/github/stars/johanhaleby/kubetail)	|
 |	2	|	kube-s3 	|	[	Kubernetes pods used shared S3 storage](https://github.com/freegroup/kube-s3)	|	![Github Stars](https://img.shields.io/github/stars/freegroup/kube-s3)	|
+|	3	|	kubectl-ports-rs	|	[	A kubectl krew plugin to provide a list of exposed ports on kubernetes Pod resources](https://github.com/widnyana/kubectl-ports-rs)	|	![Github Stars](https://img.shields.io/github/stars/widnyana/kubectl-ports-rs)	|
+
 
 
 ## Cluster Management						
