@@ -132,6 +132,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	27	|	fleet  	|	[	 Manage large fleets of Kubernetes clusters](https://github.com/rancher/fleet)	|	![Github Stars](https://img.shields.io/github/stars/rancher/fleet)	|
 |	28	|	stash  	|	[	 Backup your Kubernetes Stateful Applications](https://github.com/stashed/stash)	|	![Github Stars](https://img.shields.io/github/stars/stashed/stash)	|
 |	29	|	Finch  	|	[	 The Finch CLI an open source client for container development](https://github.com/runfinch/finch)	|	![Github Stars](https://img.shields.io/github/stars/runfinch/finch)	|
+|	30	|	KubeView  	|	[Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview)	|	![Github Stars](https://img.shields.io/github/stars/benc-uk/kubeview)	|
 
 
 ## Alert and Monitoring						
