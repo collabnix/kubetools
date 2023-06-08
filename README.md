@@ -263,6 +263,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	13	|	Jenkins X  	|	[	Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)	|	![Github Stars](https://img.shields.io/github/stars/jenkins-x/jx)	|
 |	14	|	Drone  	|	[	Drone is a Container-Native, Continuous Delivery Platform](https://github.com/harness/drone)	|	![Github Stars](https://img.shields.io/github/stars/harness/drone)	|
 |	15	|	Helmwave  	|	[	Helmwave is helm3-native tool for deploy your Helm Charts](https://github.com/helmwave/helmwave)	|	![Github Stars](https://img.shields.io/github/stars/helmwave/helmwave)	|
+|	16	|	Helmsman  	|	[ Helm Charts as Code ](https://github.com/Praqma/helmsman)	|	![Github Stars](https://img.shields.io/github/stars/Praqma/helmsman)	|
+
 									
 ## Security Tools						
 									
