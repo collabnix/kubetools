@@ -466,6 +466,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|    Nuclio	|	[ High-Performance Serverless event and data processing platform ](https://github.com/nuclio/nuclio)	|	![Github Stars](https://img.shields.io/github/stars/nuclio/nuclio)	|
 
 ## Artificial Intelligence
+
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
 |	1	|    	k8sgpt |	[	Giving Kubernetes SRE superpowers to everyone ](https://github.com/k8sgpt-ai/k8sgpt)	|	![Github Stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt)	|
