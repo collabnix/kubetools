@@ -493,7 +493,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	10	|	KubeSlice  	|	[	KubeSlice enables Kubernetes pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as Slices](https://github.com/kubeslice)	|	![Github Stars](https://img.shields.io/github/stars/kubeslice)	|
 |	11	|	routernetes 	|	[	Use Kubernetes to make a home router!](https://github.com/routernetes/routernetes)	|	![Github Stars](https://img.shields.io/github/stars/routernetes/routernetes)	|
 |	12	|	Symbiosis 	|	[	Symbiosis is a cloud service provider optimized for Kubernetes. Launch clusters in <2 min with better tools and lower costs](https://symbiosis.host/)	|	-	|
-									
+|	13	|	Projectsveltos 	|	[	Kubernetes add-on controller for hundreds of clusters that automatically discovers and classifies clusters, making it easy to manage add-ons at scale](https://github.com/projectsveltos/addon-controller)	|	![Github Stars](https://img.shields.io/github/stars/projectsveltos/addon-controller)	|
+
+
 ## Maintainer
 
 - [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
