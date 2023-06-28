@@ -51,6 +51,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - 🧑‍💻 [Compute Edge Tools](#compute-edge-tools)
   - 🫙 [Kubernetes Tools for Specific Cloud](#kubernetes-tools-for-specific-cloud)
   - 🌐 [Storage Providers](#storage-providers)
+  - 🏗️ [Backup Tools](#backup-tools)
   - 🗄️ [Multiple Tools Repo](#multiple-tools-repo)
   - 💾 [Cost Optimisation](#cost-optimisation)
   - ⚙️ [Function as a Service FaaS](#function-as-a-service-faas)
@@ -435,7 +436,15 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	9	|	Vitess  	|	[	Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)	|	![Github Stars](https://img.shields.io/github/stars/vitessio/vitess)	|
 |	10	|	kaDalu  	|	[	A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background](https://github.com/kadalu/kadalu)	|	![Github Stars](https://img.shields.io/github/stars/kadalu/kadalu)	|
 									
+
+## Backup Tools
 									
+|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
+| ---------- | ---------------------    | --------------------- | ------------------|	
+|     1      |   Stash               |  [	🛅 Backup your Kubernetes Stateful Applications](https://github.com/stashed/stash)  |	 ![Github Stars](https://img.shields.io/github/stars/stashed/stash)
+
+
+  
 ## Multiple Tools Repo						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
