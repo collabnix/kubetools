@@ -89,7 +89,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	14	|	OpenKruise/Kruise  	|	[	Automate application workloads management on Kubernetes https://openkruise.io](https://github.com/openkruise/kruise)	|	![Github Stars](https://img.shields.io/github/stars/openkruise/kruise)	|
 |	15	|	kubectl snapshot  	|	[	Take Cluster Snapshots](https://github.com/fbrubbo/kubectl-snapshot)	|	![Github Stars](https://img.shields.io/github/stars/fbrubbo/kubectl-snapshot)	|
 |	16	|	kapp  	|	[	simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label https://get-kapp.io](https://github.com/k14s/kapp)	|	![Github Stars](https://img.shields.io/github/stars/k14s/kapp)	|
-|	17	|	keda  	|	[	Event-driven autoscaler for Kubernetes](https://keda.sh/)	|	-	|
+|	17	|	KEDA  	|	[	Event-driven autoscaler for Kubernetes](https://keda.sh/)	|	![Github Stars](https://img.shields.io/github/stars/kedacore/keda)	|
 |	18	|	Octant  	|	[	To better understand the complexity of Kubernetes clusters](https://github.com/vmware-tanzu/octant)	|	![Github Stars](https://img.shields.io/github/stars/vmware-tanzu/octant)	|
 |	19	|	Portainer  	|	[	Portainer inside a Kubernetes environment](https://github.com/portainer/k8s)	|	![Github Stars](https://img.shields.io/github/stars/portainer/k8s)	|
 |	20	|	Gardener  	|	[	Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service](https://gardener.cloud/)	|	-	|
