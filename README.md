@@ -306,6 +306,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	31 	| Kubectl-kubesec | [ Security risk analysis for Kubernetes resources](https://github.com/controlplaneio/kubectl-kubesec) | ![Github Stars](https://img.shields.io/github/stars/controlplaneio/kubectl-kubesec)      |
 | 	32 	| jsPolicy | [ jsPolicy is a policy engine for Kubernetes that allows you to write policies in JavaScript or TypeScript](https://github.com/pavan-kumar-99/medium-manifests/tree/jsPolicy) |  -      |
 | 	33 	| Netchecks | [ Set of tools for testing network conditions and asserting that they are as expected.](https://github.com/hardbyte/netchecks/) |  ![Github Stars](https://img.shields.io/github/stars/hardbyte/netchecks)      |
+| 	34 	| KubeLinter | [ KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices](https://github.com/stackrox/kube-linter) |  ![Github Stars](https://img.shields.io/github/stars/stackrox/kube-linter)      |
 
 
 ## Network Policies						
@@ -318,7 +319,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	4	|	egress-operator  	|	[	An operator to produce egress gateway pods and control access to them with network policies](https://github.com/monzo/egress-operator)	|	![Github Stars](https://img.shields.io/github/stars/monzo/egress-operator)	|
 |	5	|	kubefwd (Kube Forward)  	|	[	Bulk port forwarding Kubernetes services for local development](https://github.com/txn2/kubefwd)	|	![Github Stars](https://img.shields.io/github/stars/txn2/kubefwd)	|
 |	6	|	Kilo (k8s + wg)	|	[	A multi-cloud network overlay built on WireGuard and designed for Kubernetes](https://github.com/squat/kilo)	|	![Github Stars](https://img.shields.io/github/stars/squat/kilo)	|	
-|	6	|	Cilium	|	[	eBPF-based Networking, Security, and Observability ](https://github.com/cilium/cilium)	|	![Github Stars](https://img.shields.io/github/stars/cilium/cilium)	 |
+|	7	|	Cilium	|	[	eBPF-based Networking, Security, and Observability ](https://github.com/cilium/cilium)	|	![Github Stars](https://img.shields.io/github/stars/cilium/cilium)	 |
 									
 ## Testing Tools						
 									
