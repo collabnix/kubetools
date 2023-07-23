@@ -471,6 +471,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	1	|	Kubecost  	|	[	Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)	|	![Github Stars](https://img.shields.io/github/stars/kubecost/cost-model)	|
 |	2	|	PerfectScale  	|	[	Reduce Kubernetes costs while improving performance and resilience with data-driven intelligence built for continuous optimization](https://www.perfectscale.io)	|	-	|
 |	3	|	OpenCost  	|	[	OpenCost — your favorite open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost)	|	![Github Stars](https://img.shields.io/github/stars/opencost/opencost)	|
+| 4 | kube-green | [kube-green is a simple k8s addon that automatically shuts down (some of) your resources when you don't need them](https://github.com/kube-green/kube-green) | ![Github Stars](https://img.shields.io/github/stars/kube-green/kube-green) |
 									
 ## Function as a Service FaaS			
 									
@@ -511,6 +512,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	11	|	routernetes 	|	[	Use Kubernetes to make a home router!](https://github.com/routernetes/routernetes)	|	![Github Stars](https://img.shields.io/github/stars/routernetes/routernetes)	|
 |	12	|	Symbiosis 	|	[	Symbiosis is a cloud service provider optimized for Kubernetes. Launch clusters in <2 min with better tools and lower costs](https://symbiosis.host/)	|	-	|
 |	13	|	Projectsveltos 	|	[	Kubernetes add-on controller for hundreds of clusters that automatically discovers and classifies clusters, making it easy to manage add-ons at scale](https://github.com/projectsveltos/addon-controller)	|	![Github Stars](https://img.shields.io/github/stars/projectsveltos/addon-controller)	|
+| 14 | MayFly | [Mayfly is a Kubernetes operator that enables you to create temporary resources on the cluster that will expire after a certain period of time](https://github.com/NCCloud/mayfly) | ![GitHub Stars](https://img.shields.io/github/stars/NCCloud/mayfly) |
 
 
 ## Maintainer
