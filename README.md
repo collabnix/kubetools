@@ -234,6 +234,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	36	|	Ingress Monitor Controller	|	[	 A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc](https://github.com/stakater/IngressMonitorController)	    |	![Github Stars](https://img.shields.io/github/stars/stakater/IngressMonitorController)	|
 |	37	|	odo  	|	[	 Developer-focused CLI for fast & iterative application development on Kubernetes and Podman](https://odo.dev/)	|	![Github Stars](https://img.shields.io/github/stars/redhat-developer/odo)	|
 |	38	|	configmap-reload  	|	[Simple binary to trigger a reload when a Kubernetes ConfigMap is updated](https://github.com/jimmidyson/configmap-reload)	|	![Github Stars](https://img.shields.io/github/stars/jimmidyson/configmap-reload)	|
+|	39	|	k8tz  	|	[Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs](https://github.com/k8tz/k8tz)	|	![Github Stars](https://img.shields.io/github/stars/k8tz/k8tz)	|
 
 
 ## Alternative Tools for Developement						
