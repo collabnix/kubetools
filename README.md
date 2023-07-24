@@ -98,8 +98,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	23	|	Kamaji  	|	[	Build and operate Kubernetes at scale with a fraction of operational burden](https://github.com/clastix/kamaji)	|	![Github Stars](https://img.shields.io/github/stars/clastix/kamaji)	|
 |	24	|	kustomizer  	|	[	An experimental package manager for distributing Kubernetes configuration as OCI artifacts](https://github.com/stefanprodan/kustomizer)	|	![Github Stars](https://img.shields.io/github/stars/stefanprodan/kustomizer)	|
 |	25	|	Kudo  	|	[	declarative approach to building production-grade Kubernetes Operators ](https://github.com/kudobuilder/kudo)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kudo)	|
+|	26	|	node-problem-detector  	|	[  This is a place for various problem detectors running on the Kubernetes nodes ](https://github.com/kubernetes/node-problem-detector)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes/node-problem-detector)	|
 
-									
+								
 ## Cluster with Core CLI tools						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
