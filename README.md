@@ -99,6 +99,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	24	|	kustomizer  	|	[	An experimental package manager for distributing Kubernetes configuration as OCI artifacts](https://github.com/stefanprodan/kustomizer)	|	![Github Stars](https://img.shields.io/github/stars/stefanprodan/kustomizer)	|
 |	25	|	Kudo  	|	[	declarative approach to building production-grade Kubernetes Operators ](https://github.com/kudobuilder/kudo)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kudo)	|
 |	26	|	node-problem-detector  	|	[  This is a place for various problem detectors running on the Kubernetes nodes ](https://github.com/kubernetes/node-problem-detector)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes/node-problem-detector)	|
+| 27 | k0s | [k0s is an all-inclusive Kubernetes distribution, which is configured with all of the features needed to build a Kubernetes cluster and packaged as a single binary for ease of use](https://github.com/k0sproject/k0s) | ![GitHub Stars](https://img.shields.io/github/stars/k0sproject/k0s) |
+| 28 | k0smotron | [Deploy and run Kubernetes control planes powered by k0s on any existing cluster](https://github.com/k0sproject/k0smotron) | ![GitHub Stars](https://img.shields.io/github/stars/k0sproject/k0smotron) |
 
 								
 ## Cluster with Core CLI tools						
@@ -324,6 +326,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	kubefwd (Kube Forward)  	|	[	Bulk port forwarding Kubernetes services for local development](https://github.com/txn2/kubefwd)	|	![Github Stars](https://img.shields.io/github/stars/txn2/kubefwd)	|
 |	6	|	Kilo (k8s + wg)	|	[	A multi-cloud network overlay built on WireGuard and designed for Kubernetes](https://github.com/squat/kilo)	|	![Github Stars](https://img.shields.io/github/stars/squat/kilo)	|	
 |	7	|	Cilium	|	[	eBPF-based Networking, Security, and Observability ](https://github.com/cilium/cilium)	|	![Github Stars](https://img.shields.io/github/stars/cilium/cilium)	 |
+| 8 | MetalLB | [MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols](https://github.com/metallb/metallb) | ![GitHub Stars](https://img.shields.io/github/stars/metallb/metallb) |
 									
 ## Testing Tools						
 									
