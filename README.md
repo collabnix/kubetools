@@ -101,6 +101,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	26	|	node-problem-detector  	|	[  This is a place for various problem detectors running on the Kubernetes nodes ](https://github.com/kubernetes/node-problem-detector)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes/node-problem-detector)	|
 | 27 | k0s | [k0s is an all-inclusive Kubernetes distribution, which is configured with all of the features needed to build a Kubernetes cluster and packaged as a single binary for ease of use](https://github.com/k0sproject/k0s) | ![GitHub Stars](https://img.shields.io/github/stars/k0sproject/k0s) |
 | 28 | k0smotron | [Deploy and run Kubernetes control planes powered by k0s on any existing cluster](https://github.com/k0sproject/k0smotron) | ![GitHub Stars](https://img.shields.io/github/stars/k0sproject/k0smotron) |
+|	29	|	ClusterPedia  	|	[	The Encyclopedia of Kubernetes clusters ](https://github.com/clusterpedia-io/clusterpedia)	|	![Github Stars](https://img.shields.io/github/stars/clusterpedia-io/clusterpedia)	|
+|	30	|	kubean  	|	[	🌱 Kubernetes lifecycle management operator based on kubespray. ](https://github.com/kubean-io/kubean)	|	![Github Stars](https://img.shields.io/github/stars/kubean-io/kubean)	|
+
 
 								
 ## Cluster with Core CLI tools						
@@ -138,6 +141,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	29	|	Finch  	|	[	 The Finch CLI an open source client for container development](https://github.com/runfinch/finch)	|	![Github Stars](https://img.shields.io/github/stars/runfinch/finch)	|
 |	30	|	KubeView  	|	[Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview)	|	![Github Stars](https://img.shields.io/github/stars/benc-uk/kubeview)	|
 |	31	|	Descheduler  	|	[ Descheduler for Kubernetes ](https://github.com/kubernetes-sigs/descheduler)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/descheduler)	|
+|	32	|	cloudtty  	|	[ A Friendly Kubernetes CloudShell (Web Terminal) ! ](https://github.com/cloudtty/cloudtty)	|	![Github Stars](https://img.shields.io/github/stars/cloudtty/cloudtty)	|
 
 
 ## Alert and Monitoring						
@@ -327,6 +331,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	6	|	Kilo (k8s + wg)	|	[	A multi-cloud network overlay built on WireGuard and designed for Kubernetes](https://github.com/squat/kilo)	|	![Github Stars](https://img.shields.io/github/stars/squat/kilo)	|	
 |	7	|	Cilium	|	[	eBPF-based Networking, Security, and Observability ](https://github.com/cilium/cilium)	|	![Github Stars](https://img.shields.io/github/stars/cilium/cilium)	 |
 | 8 | MetalLB | [MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols](https://github.com/metallb/metallb) | ![GitHub Stars](https://img.shields.io/github/stars/metallb/metallb) |
+|	9	|	Spiderpool	|	[	underlay network solution of cloud native, for bare metal, VM and public cloud ](https://github.com/spidernet-io/spiderpool)	|	![Github Stars](https://img.shields.io/github/stars/spidernet-io/spiderpool)	 |
+
 									
 ## Testing Tools						
 									
@@ -342,6 +348,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	kube-burnerd  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)	|	-	|
 |	9	|	Tracetest  	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
 |	10	|	Microcks  	|	[	 Kubernetes native tool for mocking and testing API and micro-services](https://github.com/microcks/microcks)	|	![Github Stars](https://img.shields.io/github/stars/microcks/microcks)	|
+|	11	|	KWOK  	|	[	Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.](https://github.com/kubernetes-sigs/kwok)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kwok)	|
 
 
                            		
@@ -361,6 +368,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	10	|	APISIX 	|	[	Apache APISIX is a dynamic, real-time, high-performance API gateway.](https://github.com/apache/apisix)	|	![Github Stars](https://img.shields.io/github/stars/apache/apisix)	|
 |	11	|	Contour  	|	[	High performance ingress controller for Kubernetes](https://projectcontour.io/)	|	-	|
 |	12	|	Kusk Gateway  	|	[	OpenAPI-driven Ingress Controller for Kubernetes](https://kusk.io/kusk-gateway)	|	-	|
+|	13	|	MerBridge  	|	[	Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.](https://github.com/merbridge/merbridge)	|	![Github Stars](https://img.shields.io/github/stars/merbridge/merbridge)	|
 									
 									
 ## Observability						
@@ -446,6 +454,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	velero  	|	[	Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/vmware-tanzu/velero)	|	![Github Stars](https://img.shields.io/github/stars/vmware-tanzu/velero)	|
 |	9	|	Vitess  	|	[	Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)	|	![Github Stars](https://img.shields.io/github/stars/vitessio/vitess)	|
 |	10	|	kaDalu  	|	[	A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background](https://github.com/kadalu/kadalu)	|	![Github Stars](https://img.shields.io/github/stars/kadalu/kadalu)	|
+|	11	|	hwameistor  	|	[	Hwameistor is an HA local storage system for cloud-native stateful workloads.](https://github.com/hwameistor/hwameistor)	|	![Github Stars](https://img.shields.io/github/stars/hwameistor/hwameistor)	|
+
 									
 
 ## Backup Tools
