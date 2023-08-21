@@ -164,6 +164,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	14	|	Ksniff  	|	[	Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff)	|	![Github Stars](https://img.shields.io/github/stars/eldadru/ksniff)	|
 |	15	|	Kube-Prometheus-Top [ kptop ]  	|	[	Monitoring for Kubernetes Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metircs](https://github.com/eslam-gomaa/kptop)	|	![Github Stars](https://img.shields.io/github/stars/eslam-gomaa/kptop)	|
 |	16	|	ktop  	|	[	A top-like tool for your Kubernetes clusters](https://github.com/vladimirvivien/ktop)	|	![Github Stars](https://img.shields.io/github/stars/vladimirvivien/ktop)	|
+|	17	|	Kuberhealthy  	|	[A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!](https://github.com/kuberhealthy/kuberhealthy)	|	![Github Stars](https://img.shields.io/github/stars/kuberhealthy/kuberhealthy)	|
 
 
 ## Logging and Tracing						
