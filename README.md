@@ -280,6 +280,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	15	|	Helmwave  	|	[	Helmwave is helm3-native tool for deploy your Helm Charts](https://github.com/helmwave/helmwave)	|	![Github Stars](https://img.shields.io/github/stars/helmwave/helmwave)	|
 |	16	|	Helmsman  	|	[ Helm Charts as Code ](https://github.com/Praqma/helmsman)	|	![Github Stars](https://img.shields.io/github/stars/Praqma/helmsman)	|
 |	17	|	PipeCD  	|	[ The One CD for All {applications, platforms, operations} ](https://github.com/pipe-cd/pipecd)	|	![Github Stars](https://img.shields.io/github/stars/pipe-cd/pipecd)	|
+|	18	|	Kluctl  	|	[ Kluctl implements templated declarative Kubernetes deployments, supporting push (CLI) and pull (kluctl-controller) based GitOps from the same source ](https://github.com/kluctl/kluctl)	|	![Github Stars](https://img.shields.io/github/stars/kluctl/kluctl)	|
 
 									
 ## Security Tools						
