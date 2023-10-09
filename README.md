@@ -248,7 +248,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  41  |   DevSpace   |   [An open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster](https://www.devspace.sh/)   |   ![Github Stars](https://img.shields.io/github/stars/devspace-sh/devspace)  |
 
 
-## Alternative Tools for Developement						
+## Alternative Tools for Development						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
