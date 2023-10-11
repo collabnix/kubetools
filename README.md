@@ -7,7 +7,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/kubetools?style=social)
 
 
-![Image](https://github.com/collabnix/kubetools/blob/master/kubetools_periodic_table.jpeg) 
+![Image](kubetools_periodic_table.jpeg) 
 
 
 
