@@ -40,7 +40,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - 🌐 [Logging and Tracing](#logging-and-tracing)
   - 🗄️ [Troubleshooting / Debugging](#troubleshooting--debugging)
   - 💾 [Developement Tools/Kit](#developement-toolskit)
-  - 🔒 [Alternative Tools for Developement](#alternative-tools-for-developement)
+  - 🔒 [Alternative Tools for Development](#alternative-tools-for-development)
   - 🪵 [CI/CD integration Tools](#cicd-integration-tools)
   - 🎮 [Security Tools](#security-tools)
   - 🧪 [Network Policies](#network-policies)
