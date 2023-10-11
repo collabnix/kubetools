@@ -17,7 +17,7 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 8600+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools(Sep 2023)				
+## Top Featured Kubernetes Tools(Oct 2023)				
 				
 - [Node Problem Detector](https://www.kubetools.io/kubernetes/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
 - [Karpenter](https://www.kubetools.io/kubernetes/supercharge-your-kubernetes-cluster-with-karpenter/)
