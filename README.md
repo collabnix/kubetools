@@ -248,7 +248,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  41  |   DevSpace   |   [An open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster](https://www.devspace.sh/)   |   ![Github Stars](https://img.shields.io/github/stars/devspace-sh/devspace)  |
 
 
-## Alternative Tools for Developement						
+## Alternative Tools for Development						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
@@ -259,6 +259,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	k3d  	|	[	k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker.d](https://k3d.io/)	|	-	
 |	6	|	Systemk: virtual kubelet for systemd  	|	[	Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units](https://github.com/virtual-kubelet/systemk)	|	![Github Stars](https://img.shields.io/github/stars/virtual-kubelet/systemk)	|
 |	7	|	mokbox  	|	[	Build verifiably conformant multi-node kubernetes clusters in containers](https://github.com/bashtools/mokctl)	|	![Github Stars](https://img.shields.io/github/stars/bashtools/mokctl)	|
+|	8	|	Otomi  	|	[	Self-hosted PaaS for Kubernetes](https://github.com/redkubes/otomi-core)	|	![Github Stars](https://img.shields.io/github/stars/redkubes/otomi-core)	|
 
 									
 ## CI/CD integration Tools						
