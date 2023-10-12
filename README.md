@@ -103,6 +103,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 28 | k0smotron | [Deploy and run Kubernetes control planes powered by k0s on any existing cluster](https://github.com/k0sproject/k0smotron) | ![GitHub Stars](https://img.shields.io/github/stars/k0sproject/k0smotron) |
 |	29	|	ClusterPedia  	|	[	The Encyclopedia of Kubernetes clusters ](https://github.com/clusterpedia-io/clusterpedia)	|	![Github Stars](https://img.shields.io/github/stars/clusterpedia-io/clusterpedia)	|
 |	30	|	kubean  	|	[	🌱 Kubernetes lifecycle management operator based on kubespray. ](https://github.com/kubean-io/kubean)	|	![Github Stars](https://img.shields.io/github/stars/kubean-io/kubean)	|
+|   31  |   Claudie     |   [   Deploy and operate Kubernetes clusters with each nodepool in a different provider or on-prem](https://github.com/berops/claudie)  |  ![Github Stars](https://img.shields.io/github/stars/berops/claudie)  |
 
 
 								
