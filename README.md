@@ -114,37 +114,36 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | ---------- | --------------------- | --------------------- | ------------------|									
 |	1	|	Bootkube  	|	[	bootkube - Launch a self-hosted Kubernetes cluster](https://github.com/kubernetes-sigs/bootkube)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/bootkube)	|
 |	2	|	kubectx + kubens  	|	[	Switch faster between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)	|	![Github Stars](https://img.shields.io/github/stars/ahmetb/kubectx)	|
-|	3	|	kube-ps1  	|	[	Kubernetes prompt info for Bash and Zsh ](https://github.com/jonmosco/kube-ps1)	|	![Github Stars](https://img.shields.io/github/stars/jonmosco/kube-ps1)	|
-|	4	|	kube-shell  	|	[	Kubernetes shell: An integrated shell for working with the Kubernetes](https://github.com/cloudnativelabs/kube-shell)	|	![Github Stars](https://img.shields.io/github/stars/cloudnativelabs/kube-shell)	|
-|	5	|	kuttle: kubectl wrapper for sshuttle without SSH  	|	[	Kubernetes wrapper for sshuttle](https://github.com/kayrus/kuttle)	|	![Github Stars](https://img.shields.io/github/stars/kayrus/kuttle)	|
-|	6	|	kubectl sudo  	|	[	Run kubernetes commands with the security privileges of another user](https://github.com/postfinance/kubectl-sudo)	|	![Github Stars](https://img.shields.io/github/stars/postfinance/kubectl-sudo)	|
-|	7	|	K9s  	|	[	Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s)	|	![Github Stars](https://img.shields.io/github/stars/derailed/k9s)	|
-|	8	|	Ktunnel  	|	[	A cli that exposes your local resources to kubernetes](https://github.com/omrikiei/ktunnel)	|	![Github Stars](https://img.shields.io/github/stars/omrikiei/ktunnel)	|
-|	9	|	KubeOperator  	|	[	Run kubectl command in Web Browser. https://kubeoperator.io/](https://github.com/KubeOperator/webkubectl)	|	![Github Stars](https://img.shields.io/github/stars/KubeOperator/webkubectl)	|
-|	10	|	Vimkubectl  	|	[	Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)	|	![Github Stars](https://img.shields.io/github/stars/rottencandy/vimkubectl)	|
-|	11	|	KubeHelper  	|	[	KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)	|	![Github Stars](https://img.shields.io/github/stars/KubeHelper/kubehelper)	|
-|	12	|	kubecolor  	|	[	colorizes kubectl output](https://github.com/hidetatz/kubecolor)	|	![Github Stars](https://img.shields.io/github/stars/hidetatz/kubecolor)	|
-|	13	|	Krew  	|	[	Krew is the package manager for kubectl plugins](https://github.com/kubernetes-sigs/krew)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/krew)	|
-|	14	|	Kueue  	|	[	Kueue is a set of APIs and controller for job queueing](https://github.com/kubernetes-sigs/kueue)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)	|
-|	15	|	fubectl  	|	[	Reduces repetitive interactions with kubectl](https://github.com/kubermatic/fubectl)	|	![Github Stars](https://img.shields.io/github/stars/kubermatic/fubectl)	|
-|	16	|	kube-ps1  	|	[	Kubernetes prompt for bash and zsh](https://github.com/jonmosco/kube-ps1)	|	![Github Stars](https://img.shields.io/github/stars/jonmosco/kube-ps1)	|
-|	17	|	Conftest  	|	[ Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/open-policy-agent/conftest)	|	![Github Stars](https://img.shields.io/github/stars/open-policy-agent/conftest)	|
-|	18	|	Kube-capacity  	|	[	A  CLI that provides an overview of the resource requests, limits, and utilization in a k8s cluster](https://github.com/robscott/kube-capacity)	|	![Github Stars](https://img.shields.io/github/stars/robscott/kube-capacity)	|
-|	19	|	Karpenter  	|	[	Kubernetes Node Autoscaler built for flexibility, performance, and simplicity](https://github.com/aws/karpenter)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
-|	20	|	Autoscaler  	|	[	autoscaler Autoscaling components for Kubernetes]( https://github.com/kubernetes/autoscaler)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
-|	21	|	Kured  	|	[	 Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)	|	![Github Stars](https://img.shields.io/github/stars/kubereboot/kured)	|
-|	22	|	Kube-prompt  	|	[	 An interactive kubernetes client featuring auto-complete](https://github.com/c-bata/kube-prompt)	|	![Github Stars](https://img.shields.io/github/stars/c-bata/kube-prompt)	|
-|	23	|	Click  	|	[	  Command Line Interactive Controller for Kubernetes](https://github.com/databricks/click)	|	![Github Stars](https://img.shields.io/github/stars/databricks/click)	|
-|	24	|	Kubie  	|	[	 A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)	|	![Github Stars](https://img.shields.io/github/stars/sbstp/kubie)	|
-|	25	|	Pluto  	|	[	 A cli tool to help discover deprecated apiVersions in Kubernetes](https://github.com/FairwindsOps/pluto)	|	![Github Stars](https://img.shields.io/github/stars/FairwindsOps/pluto)	|
-|	26	|	ksync  	|	[	 Sync files between your local system and a kubernetes cluster](https://github.com/ksync/ksync)	|	![Github Stars](https://img.shields.io/github/stars/ksync/ksync)	|
-|	27	|	fleet  	|	[	 Manage large fleets of Kubernetes clusters](https://github.com/rancher/fleet)	|	![Github Stars](https://img.shields.io/github/stars/rancher/fleet)	|
-|	28	|	stash  	|	[	 Backup your Kubernetes Stateful Applications](https://github.com/stashed/stash)	|	![Github Stars](https://img.shields.io/github/stars/stashed/stash)	|
-|	29	|	Finch  	|	[	 The Finch CLI an open source client for container development](https://github.com/runfinch/finch)	|	![Github Stars](https://img.shields.io/github/stars/runfinch/finch)	|
-|	30	|	KubeView  	|	[Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview)	|	![Github Stars](https://img.shields.io/github/stars/benc-uk/kubeview)	|
-|	31	|	Descheduler  	|	[ Descheduler for Kubernetes ](https://github.com/kubernetes-sigs/descheduler)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/descheduler)	|
-|	32	|	cloudtty  	|	[ A Friendly Kubernetes CloudShell (Web Terminal) ! ](https://github.com/cloudtty/cloudtty)	|	![Github Stars](https://img.shields.io/github/stars/cloudtty/cloudtty)	|
-|	33	|	kor  	|	[ A Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)	|	![Github Stars](https://img.shields.io/github/stars/yonahd/kor)	|
+|	3	|	kube-shell  	|	[	Kubernetes shell: An integrated shell for working with the Kubernetes](https://github.com/cloudnativelabs/kube-shell)	|	![Github Stars](https://img.shields.io/github/stars/cloudnativelabs/kube-shell)	|
+|	4	|	kuttle: kubectl wrapper for sshuttle without SSH  	|	[	Kubernetes wrapper for sshuttle](https://github.com/kayrus/kuttle)	|	![Github Stars](https://img.shields.io/github/stars/kayrus/kuttle)	|
+|	5	|	kubectl sudo  	|	[	Run kubernetes commands with the security privileges of another user](https://github.com/postfinance/kubectl-sudo)	|	![Github Stars](https://img.shields.io/github/stars/postfinance/kubectl-sudo)	|
+|	6	|	K9s  	|	[	Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s)	|	![Github Stars](https://img.shields.io/github/stars/derailed/k9s)	|
+|	7	|	Ktunnel  	|	[	A cli that exposes your local resources to kubernetes](https://github.com/omrikiei/ktunnel)	|	![Github Stars](https://img.shields.io/github/stars/omrikiei/ktunnel)	|
+|	8	|	KubeOperator  	|	[	Run kubectl command in Web Browser. https://kubeoperator.io/](https://github.com/KubeOperator/webkubectl)	|	![Github Stars](https://img.shields.io/github/stars/KubeOperator/webkubectl)	|
+|	9	|	Vimkubectl  	|	[	Manage any Kubernetes resource from Vim https://www.vim.org/scripts/script.ph](https://github.com/rottencandy/vimkubectl)	|	![Github Stars](https://img.shields.io/github/stars/rottencandy/vimkubectl)	|
+|	10	|	KubeHelper  	|	[	KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.](https://github.com/KubeHelper/kubehelper)	|	![Github Stars](https://img.shields.io/github/stars/KubeHelper/kubehelper)	|
+|	11	|	kubecolor  	|	[	colorizes kubectl output](https://github.com/hidetatz/kubecolor)	|	![Github Stars](https://img.shields.io/github/stars/hidetatz/kubecolor)	|
+|	12	|	Krew  	|	[	Krew is the package manager for kubectl plugins](https://github.com/kubernetes-sigs/krew)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/krew)	|
+|	13	|	Kueue  	|	[	Kueue is a set of APIs and controller for job queueing](https://github.com/kubernetes-sigs/kueue)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)	|
+|	14	|	fubectl  	|	[	Reduces repetitive interactions with kubectl](https://github.com/kubermatic/fubectl)	|	![Github Stars](https://img.shields.io/github/stars/kubermatic/fubectl)	|
+|	15	|	kube-ps1  	|	[	Kubernetes prompt for bash and zsh](https://github.com/jonmosco/kube-ps1)	|	![Github Stars](https://img.shields.io/github/stars/jonmosco/kube-ps1)	|
+|	16	|	Conftest  	|	[ Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/open-policy-agent/conftest)	|	![Github Stars](https://img.shields.io/github/stars/open-policy-agent/conftest)	|
+|	17	|	Kube-capacity  	|	[	A  CLI that provides an overview of the resource requests, limits, and utilization in a k8s cluster](https://github.com/robscott/kube-capacity)	|	![Github Stars](https://img.shields.io/github/stars/robscott/kube-capacity)	|
+|	18	|	Karpenter  	|	[	Kubernetes Node Autoscaler built for flexibility, performance, and simplicity](https://github.com/aws/karpenter)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
+|	19	|	Autoscaler  	|	[	autoscaler Autoscaling components for Kubernetes]( https://github.com/kubernetes/autoscaler)	|	![Github Stars](https://img.shields.io/github/stars/aws/karpenter)	|
+|	20	|	Kured  	|	[	 Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)	|	![Github Stars](https://img.shields.io/github/stars/kubereboot/kured)	|
+|	21	|	Kube-prompt  	|	[	 An interactive kubernetes client featuring auto-complete](https://github.com/c-bata/kube-prompt)	|	![Github Stars](https://img.shields.io/github/stars/c-bata/kube-prompt)	|
+|	22	|	Click  	|	[	  Command Line Interactive Controller for Kubernetes](https://github.com/databricks/click)	|	![Github Stars](https://img.shields.io/github/stars/databricks/click)	|
+|	23	|	Kubie  	|	[	 A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)	|	![Github Stars](https://img.shields.io/github/stars/sbstp/kubie)	|
+|	24	|	Pluto  	|	[	 A cli tool to help discover deprecated apiVersions in Kubernetes](https://github.com/FairwindsOps/pluto)	|	![Github Stars](https://img.shields.io/github/stars/FairwindsOps/pluto)	|
+|	25	|	ksync  	|	[	 Sync files between your local system and a kubernetes cluster](https://github.com/ksync/ksync)	|	![Github Stars](https://img.shields.io/github/stars/ksync/ksync)	|
+|	26	|	fleet  	|	[	 Manage large fleets of Kubernetes clusters](https://github.com/rancher/fleet)	|	![Github Stars](https://img.shields.io/github/stars/rancher/fleet)	|
+|	27	|	stash  	|	[	 Backup your Kubernetes Stateful Applications](https://github.com/stashed/stash)	|	![Github Stars](https://img.shields.io/github/stars/stashed/stash)	|
+|	28	|	Finch  	|	[	 The Finch CLI an open source client for container development](https://github.com/runfinch/finch)	|	![Github Stars](https://img.shields.io/github/stars/runfinch/finch)	|
+|	29	|	KubeView  	|	[Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview)	|	![Github Stars](https://img.shields.io/github/stars/benc-uk/kubeview)	|
+|	30	|	Descheduler  	|	[ Descheduler for Kubernetes ](https://github.com/kubernetes-sigs/descheduler)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/descheduler)	|
+|	31	|	cloudtty  	|	[ A Friendly Kubernetes CloudShell (Web Terminal) ! ](https://github.com/cloudtty/cloudtty)	|	![Github Stars](https://img.shields.io/github/stars/cloudtty/cloudtty)	|
+|	32	|	kor  	|	[ A Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)	|	![Github Stars](https://img.shields.io/github/stars/yonahd/kor)	|
 
 
 ## Alert and Monitoring						
