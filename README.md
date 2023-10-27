@@ -144,7 +144,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	30	|	Descheduler  	|	[ Descheduler for Kubernetes ](https://github.com/kubernetes-sigs/descheduler)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/descheduler)	|
 |	31	|	cloudtty  	|	[ A Friendly Kubernetes CloudShell (Web Terminal) ! ](https://github.com/cloudtty/cloudtty)	|	![Github Stars](https://img.shields.io/github/stars/cloudtty/cloudtty)	|
 |	32	|	kor  	|	[ A Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)	|	![Github Stars](https://img.shields.io/github/stars/yonahd/kor)	|
-
+|	33	|	Kubernetes Image Puller  	|	[ Caching images on a cluster by creating a DaemonSet downloading and running the container images on each node ](https://github.com/che-incubator/kubernetes-image-puller)	|	![Github Stars](https://img.shields.io/github/stars/che-incubator/kubernetes-image-puller)	|
 
 ## Alert and Monitoring						
 									
