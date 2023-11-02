@@ -247,6 +247,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	39	|	k8tz  	|	[Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs](https://github.com/k8tz/k8tz)	|	![Github Stars](https://img.shields.io/github/stars/k8tz/k8tz)	|
 |	40	|	KDash  	|	[A simple and fast dashboard for Kubernetes ](https://github.com/kdash-rs/kdash)	|	![Github Stars](https://img.shields.io/github/stars/kdash-rs/kdash)	|
 |  41  |   DevSpace   |   [An open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster](https://www.devspace.sh/)   |   ![Github Stars](https://img.shields.io/github/stars/devspace-sh/devspace)  |
+|  42  |   K8Studio   |   [K8 Studio is a cross-platform client IDE to manage Kubernetes Clusters](https://github.com/guiqui/k8Studio)   |   ![Github Stars](https://img.shields.io/github/stars/guiqui/k8Studio)  |
 
 
 ## Alternative Tools for Development						
