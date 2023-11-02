@@ -250,6 +250,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  42  |   K8Studio   |   [K8 Studio is a cross-platform client IDE to manage Kubernetes Clusters](https://github.com/guiqui/k8Studio)   |   ![Github Stars](https://img.shields.io/github/stars/guiqui/k8Studio)  |
 |  43  |   Radius   |   [Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps](https://github.com/radius-project/radius)   |   ![Github Stars](https://img.shields.io/github/stars/radius-project/radius)  |
 |  44  |   Kubefirst   |   [The Kubefirst CLI creates instant GitOps platforms that integrate some of the best tools in cloud native from scratch in minutes](https://github.com/kubefirst/kubefirst)   |   ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)  |
+|  45  |   k'exp   |   [Understand Kubernetes - the visual way Not yet another attempt to manage production clusters in the browser](https://github.com/iximiuz/kexp)   |   ![Github Stars](https://img.shields.io/github/stars/iximiuz/kexp)  |
 
 
 ## Alternative Tools for Development						
