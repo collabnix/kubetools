@@ -251,6 +251,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  43  |   Radius   |   [Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps](https://github.com/radius-project/radius)   |   ![Github Stars](https://img.shields.io/github/stars/radius-project/radius)  |
 |  44  |   Kubefirst   |   [The Kubefirst CLI creates instant GitOps platforms that integrate some of the best tools in cloud native from scratch in minutes](https://github.com/kubefirst/kubefirst)   |   ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)  |
 |  45  |   k'exp   |   [Understand Kubernetes - the visual way Not yet another attempt to manage production clusters in the browser](https://github.com/iximiuz/kexp)   |   ![Github Stars](https://img.shields.io/github/stars/iximiuz/kexp)  |
+|  46  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
 
 
 ## Alternative Tools for Development						
