@@ -252,6 +252,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  44  |   Kubefirst   |   [The Kubefirst CLI creates instant GitOps platforms that integrate some of the best tools in cloud native from scratch in minutes](https://github.com/kubefirst/kubefirst)   |   ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)  |
 |  45  |   k'exp   |   [Understand Kubernetes - the visual way Not yet another attempt to manage production clusters in the browser](https://github.com/iximiuz/kexp)   |   ![Github Stars](https://img.shields.io/github/stars/iximiuz/kexp)  |
 |  46  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
+|  47  |   k8s-insider   |   [A zero-config way to access you kubernetes cluster network](https://github.com/TrueGoric/k8s-insider)   |   ![Github Stars](https://img.shields.io/github/stars/TrueGoric/k8s-insider)  |
 
 
 ## Alternative Tools for Development						
