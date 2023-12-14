@@ -256,7 +256,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  46  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
 |  47  |   k8s-insider   |   [A zero-config way to access you kubernetes cluster network](https://github.com/TrueGoric/k8s-insider)   |   ![Github Stars](https://img.shields.io/github/stars/TrueGoric/k8s-insider)  |
 |  48  |   Cyclops   |   [Developer friendly Kubernetes 👁️](https://github.com/cyclops-ui/cyclops)   |   ![Github Stars](https://img.shields.io/github/stars/cyclops-ui/cyclops)  |
-
+|  49  |   Sablier   |   [Start your containers on demand, shut them down automatically when there's no activity. ](https://github.com/acouvreur/sablier)   |   ![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)  |
 
 ## Alternative Tools for Development						
 									
@@ -294,8 +294,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	16	|	Helmsman  	|	[ Helm Charts as Code ](https://github.com/Praqma/helmsman)	|	![Github Stars](https://img.shields.io/github/stars/Praqma/helmsman)	|
 |	17	|	PipeCD  	|	[ The One CD for All {applications, platforms, operations} ](https://github.com/pipe-cd/pipecd)	|	![Github Stars](https://img.shields.io/github/stars/pipe-cd/pipecd)	|
 |	18	|	Kluctl  	|	[ Kluctl implements templated declarative Kubernetes deployments, supporting push (CLI) and pull (kluctl-controller) based GitOps from the same source ](https://github.com/kluctl/kluctl)	|	![Github Stars](https://img.shields.io/github/stars/kluctl/kluctl)	|
+| 	19 	| kubedog | [ Library to watch and follow kubernetes resources in CI/CD deploy pipelines](https://github.com/werf/kubedog) |  ![Github Stars](https://img.shields.io/github/stars/werf/kubedog)      |
 
-									
+	 
 ## Security Tools						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -335,6 +336,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	33 	| Netchecks | [ Set of tools for testing network conditions and asserting that they are as expected.](https://github.com/hardbyte/netchecks/) |  ![Github Stars](https://img.shields.io/github/stars/hardbyte/netchecks)      |
 | 	34 	| KubeLinter | [ KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices](https://github.com/stackrox/kube-linter) |  ![Github Stars](https://img.shields.io/github/stars/stackrox/kube-linter)      |
 | 	35 	| IceKube | [ IceKube is a tool to help find attack paths within a Kubernetes cluster from a low privileged point, to a preferred location, typically cluster-admin](https://github.com/WithSecureLabs/IceKube) |  ![Github Stars](https://img.shields.io/github/stars/WithSecureLabs/IceKube)      |
+
 
 
 ## Network Policies						
