@@ -58,6 +58,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - 💾 [Cost Optimisation](#cost-optimisation)
   - ⚙️ [Function as a Service FaaS](#function-as-a-service-faas)
   - 🚀 [Artificial Intelligence](#artificial-intelligence)
+  - ⚡  [Caching](#caching)
   - 🔒 [Non-Categorize](#non-categorize)
 
 
@@ -532,6 +533,16 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	4	|    	kopylot |	[	An AI-Powered assistant for Kubernetes developers ](https://github.com/avsthiago/kopylot)	|	![Github Stars](https://img.shields.io/github/stars/avsthiago/kopylot)	|
 |	5	|	aiac  	|	[	Artificial Intelligence K8s manifest and package generator](https://github.com/gofireflyio/aiac)	|	![Github Stars](https://img.shields.io/github/stars/gofireflyio/aiac)	|
 |	6	|	mico  	|	[	An AI assisted kubectl helper](https://github.com/tahtaciburak/mico)	|	![Github Stars](https://img.shields.io/github/stars/tahtaciburak/mico)	|
+
+## Caching
+
+|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
+| ---------- | --------------------- | --------------------- | ------------------|									
+|	1	|    	kube-fledged |	[ A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes ](https://github.com/senthilrch/kube-fledged)	|	![Github Stars](https://img.shields.io/github/stars/senthilrch/kube-fledged)	|
+|	2	|    	kubernetes-image-puller |	[ It is used for caching images on a cluster. It creates a DaemonSet downloading and running the relevant container images on each node. ](https://github.com/che-incubator/kubernetes-image-puller)	|	![Github Stars](https://img.shields.io/github/stars/che-incubator/kubernetes-image-puller)	|
+|	3	|    	Tugger |	[ Kubernetes Admission Webhook to enforce pulling of Docker images from the private registry. ](https://github.com/jainishshah17/tugger)	|	![Github Stars](https://img.shields.io/github/stars/jainishshah17/tugger)	|
+|	4	|    	kube-image-keeper (kuik) |	[ kuik is a container image caching system for Kubernetes](https://github.com/enix/kube-image-keeper)	|	![Github Stars](https://img.shields.io/github/stars/enix/kube-image-keeper)	|
+|	1	|    	harbor |	[	A trusted cloud native registry project that stores,caches, signs, and scans content. ](https://github.com/goharbor/harbor)	|	![Github Stars](https://img.shields.io/github/stars/goharbor/harbor)	|
 
 
 ## Non-Categorize						
