@@ -109,7 +109,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	31	|	punq  	|	[	Self-hosted Kubernetes workload manager with team collaboration ](https://github.com/mogenius/punq)	|	![Github Stars](https://img.shields.io/github/stars/mogenius/punq)	|
 |   32  |   Claudie     |   [   Deploy and operate Kubernetes clusters with each nodepool in a different provider or on-prem](https://github.com/berops/claudie)  |  ![Github Stars](https://img.shields.io/github/stars/berops/claudie)  |
 |   33  |   Kubemarine     |   [   Management tool for Kubernetes cluster deployment and maintenance](https://github.com/Netcracker/KubeMarine)  |  ![Github Stars](https://img.shields.io/github/stars/Netcracker/KubeMarine)  |
-
+| 34 |	k8s-duplicator | [Kubernetes controller that copies secrets into other namespaces](https://github.com/Nick-Triller/k8s-duplicator) | ![Github Stars](https://img.shields.io/github/stars/Nick-Triller/k8s-duplicator) |
 								
 ## Cluster with Core CLI tools						
 									
