@@ -258,6 +258,10 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  47  |   k8s-insider   |   [A zero-config way to access you kubernetes cluster network](https://github.com/TrueGoric/k8s-insider)   |   ![Github Stars](https://img.shields.io/github/stars/TrueGoric/k8s-insider)  |
 |  48  |   Cyclops   |   [Developer friendly Kubernetes 👁️](https://github.com/cyclops-ui/cyclops)   |   ![Github Stars](https://img.shields.io/github/stars/cyclops-ui/cyclops)  |
 |  49  |   Sablier   |   [Start your containers on demand, shut them down automatically when there's no activity. ](https://github.com/acouvreur/sablier)   |   ![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)  |
+|  50  |   kronic   |   [ The simple Kubernetes CronJob Admin UI ](https://github.com/mshade/kronic)   |   ![Github Stars](https://img.shields.io/github/stars/mshade/kronic)  |
+|  51  |   Kor   |   [ A Golang Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)   |   ![Github Stars](https://img.shields.io/github/stars/yonahd/kor)  |
+
+
 
 ## Alternative Tools for Development						
 									
@@ -503,7 +507,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	Colima  	|	[	 Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)	|	![Github Stars](https://img.shields.io/github/stars/abiosoft/colima)	|
 |	6	|	Krateo Platformops 	|	[	 Open source platform to manage infrastructure, resources and applications via YAML files](https://github.com/krateoplatformops/krateo)	|	![Github Stars](https://img.shields.io/github/stars/krateoplatformops/krateo)	|
 |	7	|	Kamus 	|	[	 An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications](https://github.com/Soluto/kamus)	|	![Github Stars](https://img.shields.io/github/stars/Soluto/kamus)	|
- 																
+ |	8	|	korb 	|	[	 Move Kubernetes PVCs between Storage Classes and Namespaces](https://github.com/BeryJu/korb)	|	![Github Stars](https://img.shields.io/github/stars/BeryJu/korb)	|																
+
+
 ## Cost Optimisation						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
