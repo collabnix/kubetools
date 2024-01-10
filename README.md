@@ -498,6 +498,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | ---------- | ---------------------    | --------------------- | ------------------|	
 |     1      |   Stash               |  [	🛅 Backup your Kubernetes Stateful Applications](https://github.com/stashed/stash)  |	 ![Github Stars](https://img.shields.io/github/stars/stashed/stash)
 |     2      |   kube-dump              |  [	Backup a Kubernetes cluster as a yaml manifest](https://github.com/WoozyMasta/kube-dump)  |	 ![Github Stars](https://img.shields.io/github/stars/WoozyMasta/kube-dump)
+|     3      |   VolSync             |  [	Asynchronous data replication for Kubernetes volumes](https://github.com/backube/volsync)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/volsync)
+|     4     |   Reflector             |  [	Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.](https://github.com/emberstack/kubernetes-reflector)  |	 ![Github Stars](https://img.shields.io/github/stars/emberstack/kubernetes-reflector)
 
 
   
@@ -544,6 +546,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	4	|    	kopylot |	[	An AI-Powered assistant for Kubernetes developers ](https://github.com/avsthiago/kopylot)	|	![Github Stars](https://img.shields.io/github/stars/avsthiago/kopylot)	|
 |	5	|	aiac  	|	[	Artificial Intelligence K8s manifest and package generator](https://github.com/gofireflyio/aiac)	|	![Github Stars](https://img.shields.io/github/stars/gofireflyio/aiac)	|
 |	6	|	mico  	|	[	An AI assisted kubectl helper](https://github.com/tahtaciburak/mico)	|	![Github Stars](https://img.shields.io/github/stars/tahtaciburak/mico)	|
+|	7	|	kserve  	|	[ Standardized Serverless ML Inference Platform on Kubernets](https://github.com/kserve/kserve)	|	![Github Stars](https://img.shields.io/github/stars/kserve/kserve)	|
+
 
 ## Caching
 
