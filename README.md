@@ -264,6 +264,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  52  |   Docketeer   |   [ Docketeer is a developer-friendly application that provides a single interface for container and network management as well as metric visualization. ](https://github.com/open-source-labs/Docketeer)   |   ![Github Stars](https://img.shields.io/github/stars/open-source-labs/Docketeer)  |
 |  53  |   Helmify   |   [ Creates Helm chart from Kubernetes yaml ](https://github.com/arttor/helmify)   |   ![Github Stars](https://img.shields.io/github/stars/arttor/helmify)  |
 |  54  |   Kueue   |   [ Kubernetes-native Job Queueing ](https://github.com/kubernetes-sigs/kueue)   |   ![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)  |
+|  55  |   Reckoner   |   [ Declaratively install and manage multiple Helm chart releases ](https://github.com/FairwindsOps/reckoner)   |   ![Github Stars](https://img.shields.io/github/stars/FairwindsOps/reckoner)  |
 
 
 ## Alternative Tools for Development						
@@ -500,7 +501,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |     2      |   kube-dump              |  [	Backup a Kubernetes cluster as a yaml manifest](https://github.com/WoozyMasta/kube-dump)  |	 ![Github Stars](https://img.shields.io/github/stars/WoozyMasta/kube-dump)
 |     3      |   VolSync             |  [	Asynchronous data replication for Kubernetes volumes](https://github.com/backube/volsync)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/volsync)
 |     4     |   Reflector             |  [	Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.](https://github.com/emberstack/kubernetes-reflector)  |	 ![Github Stars](https://img.shields.io/github/stars/emberstack/kubernetes-reflector)
-
+|     5    |   Reflector             |  [	Scheduled snapshots for Kubernetes persistent volumes.](https://github.com/backube/snapscheduler)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/snapscheduler)
 
   
 ## Multiple Tools Repo						
