@@ -112,6 +112,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |   33  |   Kubemarine     |   [   Management tool for Kubernetes cluster deployment and maintenance](https://github.com/Netcracker/KubeMarine)  |  ![Github Stars](https://img.shields.io/github/stars/Netcracker/KubeMarine)  |
 | 34 |	k8s-duplicator | [Kubernetes controller that copies secrets into other namespaces](https://github.com/Nick-Triller/k8s-duplicator) | ![Github Stars](https://img.shields.io/github/stars/Nick-Triller/k8s-duplicator) |
 | 35 |	k0smotron | [run Kubernetes control planes within a management cluster and with the integration of Cluster API](https://github.com/k0sproject/k0smotron) | ![Github Stars](https://img.shields.io/github/stars/k0sproject/k0smotron) |
+| 36 |	KubeStellar | [a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud ](https://github.com/kubestellar/kubestellar) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/kubestellar) |
 
 								
 ## Cluster with Core CLI tools						
