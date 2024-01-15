@@ -577,6 +577,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	3	|     Java Client for Kubernetes |	[ Official Java client library for kubernetes ](https://github.com/kubernetes-client/java)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-client/java)	|
 |	4	|     Javascript Client for Kubernetes |	[ Official Javascript client library for kubernetes ](https://github.com/kubernetes-client/javascript)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-client/javascript)	|
 |	5	|     csharp Client for Kubernetes |	[ Official dotnet client library for kubernetes ](https://github.com/kubernetes-client/csharp)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-client/csharp)	|
+|	6	|     Dapr |	[  Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge ](https://github.com/dapr/dapr)	|	![Github Stars](https://img.shields.io/github/stars/dapr/dapr)	|
+
 
 ## Non-Categorize						
 									
