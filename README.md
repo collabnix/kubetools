@@ -508,7 +508,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |     2      |   kube-dump              |  [	Backup a Kubernetes cluster as a yaml manifest](https://github.com/WoozyMasta/kube-dump)  |	 ![Github Stars](https://img.shields.io/github/stars/WoozyMasta/kube-dump)
 |     3      |   VolSync             |  [	Asynchronous data replication for Kubernetes volumes](https://github.com/backube/volsync)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/volsync)
 |     4     |   Reflector             |  [	Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.](https://github.com/emberstack/kubernetes-reflector)  |	 ![Github Stars](https://img.shields.io/github/stars/emberstack/kubernetes-reflector)
-|     5    |   Reflector             |  [	Scheduled snapshots for Kubernetes persistent volumes.](https://github.com/backube/snapscheduler)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/snapscheduler)
+|     5    |   Reflector             |  [	Scheduled snapshots for Kubernetes persistent volumes.](https://github.com/backube/snapscheduler)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/snapscheduler)|
+|     6      |   K8up Backup Operator           |  [	K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster](https://github.com/k8up-io/k8up)  |	 ![Github Stars](https://img.shields.io/github/stars/k8up-io/k8up)
+
 
   
 ## Multiple Tools Repo						
