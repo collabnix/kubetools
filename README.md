@@ -610,6 +610,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 14 | MayFly | [Mayfly is a Kubernetes operator that enables you to create temporary resources on the cluster that will expire after a certain period of time](https://github.com/NCCloud/mayfly) | ![GitHub Stars](https://img.shields.io/github/stars/NCCloud/mayfly) |
 |       15      |       yupd            |       [       Yupd is a command-line tool that allows updating YAML files the GitOps way](https://github.com/srozange/yupd)   | ![GitHub Stars](https://img.shields.io/github/stars/srozange/yupd)   |
 | 16 | k8s-cleaner | [Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources](https://github.com/gianlucam76/k8s-cleaner) | ![GitHub Stars](https://img.shields.io/github/stars/gianlucam76/k8s-cleaner) |
+|	17	|	kube-job  	|	[	Run one off job on kubernetes from the command line tool](https://github.com/h3poteto/kube-job)	|	![Github Stars](https://img.shields.io/github/stars/h3poteto/kube-job)	|
+
 
 ## Maintainer
 
