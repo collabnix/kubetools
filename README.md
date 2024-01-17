@@ -213,6 +213,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	11	|	kubespy  	|	[	pod debugging tool for kubernetes clusters with docker runtimes](https://github.com/huazhihao/kubespy)	|	![Github Stars](https://img.shields.io/github/stars/huazhihao/kubespy)	|
 | 12 | Inspektor Gadget | [ A collection of eBPF-based tools to debug and inspect Kubernetes resources and applications ](https://github.com/inspektor-gadget/inspektor-gadget) | ![Github Stars](https://img.shields.io/github/stars/inspektor-gadget/inspektor-gadget) |
 |	13	|	KubeSkoop  	|	[	kubernetes networking diagnose tool for different CNI plug-ins and IAAS providers](https://github.com/alibaba/kubeskoop)	|	![Github Stars](https://img.shields.io/github/stars/alibaba/kubeskoop)	|
+|	14 |	kubent  	|	[	Easily check your clusters for use of deprecated APIs](https://github.com/doitintl/kube-no-trouble)	|	![Github Stars](https://img.shields.io/github/stars/doitintl/kube-no-trouble)	|
+
 
 									
 ## Developement Tools/Kit						
