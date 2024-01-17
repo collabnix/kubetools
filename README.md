@@ -115,8 +115,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 36 |	KubeStellar | [a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud ](https://github.com/kubestellar/kubestellar) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/kubestellar) |
 | 37 |	Trolley | [ Trolley is a multi cloud Kubernetes management system ](https://github.com/Trolley-MGMT/trolleymgmt) | ![Github Stars](https://img.shields.io/github/stars/Trolley-MGMT/trolleymgmt) |
 | 38 |	Cyclops | [ a powerful user interface for managing and interacting with Kubernetes clusters ](https://github.com/cyclops-ui/cyclops) | ![Github Stars](https://img.shields.io/github/stars/cyclops-ui/cyclops) |
-
-
+| 39 |	Liqo | [ an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures ](https://github.com/liqotech/liqo) | ![Github Stars](https://img.shields.io/github/stars/liqotech/liqo) |
 								
 ## Cluster with Core CLI tools						
 									
