@@ -60,6 +60,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - 🚀 [Artificial Intelligence](#artificial-intelligence)
   - ⚡ [Caching](#caching)
   - 🐋 [Clients](#clients)
+  - 🧹 [Cleanup](#cleanup)
   - 🔒 [Non-Categorize](#non-categorize)
 
 
@@ -266,16 +267,15 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  43  |   Radius   |   [Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps](https://github.com/radius-project/radius)   |   ![Github Stars](https://img.shields.io/github/stars/radius-project/radius)  |
 |  44  |   Kubefirst   |   [The Kubefirst CLI creates instant GitOps platforms that integrate some of the best tools in cloud native from scratch in minutes](https://github.com/kubefirst/kubefirst)   |   ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)  |
 |  45  |   k'exp   |   [Understand Kubernetes - the visual way Not yet another attempt to manage production clusters in the browser](https://github.com/iximiuz/kexp)   |   ![Github Stars](https://img.shields.io/github/stars/iximiuz/kexp)  |
-|  46  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
-|  47  |   k8s-insider   |   [A zero-config way to access you kubernetes cluster network](https://github.com/TrueGoric/k8s-insider)   |   ![Github Stars](https://img.shields.io/github/stars/TrueGoric/k8s-insider)  |
-|  48  |   Cyclops   |   [Developer friendly Kubernetes 👁️](https://github.com/cyclops-ui/cyclops)   |   ![Github Stars](https://img.shields.io/github/stars/cyclops-ui/cyclops)  |
-|  49  |   Sablier   |   [Start your containers on demand, shut them down automatically when there's no activity. ](https://github.com/acouvreur/sablier)   |   ![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)  |
-|  50  |   kronic   |   [ The simple Kubernetes CronJob Admin UI ](https://github.com/mshade/kronic)   |   ![Github Stars](https://img.shields.io/github/stars/mshade/kronic)  |
-|  51  |   Kor   |   [ A Golang Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)   |   ![Github Stars](https://img.shields.io/github/stars/yonahd/kor)  |
-|  52  |   Docketeer   |   [ Docketeer is a developer-friendly application that provides a single interface for container and network management as well as metric visualization. ](https://github.com/open-source-labs/Docketeer)   |   ![Github Stars](https://img.shields.io/github/stars/open-source-labs/Docketeer)  |
-|  53  |   Helmify   |   [ Creates Helm chart from Kubernetes yaml ](https://github.com/arttor/helmify)   |   ![Github Stars](https://img.shields.io/github/stars/arttor/helmify)  |
-|  54  |   Kueue   |   [ Kubernetes-native Job Queueing ](https://github.com/kubernetes-sigs/kueue)   |   ![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)  |
-|  55  |   Reckoner   |   [ Declaratively install and manage multiple Helm chart releases ](https://github.com/FairwindsOps/reckoner)   |   ![Github Stars](https://img.shields.io/github/stars/FairwindsOps/reckoner)  |
+|  46  |   k8s-insider   |   [A zero-config way to access you kubernetes cluster network](https://github.com/TrueGoric/k8s-insider)   |   ![Github Stars](https://img.shields.io/github/stars/TrueGoric/k8s-insider)  |
+|  47  |   Cyclops   |   [Developer friendly Kubernetes 👁️](https://github.com/cyclops-ui/cyclops)   |   ![Github Stars](https://img.shields.io/github/stars/cyclops-ui/cyclops)  |
+|  48  |   Sablier   |   [Start your containers on demand, shut them down automatically when there's no activity. ](https://github.com/acouvreur/sablier)   |   ![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)  |
+|  49  |   kronic   |   [ The simple Kubernetes CronJob Admin UI ](https://github.com/mshade/kronic)   |   ![Github Stars](https://img.shields.io/github/stars/mshade/kronic)  |
+|  50  |   Kor   |   [ A Golang Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)   |   ![Github Stars](https://img.shields.io/github/stars/yonahd/kor)  |
+|  51  |   Docketeer   |   [ Docketeer is a developer-friendly application that provides a single interface for container and network management as well as metric visualization. ](https://github.com/open-source-labs/Docketeer)   |   ![Github Stars](https://img.shields.io/github/stars/open-source-labs/Docketeer)  |
+|  52  |   Helmify   |   [ Creates Helm chart from Kubernetes yaml ](https://github.com/arttor/helmify)   |   ![Github Stars](https://img.shields.io/github/stars/arttor/helmify)  |
+|  53  |   Kueue   |   [ Kubernetes-native Job Queueing ](https://github.com/kubernetes-sigs/kueue)   |   ![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)  |
+|  54  |   Reckoner   |   [ Declaratively install and manage multiple Helm chart releases ](https://github.com/FairwindsOps/reckoner)   |   ![Github Stars](https://img.shields.io/github/stars/FairwindsOps/reckoner)  |
 
 
 ## Alternative Tools for Development						
@@ -590,6 +590,15 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	7	|     DevPod |	[  client-only tool to create reproducible developer environments based on a devcontainer.json on any backend ](https://github.com/loft-sh/devpod)	|	![Github Stars](https://img.shields.io/github/stars/loft-sh/devpod)	|
 
 
+## Cleanup
+|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
+| ---------- | --------------------- | --------------------- | ------------------|									
+|	1	|	kube-fencing  	|	[	cleaning resources from the failed nodes that's blocks any further operation and recovery](https://github.com/kvaps/kube-fencing)	|	![Github Stars](https://img.shields.io/github/stars/kvaps/kube-fencing)	|
+| 2 | k8s-cleaner | [Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources](https://github.com/gianlucam76/k8s-cleaner) | ![GitHub Stars](https://img.shields.io/github/stars/gianlucam76/k8s-cleaner) |
+|  3  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
+
+
+
 ## Non-Categorize						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -609,8 +618,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	13	|	Projectsveltos 	|	[	Kubernetes add-on controller for hundreds of clusters that automatically discovers and classifies clusters, making it easy to manage add-ons at scale](https://github.com/projectsveltos/addon-controller)	|	![Github Stars](https://img.shields.io/github/stars/projectsveltos/addon-controller)	|
 | 14 | MayFly | [Mayfly is a Kubernetes operator that enables you to create temporary resources on the cluster that will expire after a certain period of time](https://github.com/NCCloud/mayfly) | ![GitHub Stars](https://img.shields.io/github/stars/NCCloud/mayfly) |
 |       15      |       yupd            |       [       Yupd is a command-line tool that allows updating YAML files the GitOps way](https://github.com/srozange/yupd)   | ![GitHub Stars](https://img.shields.io/github/stars/srozange/yupd)   |
-| 16 | k8s-cleaner | [Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources](https://github.com/gianlucam76/k8s-cleaner) | ![GitHub Stars](https://img.shields.io/github/stars/gianlucam76/k8s-cleaner) |
-|	17	|	kube-job  	|	[	Run one off job on kubernetes from the command line tool](https://github.com/h3poteto/kube-job)	|	![Github Stars](https://img.shields.io/github/stars/h3poteto/kube-job)	|
+|	16	|	kube-job  	|	[	Run one off job on kubernetes from the command line tool](https://github.com/h3poteto/kube-job)	|	![Github Stars](https://img.shields.io/github/stars/h3poteto/kube-job)	|
 
 
 ## Maintainer
