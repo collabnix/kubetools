@@ -315,6 +315,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	17	|	PipeCD  	|	[ The One CD for All {applications, platforms, operations} ](https://github.com/pipe-cd/pipecd)	|	![Github Stars](https://img.shields.io/github/stars/pipe-cd/pipecd)	|
 |	18	|	Kluctl  	|	[ Kluctl implements templated declarative Kubernetes deployments, supporting push (CLI) and pull (kluctl-controller) based GitOps from the same source ](https://github.com/kluctl/kluctl)	|	![Github Stars](https://img.shields.io/github/stars/kluctl/kluctl)	|
 | 	19 	| kubedog | [ Library to watch and follow kubernetes resources in CI/CD deploy pipelines](https://github.com/werf/kubedog) |  ![Github Stars](https://img.shields.io/github/stars/werf/kubedog)      |
+| 	20 	| Kubefirst | [ GitOps Infrastructure & Application Delivery Platform](https://github.com/kubefirst/kubefirst) |  ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)      |
 
 	 
 ## Security Tools						
