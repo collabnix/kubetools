@@ -278,6 +278,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  52  |   Helmify   |   [ Creates Helm chart from Kubernetes yaml ](https://github.com/arttor/helmify)   |   ![Github Stars](https://img.shields.io/github/stars/arttor/helmify)  |
 |  53  |   Kueue   |   [ Kubernetes-native Job Queueing ](https://github.com/kubernetes-sigs/kueue)   |   ![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)  |
 |  54  |   Reckoner   |   [ Declaratively install and manage multiple Helm chart releases ](https://github.com/FairwindsOps/reckoner)   |   ![Github Stars](https://img.shields.io/github/stars/FairwindsOps/reckoner)  |
+|  55  |   Katenary   |   [ Convert docker-compose to a configurable helm chart ](https://github.com/metal3d/katenary)   |   ![Github Stars](https://img.shields.io/github/stars/metal3d/katenary)  |
 
 
 ## Alternative Tools for Development						
