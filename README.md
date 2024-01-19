@@ -358,9 +358,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	35 	| IceKube | [ IceKube is a tool to help find attack paths within a Kubernetes cluster from a low privileged point, to a preferred location, typically cluster-admin](https://github.com/WithSecureLabs/IceKube) |  ![Github Stars](https://img.shields.io/github/stars/WithSecureLabs/IceKube)      |
 |	36	|	kube-rebac-authorizer  	|	[	Beyond RBAC: Implementing Relation-based Access Control for Kubernetes with OpenFGA ](https://github.com/luxas/kube-rebac-authorizer)	|	![Github Stars](https://img.shields.io/github/stars/luxas/kube-rebac-authorizer)	|
 |	37	|	MTKPI  	|	[	 🧰 Multi Tool Kubernetes Pentest Image ](https://github.com/r0binak/MTKPI)	|	![Github Stars](https://img.shields.io/github/stars/r0binak/MTKPI)	|
-
-
-
+|	38	|	KubeZoo  	|	[	 a lightweight kubernetes multi-tenancy gateway ](https://github.com/kubewharf/kubezoo)	|	![Github Stars](https://img.shields.io/github/stars/kubewharf/kubezoo)	|
 
 ## Network Policies						
 									
