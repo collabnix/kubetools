@@ -199,7 +199,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	9	|	Otterize network mapper  	|	[	Map Kubernetes in-cluster traffic and export as text, intents, or an image](https://github.com/otterize/network-mapper)	|	![Github Stars](https://img.shields.io/github/stars/otterize/network-mapper)	|
 |	10	|	kube-audit-rest  	|	[	Kubernetes audit logging, when you don't control the control plane ](https://github.com/RichardoC/kube-audit-rest)	|	![Github Stars](https://img.shields.io/github/stars/RichardoC/kube-audit-rest)	|
 |	11	|	kail 	|	[	kubernetes log viewer ](https://github.com/boz/kail)	|	![Github Stars](https://img.shields.io/github/stars/boz/kail)	|
-      
+|	12	|	network mapper 	|	[	Map Kubernetes in-cluster traffic and export as text, intents, or an image ](https://github.com/otterize/network-mapper)	|	![Github Stars](https://img.shields.io/github/stars/otterize/network-mapper)	|     
 
 ## Troubleshooting / Debugging						
 									
@@ -366,6 +366,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	36	|	kube-rebac-authorizer  	|	[	Beyond RBAC: Implementing Relation-based Access Control for Kubernetes with OpenFGA ](https://github.com/luxas/kube-rebac-authorizer)	|	![Github Stars](https://img.shields.io/github/stars/luxas/kube-rebac-authorizer)	|
 |	37	|	MTKPI  	|	[	 🧰 Multi Tool Kubernetes Pentest Image ](https://github.com/r0binak/MTKPI)	|	![Github Stars](https://img.shields.io/github/stars/r0binak/MTKPI)	|
 |	38	|	KubeZoo  	|	[	 a lightweight kubernetes multi-tenancy gateway ](https://github.com/kubewharf/kubezoo)	|	![Github Stars](https://img.shields.io/github/stars/kubewharf/kubezoo)	|
+|	39	|	kubectl-modify-secrets   	|	[	 allows user to directly modify the secret without worrying about base64 encoding/decoding ](https://github.com/rajatjindal/kubectl-modify-secret)	|	![Github Stars](https://img.shields.io/github/stars/rajatjindal/kubectl-modify-secret)	|
+
 
 ## Network Policies						
 									
@@ -401,12 +403,15 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	kube-burnerd  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)	|	-	|
 |	9	|	Tracetest  	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
 |	10	|	Microcks  	|	[	 Kubernetes native tool for mocking and testing API and micro-services](https://github.com/microcks/microcks)	|	![Github Stars](https://img.shields.io/github/stars/microcks/microcks)	|
-|	11	|	KWOK  	|	[	Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.](https://github.com/kubernetes-sigs/kwok)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kwok)	|
+|	11	|	KWOK  	        |	[	Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.](https://github.com/kubernetes-sigs/kwok)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kwok)	|
 |	12	|	Keploy  	|	[	Open source Tool for converting user-traffic to Test Cases and Data Stubs.](https://github.com/keploy/keploy)	|	![Github Stars](https://img.shields.io/github/stars/keploy/keploy)	|
 |	13	|	Netchecks  	|	[Tool to validate assumptions about the network](https://github.com/hardbyte/netchecks)	|	![Github Stars](https://img.shields.io/github/stars/hardbyte/netchecks)	|
-| 14 |	Nighthawk | [ Nighthawk is Layer5's versatile HTTP load tester. Drills deep with constant & adaptive rates, revealing performance insights ](https://github.com/layer5io/getnighthawk) | ![Github Stars](https://img.shields.io/github/stars/layer5io/getnighthawk) |
+|       14      |	Nighthawk       | [ Nighthawk is Layer5's versatile HTTP load tester. Drills deep with constant & adaptive rates, revealing performance insights ](https://github.com/layer5io/getnighthawk) | ![Github Stars](https://img.shields.io/github/stars/layer5io/getnighthawk) |
+|      15       |	perf-tests      | [ Performance tests and benchmarks ](https://github.com/kubernetes/perf-tests) | ![Github Stars](https://img.shields.io/github/stars/kubernetes/perf-tests) |
 
-                           		
+
+
+			     
 ## Service Mesh						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
