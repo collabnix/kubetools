@@ -281,7 +281,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  53  |   Kueue   |   [ Kubernetes-native Job Queueing ](https://github.com/kubernetes-sigs/kueue)   |   ![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kueue)  |
 |  54  |   Reckoner   |   [ Declaratively install and manage multiple Helm chart releases ](https://github.com/FairwindsOps/reckoner)   |   ![Github Stars](https://img.shields.io/github/stars/FairwindsOps/reckoner)  |
 |  55  |   Katenary   |   [ Convert docker-compose to a configurable helm chart ](https://github.com/metal3d/katenary)   |   ![Github Stars](https://img.shields.io/github/stars/metal3d/katenary)  |
-
+|  56  |   kubernetes-replicator   |   [ Kubernetes controller for synchronizing secrets & config maps across namespaces ](https://github.com/mittwald/kubernetes-replicator)   |   ![Github Stars](https://img.shields.io/github/stars/mittwald/kubernetes-replicator)  |
 
 ## Alternative Tools for Development						
 									
@@ -322,6 +322,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	18	|	Kluctl  	|	[ Kluctl implements templated declarative Kubernetes deployments, supporting push (CLI) and pull (kluctl-controller) based GitOps from the same source ](https://github.com/kluctl/kluctl)	|	![Github Stars](https://img.shields.io/github/stars/kluctl/kluctl)	|
 | 	19 	| kubedog | [ Library to watch and follow kubernetes resources in CI/CD deploy pipelines](https://github.com/werf/kubedog) |  ![Github Stars](https://img.shields.io/github/stars/werf/kubedog)      |
 | 	20 	| Kubefirst | [ GitOps Infrastructure & Application Delivery Platform](https://github.com/kubefirst/kubefirst) |  ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)      |
+| 	21	| autoapply | [ Automatically apply changes to a Kubernetes cluster](https://github.com/autoapply/autoapply) |  ![Github Stars](https://img.shields.io/github/stars/autoapply/autoapply)      |
 
 	 
 ## Security Tools						
