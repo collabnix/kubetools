@@ -17,7 +17,7 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 9000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools(Jan 2024)				
+## Top Featured Kubernetes Tools( Feb 2024)				
 				
 - [K8s-insider](https://www.kubetools.io/kubernetes/streamlining-kubernetes-networking-with-k8s-insider/)
 - [Stern](https://www.kubetools.io/kubernetes/stern-simplifying-kubernetes-log-tailing/)
