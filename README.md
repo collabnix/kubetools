@@ -284,6 +284,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  56  |   kubernetes-replicator   |   [ Kubernetes controller for synchronizing secrets & config maps across namespaces ](https://github.com/mittwald/kubernetes-replicator)   |   ![Github Stars](https://img.shields.io/github/stars/mittwald/kubernetes-replicator)  |
 |  57  |   node-gizmo   |   [ A CLI utility for your Kubernetes nodes ](https://github.com/Kavinraja-G/node-gizmo)   |   ![Github Stars](https://img.shields.io/github/stars/Kavinraja-G/node-gizmo)  |
 |  58  |   KubeBlocks   |   [ open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. ](https://github.com/apecloud/kubeblocks)   |   ![Github Stars](https://img.shields.io/github/stars/apecloud/kubeblocks)  |
+|  59  |   KFtray   |   [ Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories. ](https://github.com/hcavarsan/kftray)   |   ![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)  |
 
 ## Alternative Tools for Development						
 									
