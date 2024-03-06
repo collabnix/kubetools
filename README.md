@@ -607,7 +607,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Cleanup
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
-|	1	|	kube-fencing  	|	[	cleaning resources from the failed nodes that's blocks any further operation and recovery](https://github.com/kvaps/kube-fencing)	|	![Github Stars](https://img.shields.io/github/stars/kvaps/kube-fencing)	|
+|	1	|	kube-fencing  	|	[cleaning resources from the failed nodes that's blocks any further operation and recovery](https://github.com/kvaps/kube-fencing)	|	![Github Stars](https://img.shields.io/github/stars/kvaps/kube-fencing)	|
 | 2 | k8s-cleaner | [Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources](https://github.com/gianlucam76/k8s-cleaner) | ![GitHub Stars](https://img.shields.io/github/stars/gianlucam76/k8s-cleaner) |
 |  3  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
 
