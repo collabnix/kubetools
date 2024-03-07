@@ -119,6 +119,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 39 |	Liqo | [ an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures ](https://github.com/liqotech/liqo) | ![Github Stars](https://img.shields.io/github/stars/liqotech/liqo) |
 | 40 |	Guard | [ 🔑 Kubernetes Authentication & Authorization WebHook Server ](https://github.com/kubeguard/guard) | ![Github Stars](https://img.shields.io/github/stars/kubeguard/guard) |	
 | 41 |	Meshery | [ Meshery is a Multi-cluster management tool for Kubernetes and Clouds ](https://github.com/meshery/meshery) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |							
+| 42|	cluster-template | [ A template for deploying a Kubernetes cluster with k3s or Talos ](https://github.com/onedr0p/cluster-template) | ![Github Stars](https://img.shields.io/github/stars/onedr0p/cluster-template) |
+| 43|	Punq | [ A slim open-source workload manager for Kubernetes with team collaboration, WebApp, and CLI. ](https://github.com/mogenius/punq) | ![Github Stars](https://img.shields.io/github/stars/mogenius/punq) |
 
 ## Cluster with Core CLI tools						
 									
