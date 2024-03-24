@@ -119,8 +119,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 39 |	Liqo | [ an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures ](https://github.com/liqotech/liqo) | ![Github Stars](https://img.shields.io/github/stars/liqotech/liqo) |
 | 40 |	Guard | [ 🔑 Kubernetes Authentication & Authorization WebHook Server ](https://github.com/kubeguard/guard) | ![Github Stars](https://img.shields.io/github/stars/kubeguard/guard) |	
 | 41 |	Meshery | [ Meshery is a Multi-cluster management tool for Kubernetes and Clouds ](https://github.com/meshery/meshery) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |							
-| 42|	cluster-template | [ A template for deploying a Kubernetes cluster with k3s or Talos ](https://github.com/onedr0p/cluster-template) | ![Github Stars](https://img.shields.io/github/stars/onedr0p/cluster-template) |
-| 43|	Punq | [ A slim open-source workload manager for Kubernetes with team collaboration, WebApp, and CLI. ](https://github.com/mogenius/punq) | ![Github Stars](https://img.shields.io/github/stars/mogenius/punq) |
+| 42 |	cluster-template | [ A template for deploying a Kubernetes cluster with k3s or Talos ](https://github.com/onedr0p/cluster-template) | ![Github Stars](https://img.shields.io/github/stars/onedr0p/cluster-template) |
+| 43 |	Punq | [ A slim open-source workload manager for Kubernetes with team collaboration, WebApp, and CLI. ](https://github.com/mogenius/punq) | ![Github Stars](https://img.shields.io/github/stars/mogenius/punq) |
+| 44 |	vCluster | [ Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. ](https://github.com/loft-sh/vcluster) | ![Github Stars](https://img.shields.io/github/stars/loft-sh/vcluster) |
 
 ## Cluster with Core CLI tools						
 									
@@ -287,6 +288,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  57  |   node-gizmo   |   [ A CLI utility for your Kubernetes nodes ](https://github.com/Kavinraja-G/node-gizmo)   |   ![Github Stars](https://img.shields.io/github/stars/Kavinraja-G/node-gizmo)  |
 |  58  |   KubeBlocks   |   [ open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. ](https://github.com/apecloud/kubeblocks)   |   ![Github Stars](https://img.shields.io/github/stars/apecloud/kubeblocks)  |
 |  59  |   KFtray   |   [ Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories. ](https://github.com/hcavarsan/kftray)   |   ![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)  |
+|  60  |   Tilt   |   [ Define your dev environment as code. For microservice apps on Kubernetes. ](https://github.com/tilt-dev/tilt)   |   ![Github Stars](https://img.shields.io/github/stars/tilt-dev/tilt)  |
+|  61  |   Garden   |   [ Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. ](https://github.com/garden-io/garden)   |   ![Github Stars](https://img.shields.io/github/stars/garden-io/garden)  |
 
 ## Alternative Tools for Development						
 									
@@ -502,7 +505,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	6	|	Sealos  	|	[  A Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications](https://github.com/labring/sealos)	|	![Github Stars](https://img.shields.io/github/stars/labring/sealos)	|
 |	7	|	Porter  	|	[   Kubernetes-powered PaaS that runs in your own cloud.](https://github.com/porter-dev/porter)	|	![Github Stars](https://img.shields.io/github/stars/porter-dev/porter)	|
 |	8	|	Kubicorn  	|	[   Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud](https://github.com/kubicorn/kubicorn)	|	![Github Stars](https://img.shields.io/github/stars/kubicorn/kubicorn)	|
-
+|	9	|	eksdemo  	|	[ The easy button for learning, testing and demoing Amazon EKS  ](https://github.com/awslabs/eksdemo)	|	![Github Stars](https://img.shields.io/github/stars/awslabs/eksdemo)	|
  							
 									
 ## Storage Providers						
