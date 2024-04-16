@@ -293,6 +293,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  59  |   KFtray   |   [ Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories. ](https://github.com/hcavarsan/kftray)   |   ![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)  |
 |  60  |   Tilt   |   [ Define your dev environment as code. For microservice apps on Kubernetes. ](https://github.com/tilt-dev/tilt)   |   ![Github Stars](https://img.shields.io/github/stars/tilt-dev/tilt)  |
 |  61  |   Garden   |   [ Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. ](https://github.com/garden-io/garden)   |   ![Github Stars](https://img.shields.io/github/stars/garden-io/garden)  |
+|  62  |   Kubectl-fields   |   [ A Kubernetes resources hierarchy parsing tool. ](https://github.com/rewanthtammana/kubectl-fields)   |   ![Github Stars](https://img.shields.io/github/stars/rewanthtammana/kubectl-fields)  |
+|  63  |   sleepcycles   |   [ Define sleep & wake up cycles for your Kubernetes resources. ](https://github.com/rekuberate-io/sleepcycles)   |   ![Github Stars](https://img.shields.io/github/stars/rekuberate-io/sleepcycles)  |
 
 ## Alternative Tools for Development						
 									
