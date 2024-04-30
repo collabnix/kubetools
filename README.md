@@ -19,6 +19,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Top Featured Kubernetes Tools( April 2024)				
 				
+- [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://www.kubetools.io/kubernetes/streamlining-kubernetes-networking-with-k8s-insider/)
 - [Stern](https://www.kubetools.io/kubernetes/stern-simplifying-kubernetes-log-tailing/)
 - [Node Problem Detector](https://www.kubetools.io/kubernetes/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
