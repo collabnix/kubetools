@@ -381,6 +381,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	38	|	KubeZoo  	|	[	 a lightweight kubernetes multi-tenancy gateway ](https://github.com/kubewharf/kubezoo)	|	![Github Stars](https://img.shields.io/github/stars/kubewharf/kubezoo)	|
 |	39	|	kubectl-modify-secrets   	|	[	 allows user to directly modify the secret without worrying about base64 encoding/decoding ](https://github.com/rajatjindal/kubectl-modify-secret)	|	![Github Stars](https://img.shields.io/github/stars/rajatjindal/kubectl-modify-secret)	|
 |	40	|	rbac-tool  	|	[	 Rapid7  insightCloudSec  Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query ](https://github.com/alcideio/rbac-tool)	|	![Github Stars](https://img.shields.io/github/stars/alcideio/rbac-tool)	|
+|	41	|	KubeClarity  	|	[	 KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. ](https://github.com/openclarity/kubeclarity)	|	![Github Stars](https://img.shields.io/github/stars/openclarity/kubeclarity)	|
 
 ## Network Policies						
 									
