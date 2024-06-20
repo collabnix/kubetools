@@ -294,6 +294,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  61  |   Garden   |   [ Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. ](https://github.com/garden-io/garden)   |   ![Github Stars](https://img.shields.io/github/stars/garden-io/garden)  |
 |  62  |   Kubectl-fields   |   [ A Kubernetes resources hierarchy parsing tool. ](https://github.com/rewanthtammana/kubectl-fields)   |   ![Github Stars](https://img.shields.io/github/stars/rewanthtammana/kubectl-fields)  |
 |  63  |   sleepcycles   |   [ Define sleep & wake up cycles for your Kubernetes resources. ](https://github.com/rekuberate-io/sleepcycles)   |   ![Github Stars](https://img.shields.io/github/stars/rekuberate-io/sleepcycles)  |
+|  64  |   scaf   |   [ scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes . ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
+
 
 ## Alternative Tools for Development						
 									
