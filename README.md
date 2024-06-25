@@ -296,6 +296,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  63  |   sleepcycles   |   [ Define sleep & wake up cycles for your Kubernetes resources. ](https://github.com/rekuberate-io/sleepcycles)   |   ![Github Stars](https://img.shields.io/github/stars/rekuberate-io/sleepcycles)  |
 |  64  |   scaf   |   [ scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes . ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
 |  65  |   KubePug   |   [ Deprecations AKA KubePug - Pre UpGrade (Checker) ](https://github.com/kubepug/kubepug)   |   ![Github Stars](https://img.shields.io/github/stars/kubepug/kubepug)  |
+|  66  |   scaf   |   [  scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes  ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
 
 
 ## Alternative Tools for Development						
