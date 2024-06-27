@@ -617,6 +617,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	3	|    	Tugger |	[ Kubernetes Admission Webhook to enforce pulling of Docker images from the private registry. ](https://github.com/jainishshah17/tugger)	|	![Github Stars](https://img.shields.io/github/stars/jainishshah17/tugger)	|
 |	4	|    	kube-image-keeper (kuik) |	[ kuik is a container image caching system for Kubernetes](https://github.com/enix/kube-image-keeper)	|	![Github Stars](https://img.shields.io/github/stars/enix/kube-image-keeper)	|
 |	5	|    	harbor |	[	A trusted cloud native registry project that stores,caches, signs, and scans content. ](https://github.com/goharbor/harbor)	|	![Github Stars](https://img.shields.io/github/stars/goharbor/harbor)	|
+|	6	|    	kuik |	[ kuik is a container image caching system for Kubernetes ](https://github.com/enix/kube-image-keeper)	|	![Github Stars](https://img.shields.io/github/stars/enix/kube-image-keeper)	|
+
 
 ## Clients
 
@@ -661,7 +663,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 14 | MayFly | [Mayfly is a Kubernetes operator that enables you to create temporary resources on the cluster that will expire after a certain period of time](https://github.com/NCCloud/mayfly) | ![GitHub Stars](https://img.shields.io/github/stars/NCCloud/mayfly) |
 |       15      |       yupd            |       [       Yupd is a command-line tool that allows updating YAML files the GitOps way](https://github.com/srozange/yupd)   | ![GitHub Stars](https://img.shields.io/github/stars/srozange/yupd)   |
 |	16	|	kube-job  	|	[	Run one off job on kubernetes from the command line tool](https://github.com/h3poteto/kube-job)	|	![Github Stars](https://img.shields.io/github/stars/h3poteto/kube-job)	|
-|	17	|	paster  	|	[	This program base64 encodes a file, then pastes chunks it into an activated window using 'Ctrl+V' in the pod ](https://github.com/BuFuuu/paster/tree/main)	|	![Github Stars](https://img.shields.io/github/stars/BuFuuu/paster/tree/main)	|
+|	17	|	paster  	|	[	This program base64 encodes a file, then pastes chunks it into an activated window using 'Ctrl+V' in the pod ](https://github.com/BuFuuu/paster/tree/main)	|	-	|
 
 
 ## Maintainer
