@@ -413,6 +413,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	11	|	submariner	|	[	Networking component for interconnecting Pods and Services across Kubernetes clusters ](https://github.com/submariner-io/submariner)	|	![Github Stars](https://img.shields.io/github/stars/submariner-io/submariner)	 |
 |	12	|	netfetch	|	[	Scan k8s clusters for network policies and identifying unprotected workloads. ](https://github.com/deggja/netfetch)	|	![Github Stars](https://img.shields.io/github/stars/deggja/netfetch)	 |
 |	13	|	Network Policy API	|	[	A further work involving Kubernetes network security beyond the NetworkPolicy v1 resource. ](https://github.com/kubernetes-sigs/network-policy-api)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/network-policy-api)	 |
+|	14	|	KubeIP	|	[ Assign static public IPs to Kubernetes nodes (GKE, EKS) ](https://github.com/doitintl/kubeip)	|	![Github Stars](https://img.shields.io/github/stars/doitintl/kubeip)	 |
 
 
 									
