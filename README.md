@@ -188,6 +188,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	19	|	KlusterView  	|	[ Get instant insights on your Kubernetes clusters with our lightweight, plug-and-play performance monitoring tool  ](https://github.com/oslabs-beta/KlusterView)	|	![Github Stars](https://img.shields.io/github/stars/oslabs-beta/KlusterView)	|
 |	20	|	X.509 Certificate Exporter	|	[	Watch certificates for expiration in Kubernetes Secrets and control-plane files. Alerts and dashboard available.](https://github.com/enix/x509-certificate-exporter/)	|	![Github Stars](https://img.shields.io/github/stars/enix/x509-certificate-exporter)	|
 |	21	|	VpK	|	[VpK - Visually presented Kubernetes  View k8s in graphical fashion ](https://github.com/k8svisual/vpk)	|	![Github Stars](https://img.shields.io/github/stars/k8svisual/vpk)	|
+|	22	|	k8s-collector	|	[A Kubernetes Job to collect resources, logs and events from a Kubernetes cluster ](https://github.com/gianlucam76/k8s_collector)	|	![Github Stars](https://img.shields.io/github/stars/gianlucam76/k8s_collector)	|
 
 
 
