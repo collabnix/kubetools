@@ -301,6 +301,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  64  |   scaf   |   [ scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes . ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
 |  65  |   KubePug   |   [ Deprecations AKA KubePug - Pre UpGrade (Checker) ](https://github.com/kubepug/kubepug)   |   ![Github Stars](https://img.shields.io/github/stars/kubepug/kubepug)  |
 |  66  |   scaf   |   [  scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes  ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
+|  67  |   mogenius   |   [  A self-service platform that enables developers to deploy and manage applications on Kubernetes with ease and safety  ](https://mogenius.com)   |   -  |
 
 
 ## Alternative Tools for Development						
