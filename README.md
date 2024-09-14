@@ -15,7 +15,7 @@ There are more than 500+ [Kubernetes Certified Service Providers](https://www.cn
 
 Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for updates on new list additions.
 
-Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 9000+ DevOps enthusiasts.<br>
+Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
 ## Top Featured Kubernetes Tools( Sep 2024)				
 				
