@@ -23,12 +23,12 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/)
 - [Stern](https://collabnix.com/tail-kubernetes-with-stern/)
-- [Node Problem Detector](https://blog.kubetools.io/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
-- [Karpenter](https://blog.kubetools.io/supercharge-your-kubernetes-cluster-with-karpenter/)
-- [Kubestalk](https://blog.kubetools.io/kubestalk-uncovering-hidden-security-risks-in-your-kubernetes-clusters/)
-- [K8sGPT](https://blog.kubetools.io/k8sgpt-simplifying-kubernetes-diagnostics-with-natural-language-processing/)
-- [Kubeshark](https://blog.kubetools.io/mastering-kubernetes-debugging-and-troubleshooting-with-kubeshark-real-time-visibility-query-language-service-map-and-integrations/) 
-- [K9s](https://blog.kubetools.io/why-k9s-should-be-your-go-to-tool-for-kubernetes-management/)
+- [Node Problem Detector](https://kubetools.io/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
+- [Karpenter](https://kubetools.io/supercharge-your-kubernetes-cluster-with-karpenter/)
+- [Kubestalk](https://kubetools.io/kubestalk-uncovering-hidden-security-risks-in-your-kubernetes-clusters/)
+- [K8sGPT](https://kubetools.io/k8sgpt-simplifying-kubernetes-diagnostics-with-natural-language-processing/)
+- [Kubeshark](https://kubetools.io/mastering-kubernetes-debugging-and-troubleshooting-with-kubeshark-real-time-visibility-query-language-service-map-and-integrations/) 
+- [K9s](https://kubetools.io/why-k9s-should-be-your-go-to-tool-for-kubernetes-management/)
 
 ## Table of Contents
 
