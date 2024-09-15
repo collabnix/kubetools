@@ -121,6 +121,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 43 |	KindScaler | [ Node Management for KinD Clusters. Modify the KinD cluster configuration by adding or removing nodes, whether they are control-planes or workers, without regenerating it from scratch. ](https://github.com/lobuhi/kindscaler) | ![Github Stars](https://img.shields.io/github/stars/lobuhi/kindscaler) |
 | 44 |	buoy | [  A declarative Kubernetes dashboard in your terminal  ](https://github.com/everettraven/buoy) | ![Github Stars](https://img.shields.io/github/stars/everettraven/buoy) |
 | 45 |	Glasskube | [  Glasskube is a Kubernetes package manager that lets you install apps via an easy-to-use web interface or CLI  ](https://github.com/glasskube/glasskube) | ![Github Stars](https://img.shields.io/github/stars/glasskube/glasskube) |
+| 46 |	Karmada | [  Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.  ](https://github.com/karmada-io/karmada) | ![Github Stars](https://img.shields.io/github/stars/karmada-io/karmada) |
+| 47 |	Kubeadmiral | [  Multi-Cluster Kubernetes Orchestration. ](https://github.com/kubewharf/kubeadmiral) | ![Github Stars](https://img.shields.io/github/stars/kubewharf/kubeadmiral) |
 
 
 ## Cluster with Core CLI tools						
@@ -302,6 +304,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  65  |   KubePug   |   [ Deprecations AKA KubePug - Pre UpGrade (Checker) ](https://github.com/kubepug/kubepug)   |   ![Github Stars](https://img.shields.io/github/stars/kubepug/kubepug)  |
 |  66  |   scaf   |   [  scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes  ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
 |  67  |   mogenius   |   [  A self-service platform that enables developers to deploy and manage applications on Kubernetes with ease and safety  ](https://mogenius.com)   |   -  |
+|  68  |   Armada   |   [ A multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ](https://github.com/armadaproject/armada)   |   ![Github Stars](https://img.shields.io/github/stars/armadaproject/armada)  |
 
 
 ## Alternative Tools for Development						
@@ -485,6 +488,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	21	|	Robusta  	|	[	Kubernetes observability and automation, with an awesome Prometheus integration](https://github.com/robusta-dev/robusta)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/robusta)	|
 |	22	|	kubeinvaders  	|	[	Gamified Chaos Engineering Tool for Kubernetes](https://github.com/lucky-sideburn/kubeinvaders)	|	![Github Stars](https://img.shields.io/github/stars/lucky-sideburn/kubeinvaders)	|
  |	23	|	Headlamp  	|	[	An easy-to-use and extensible web UI for Kubernetes](https://github.com/headlamp-k8s/headlamp)	|	![Github Stars](https://img.shields.io/github/stars/headlamp-k8s/headlamp)	|
+ |	24	|	Pixie  	|	[	Instant Kubernetes-Native Application Observability.  ](https://github.com/pixie-io/pixie)	|	![Github Stars](https://img.shields.io/github/stars/pixie-io/pixie)	|
 
 
 ## Machine Learning/Deep Learning						
