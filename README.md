@@ -548,6 +548,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	10	|	kaDalu  	|	[	A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background](https://github.com/kadalu/kadalu)	|	![Github Stars](https://img.shields.io/github/stars/kadalu/kadalu)	|
 |	11	|	hwameistor  	|	[	Hwameistor is an HA local storage system for cloud-native stateful workloads.](https://github.com/hwameistor/hwameistor)	|	![Github Stars](https://img.shields.io/github/stars/hwameistor/hwameistor)	|
 |	11	|	simplyblock 	|	[	Simplyblock is a distributed block storage engine for Kubernetes persistent volumes](https://www.simplyblock.io/kubernetes-storage)	|	-	|
+|	13	|	Veritas infoscale 	|	[	Manage critical data and applications in Kubernetes environments.](https://www.veritas.com/availability/infoscale-kubernetes)	|	-	|
 
 									
 
