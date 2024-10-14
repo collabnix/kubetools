@@ -123,6 +123,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 45 |	Glasskube | [  Glasskube is a Kubernetes package manager that lets you install apps via an easy-to-use web interface or CLI  ](https://github.com/glasskube/glasskube) | ![Github Stars](https://img.shields.io/github/stars/glasskube/glasskube) |
 | 46 |	Karmada | [  Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.  ](https://github.com/karmada-io/karmada) | ![Github Stars](https://img.shields.io/github/stars/karmada-io/karmada) |
 | 47 |	Kubeadmiral | [  Multi-Cluster Kubernetes Orchestration. ](https://github.com/kubewharf/kubeadmiral) | ![Github Stars](https://img.shields.io/github/stars/kubewharf/kubeadmiral) |
+| 48 |	RBAC Wizard | [  Helps to visualize and analyze the RBAC configurations of the Kubernetes cluster. ](https://github.com/pehlicd/rbac-wizard) | ![Github Stars](https://img.shields.io/github/stars/pehlicd/rbac-wizard) |
 
 
 ## Cluster with Core CLI tools						
