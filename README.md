@@ -124,6 +124,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 46 |	Karmada | [  Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.  ](https://github.com/karmada-io/karmada) | ![Github Stars](https://img.shields.io/github/stars/karmada-io/karmada) |
 | 47 |	Kubeadmiral | [  Multi-Cluster Kubernetes Orchestration. ](https://github.com/kubewharf/kubeadmiral) | ![Github Stars](https://img.shields.io/github/stars/kubewharf/kubeadmiral) |
 | 48 |	RBAC Wizard | [  Helps to visualize and analyze the RBAC configurations of the Kubernetes cluster. ](https://github.com/pehlicd/rbac-wizard) | ![Github Stars](https://img.shields.io/github/stars/pehlicd/rbac-wizard) |
+| 49 |	Kondense | [  Kondense is a tool designed for Kubernetes environments, specifically focused on optimizing memory and CPU usage in containers. ](https://github.com/unagex/kondense) | ![Github Stars](https://img.shields.io/github/stars/unagex/kondense) |
 
 
 ## Cluster with Core CLI tools						
@@ -211,6 +212,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	11	|	kail 	|	[	kubernetes log viewer ](https://github.com/boz/kail)	|	![Github Stars](https://img.shields.io/github/stars/boz/kail)	|
 |	12	|	network mapper 	|	[	Map Kubernetes in-cluster traffic and export as text, intents, or an image ](https://github.com/otterize/network-mapper)	|	![Github Stars](https://img.shields.io/github/stars/otterize/network-mapper)	|     
 |	13	|	retina	|	[	eBPF distributed networking observability tool for Kubernetes. ](https://github.com/microsoft/retina)	|	![Github Stars](https://img.shields.io/github/stars/microsoft/retina)	|    
+|	14	|	sablier	|	[	Starting containers on demand and close automatically when not in use. ](https://github.com/acouvreur/sablier)	|	![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)	| 
 
 ## Troubleshooting / Debugging						
 									
@@ -231,7 +233,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	13	|	KubeSkoop  	|	[	kubernetes networking diagnose tool for different CNI plug-ins and IAAS providers](https://github.com/alibaba/kubeskoop)	|	![Github Stars](https://img.shields.io/github/stars/alibaba/kubeskoop)	|
 |	14 |	kubent  	|	[	Easily check your clusters for use of deprecated APIs](https://github.com/doitintl/kube-no-trouble)	|	![Github Stars](https://img.shields.io/github/stars/doitintl/kube-no-trouble)	|
 |	15 |	kftray  	|	[ A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters ](https://github.com/hcavarsan/kftray)	|	![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)	|
-
+|	16 |	kuttl  	|	[	Declarative approach to test Kubernetes Operators.](https://github.com/kudobuilder/kuttl)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kuttl)	|
 
 									
 ## Developement Tools/Kit						
@@ -530,6 +532,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	7	|	Porter  	|	[   Kubernetes-powered PaaS that runs in your own cloud.](https://github.com/porter-dev/porter)	|	![Github Stars](https://img.shields.io/github/stars/porter-dev/porter)	|
 |	8	|	Kubicorn  	|	[   Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud](https://github.com/kubicorn/kubicorn)	|	![Github Stars](https://img.shields.io/github/stars/kubicorn/kubicorn)	|
 |	9	|	eksdemo  	|	[ The easy button for learning, testing and demoing Amazon EKS  ](https://github.com/awslabs/eksdemo)	|	![Github Stars](https://img.shields.io/github/stars/awslabs/eksdemo)	|
+|	10	|	Claudie   	|	[ Claudie allows users to manage Kubernetes clusters that span across multiple cloud providers and on-premise infrastructures  ](https://github.com/berops/claudie)	|	![Github Stars](https://img.shields.io/github/stars/berops/claudie)	|
  							
 									
 ## Storage Providers						
@@ -548,7 +551,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	10	|	kaDalu  	|	[	A lightweight Persistent storage solution for Kubernetes / OpenShift using GlusterFS in background](https://github.com/kadalu/kadalu)	|	![Github Stars](https://img.shields.io/github/stars/kadalu/kadalu)	|
 |	11	|	hwameistor  	|	[	Hwameistor is an HA local storage system for cloud-native stateful workloads.](https://github.com/hwameistor/hwameistor)	|	![Github Stars](https://img.shields.io/github/stars/hwameistor/hwameistor)	|
 |	11	|	simplyblock 	|	[	Simplyblock is a distributed block storage engine for Kubernetes persistent volumes](https://www.simplyblock.io/kubernetes-storage)	|	-	|
-|	13	|	Veritas infoscale 	|	[	Manage critical data and applications in Kubernetes environments.](https://www.veritas.com/availability/infoscale-kubernetes)	|	-	|
+|	12	|	Veritas infoscale 	|	[	Manage critical data and applications in Kubernetes environments.](https://www.veritas.com/availability/infoscale-kubernetes)	|	-	|
+
 
 									
 
@@ -648,6 +652,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 2 | k8s-cleaner | [Cleaner is a Kubernetes controller that helps you maintain a clean and efficient Kubernetes environment by proactively identifying, removing, or updating stale resources](https://github.com/gianlucam76/k8s-cleaner) | ![GitHub Stars](https://img.shields.io/github/stars/gianlucam76/k8s-cleaner) |
 |  3  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
 |  4  |   Pred8tor   |   [ Pred8tor is a simple tool to clean up K8s objects that were tagged for expiration ](https://github.com/pavelzag/pred8tor)   |   ![Github Stars](https://img.shields.io/github/stars/pavelzag/pred8tor)  |
+|  5  |   Kubetrim   |   [ Kubetrim is a command-line tool designed to automatically clean up your Kubernetes configuration file (KUBECONFIG) ](https://github.com/alexellis/kubetrim)   |   ![Github Stars](https://img.shields.io/github/stars/alexellis/kubetrim)  |
 
 
 ## Non-Categorize						
