@@ -95,7 +95,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	17	|	KEDA  	|	[	Event-driven autoscaler for Kubernetes](https://keda.sh/)	|	![Github Stars](https://img.shields.io/github/stars/kedacore/keda)	|
 |	18	|	Octant  	|	[	To better understand the complexity of Kubernetes clusters](https://github.com/vmware-tanzu/octant)	|	![Github Stars](https://img.shields.io/github/stars/vmware-tanzu/octant)	|
 |	19	|	Portainer  	|	[	Portainer inside a Kubernetes environment](https://github.com/portainer/k8s)	|	![Github Stars](https://img.shields.io/github/stars/portainer/k8s)	|
-|	20	|	Gardener  	|	[	Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service](https://gardener.cloud/)	|	-	|
+|	20	|	Gardener  	|	[	Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service](https://gardener./)	|	-	|
 |	21	|	xlskubectl  	|	[	xlskubectl — a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)	|	![Github Stars](https://img.shields.io/github/stars/learnk8s/xlskubectl)	|
 |	22	|	Kubefirst  	|	[	Fully-automated OSS delivery & infrastructure management gitops platforms](https://github.com/kubefirst/kubefirst)	|	![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)	|
 |	23	|	Kamaji  	|	[	Build and operate Kubernetes at scale with a fraction of operational burden](https://github.com/clastix/kamaji)	|	![Github Stars](https://img.shields.io/github/stars/clastix/kamaji)	|
@@ -110,18 +110,18 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |   32  |   Claudie     |   [   Deploy and operate Kubernetes clusters with each nodepool in a different provider or on-prem](https://github.com/berops/claudie)  |  ![Github Stars](https://img.shields.io/github/stars/berops/claudie)  |
 |   33  |   Kubemarine     |   [   Management tool for Kubernetes cluster deployment and maintenance](https://github.com/Netcracker/KubeMarine)  |  ![Github Stars](https://img.shields.io/github/stars/Netcracker/KubeMarine)  |
 | 34 |	k8s-duplicator | [Kubernetes controller that copies secrets into other namespaces](https://github.com/Nick-Triller/k8s-duplicator) | ![Github Stars](https://img.shields.io/github/stars/Nick-Triller/k8s-duplicator) |
-| 35 |	KubeStellar | [a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud ](https://github.com/kubestellar/kubestellar) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/kubestellar) |
-| 36 |	Trolley | [ Trolley is a multi cloud Kubernetes management system ](https://github.com/Trolley-MGMT/trolleymgmt) | ![Github Stars](https://img.shields.io/github/stars/Trolley-MGMT/trolleymgmt) |
+| 35 |	KubeStellar | [a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-, and hybrid  ](https://github.com/kubestellar/kubestellar) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/kubestellar) |
+| 36 |	Trolley | [ Trolley is a multi  Kubernetes management system ](https://github.com/Trolley-MGMT/trolleymgmt) | ![Github Stars](https://img.shields.io/github/stars/Trolley-MGMT/trolleymgmt) |
 | 37 |	Cyclops | [ a powerful user interface for managing and interacting with Kubernetes clusters ](https://github.com/cyclops-ui/cyclops) | ![Github Stars](https://img.shields.io/github/stars/cyclops-ui/cyclops) |
-| 38 |	Liqo | [ an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise, cloud and edge infrastructures ](https://github.com/liqotech/liqo) | ![Github Stars](https://img.shields.io/github/stars/liqotech/liqo) |
+| 38 |	Liqo | [ an open-source project that enables dynamic and seamless Kubernetes multi-cluster topologies, supporting heterogeneous on-premise,  and edge infrastructures ](https://github.com/liqotech/liqo) | ![Github Stars](https://img.shields.io/github/stars/liqotech/liqo) |
 | 39 |	Guard | [ 🔑 Kubernetes Authentication & Authorization WebHook Server ](https://github.com/kubeguard/guard) | ![Github Stars](https://img.shields.io/github/stars/kubeguard/guard) |	
-| 40 |	Meshery | [ Meshery is a Multi-cluster management tool for Kubernetes and Clouds ](https://github.com/meshery/meshery) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |							
+| 40 |	Meshery | [ Meshery is a Multi-cluster management tool for Kubernetes and s ](https://github.com/meshery/meshery) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |							
 | 41 |	cluster-template | [ A template for deploying a Kubernetes cluster with k3s or Talos ](https://github.com/onedr0p/cluster-template) | ![Github Stars](https://img.shields.io/github/stars/onedr0p/cluster-template) |
 | 42 |	vCluster | [ Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. ](https://github.com/loft-sh/vcluster) | ![Github Stars](https://img.shields.io/github/stars/loft-sh/vcluster) |
 | 43 |	KindScaler | [ Node Management for KinD Clusters. Modify the KinD cluster configuration by adding or removing nodes, whether they are control-planes or workers, without regenerating it from scratch. ](https://github.com/lobuhi/kindscaler) | ![Github Stars](https://img.shields.io/github/stars/lobuhi/kindscaler) |
 | 44 |	buoy | [  A declarative Kubernetes dashboard in your terminal  ](https://github.com/everettraven/buoy) | ![Github Stars](https://img.shields.io/github/stars/everettraven/buoy) |
 | 45 |	Glasskube | [  Glasskube is a Kubernetes package manager that lets you install apps via an easy-to-use web interface or CLI  ](https://github.com/glasskube/glasskube) | ![Github Stars](https://img.shields.io/github/stars/glasskube/glasskube) |
-| 46 |	Karmada | [  Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.  ](https://github.com/karmada-io/karmada) | ![Github Stars](https://img.shields.io/github/stars/karmada-io/karmada) |
+| 46 |	Karmada | [  Open, Multi-, Multi-Cluster Kubernetes Orchestration.  ](https://github.com/karmada-io/karmada) | ![Github Stars](https://img.shields.io/github/stars/karmada-io/karmada) |
 | 47 |	Kubeadmiral | [  Multi-Cluster Kubernetes Orchestration. ](https://github.com/kubewharf/kubeadmiral) | ![Github Stars](https://img.shields.io/github/stars/kubewharf/kubeadmiral) |
 | 48 |	RBAC Wizard | [  Helps to visualize and analyze the RBAC configurations of the Kubernetes cluster. ](https://github.com/pehlicd/rbac-wizard) | ![Github Stars](https://img.shields.io/github/stars/pehlicd/rbac-wizard) |
 | 49 |	Kondense | [  Kondense is a tool designed for Kubernetes environments, specifically focused on optimizing memory and CPU usage in containers. ](https://github.com/unagex/kondense) | ![Github Stars](https://img.shields.io/github/stars/unagex/kondense) |
@@ -133,7 +133,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | ---------- | --------------------- | --------------------- | ------------------|									
 |	1	|	Bootkube  	|	[	bootkube - Launch a self-hosted Kubernetes cluster](https://github.com/kubernetes-sigs/bootkube)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/bootkube)	|
 |	2	|	kubectx + kubens  	|	[	Switch faster between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)	|	![Github Stars](https://img.shields.io/github/stars/ahmetb/kubectx)	|
-|	3	|	kube-shell  	|	[	Kubernetes shell: An integrated shell for working with the Kubernetes](https://github.com/cloudnativelabs/kube-shell)	|	![Github Stars](https://img.shields.io/github/stars/cloudnativelabs/kube-shell)	|
+|	3	|	kube-shell  	|	[	Kubernetes shell: An integrated shell for working with the Kubernetes](https://github.com/nativelabs/kube-shell)	|	![Github Stars](https://img.shields.io/github/stars/nativelabs/kube-shell)	|
 |	4	|	kuttle: kubectl wrapper for sshuttle without SSH  	|	[	Kubernetes wrapper for sshuttle](https://github.com/kayrus/kuttle)	|	![Github Stars](https://img.shields.io/github/stars/kayrus/kuttle)	|
 |	5	|	kubectl sudo  	|	[	Run kubernetes commands with the security privileges of another user](https://github.com/postfinance/kubectl-sudo)	|	![Github Stars](https://img.shields.io/github/stars/postfinance/kubectl-sudo)	|
 |	6	|	K9s  	|	[	Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s)	|	![Github Stars](https://img.shields.io/github/stars/derailed/k9s)	|
@@ -161,7 +161,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	28	|	Finch  	|	[	 The Finch CLI an open source client for container development](https://github.com/runfinch/finch)	|	![Github Stars](https://img.shields.io/github/stars/runfinch/finch)	|
 |	29	|	KubeView  	|	[Kubernetes cluster visualiser and graphical explorer](https://github.com/benc-uk/kubeview)	|	![Github Stars](https://img.shields.io/github/stars/benc-uk/kubeview)	|
 |	30	|	Descheduler  	|	[ Descheduler for Kubernetes ](https://github.com/kubernetes-sigs/descheduler)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/descheduler)	|
-|	31	|	cloudtty  	|	[ A Friendly Kubernetes CloudShell (Web Terminal) ! ](https://github.com/cloudtty/cloudtty)	|	![Github Stars](https://img.shields.io/github/stars/cloudtty/cloudtty)	|
+|	31	|	tty  	|	[ A Friendly Kubernetes Shell (Web Terminal) ! ](https://github.com/tty/tty)	|	![Github Stars](https://img.shields.io/github/stars/tty/tty)	|
 |	32	|	kor  	|	[ A Tool to discover unused Kubernetes Resources ](https://github.com/yonahd/kor)	|	![Github Stars](https://img.shields.io/github/stars/yonahd/kor)	|
 |	33	|	Kubernetes Image Puller  	|	[ Caching images on a cluster by creating a DaemonSet downloading and running the container images on each node ](https://github.com/che-incubator/kubernetes-image-puller)	|	![Github Stars](https://img.shields.io/github/stars/che-incubator/kubernetes-image-puller)	|
 |	34	|	image-builder  	|	[ A tool for building Kubernetes virtual machine images across multiple infrastructure providers. ](https://github.com/kubernetes-sigs/image-builder)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/image-builder)	|
@@ -241,11 +241,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
-|	1	|	Okteto: A Tool for Cloud Native Developers  	|	[	Build better applications by developing and testing your code directly in Kubernetes](https://github.com/okteto/okteto)	|	![Github Stars](https://img.shields.io/github/stars/okteto/okteto)	|
+|	1	|	Okteto: A Tool for  Native Developers  	|	[	Build better applications by developing and testing your code directly in Kubernetes](https://github.com/okteto/okteto)	|	![Github Stars](https://img.shields.io/github/stars/okteto/okteto)	|
 |	2	|	Tilt: Tilt manages local development instances for teams that deploy to Kubernetes  	|	[	Local Kubernetes development with no stress](https://github.com/windmilleng/tilt)	|	![Github Stars](https://img.shields.io/github/stars/windmilleng/tilt)	|
 |	3	|	Garden: Kubernetes from source to finish  	|	[	Development orchestrator for Kubernetes, containers and functions.](https://github.com/garden-io/garden)	|	![Github Stars](https://img.shields.io/github/stars/garden-io/garden)	|
 |	4	|	KuberNix  	|	[	Single dependency Kubernetes clusters for local testing, experimenting and development](https://github.com/saschagrunert/kubernix)	|	![Github Stars](https://img.shields.io/github/stars/saschagrunert/kubernix)	|
-|	5	|	Copper  	|	[	A configuration file validator for Kubernetes](https://github.com/cloud66-oss/copper)	|	![Github Stars](https://img.shields.io/github/stars/cloud66-oss/copper)	|
+|	5	|	Copper  	|	[	A configuration file validator for Kubernetes](https://github.com/66-oss/copper)	|	![Github Stars](https://img.shields.io/github/stars/66-oss/copper)	|
 |	6	|	ko  	|	[	Build and deploy Go applications on Kubernetes](https://github.com/google/ko)	|	![Github Stars](https://img.shields.io/github/stars/google/ko)	|
 |	7	|	Dekorate  	|	[	Java annotation processors for Kubernetes](https://github.com/dekorateio/dekorate)	|	![Github Stars](https://img.shields.io/github/stars/dekorateio/dekorate)	|
 |	8	|	Lens IDE  	|	[	A powerful interface and toolkit for managing, visualizing, and interacting with multiple Kubernetes clusters](https://k8slens.dev/)	|	-	|
@@ -253,7 +253,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	10	|	Telepresence  	|	[	Fast, local development for Kubernetes and Openshift microservices](https://www.telepresence.io/)	|	-	|
 |	11	|	Monokle  	|	[	Desktop unified visual tool for authoring, analysis and deployment of Kubernetes configurations](https://github.com/kubeshop/monokle)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/monokle)	|
 |	12	|	KuberEz  	|	[	Graphical modeling tool for Kubernetes manifest](https://github.com/uengine-oss/kuber-ez)	|	![Github Stars](https://img.shields.io/github/stars/uengine-oss/kuber-ez)	|
-|	13	|	mirrord  	|	[	Run your local process in the context of your cloud cluster](https://github.com/metalbear-co/mirrord)	|	![Github Stars](https://img.shields.io/github/stars/metalbear-co/mirrord)	|
+|	13	|	mirrord  	|	[	Run your local process in the context of your  cluster](https://github.com/metalbear-co/mirrord)	|	![Github Stars](https://img.shields.io/github/stars/metalbear-co/mirrord)	|
 |	14	|	Aptakube  	|	[	A modern, lightweight and multi-cluster desktop client for Kubernetes](https://aptakube.com)	|	-	|
 |	15	|	Kubes  	|	[	Kubernetes App Deploy Tool: build docker image, compile Kubernetes YAML files, and apply them](https://github.com/boltops-tools/kubes)	|	![Github Stars](https://img.shields.io/github/stars/boltops-tools/kubes)	|
 |	16	|	Kaniko  	|	[	 Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)	|	![Github Stars](https://img.shields.io/github/stars/GoogleContainerTools/kaniko)	|
@@ -298,7 +298,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  55  |   Katenary   |   [ Convert docker-compose to a configurable helm chart ](https://github.com/metal3d/katenary)   |   ![Github Stars](https://img.shields.io/github/stars/metal3d/katenary)  |
 |  56  |   kubernetes-replicator   |   [ Kubernetes controller for synchronizing secrets & config maps across namespaces ](https://github.com/mittwald/kubernetes-replicator)   |   ![Github Stars](https://img.shields.io/github/stars/mittwald/kubernetes-replicator)  |
 |  57  |   node-gizmo   |   [ A CLI utility for your Kubernetes nodes ](https://github.com/Kavinraja-G/node-gizmo)   |   ![Github Stars](https://img.shields.io/github/stars/Kavinraja-G/node-gizmo)  |
-|  58  |   KubeBlocks   |   [ open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. ](https://github.com/apecloud/kubeblocks)   |   ![Github Stars](https://img.shields.io/github/stars/apecloud/kubeblocks)  |
+|  58  |   KubeBlocks   |   [ open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s. ](https://github.com/ape/kubeblocks)   |   ![Github Stars](https://img.shields.io/github/stars/ape/kubeblocks)  |
 |  59  |   KFtray   |   [ Manage and run multiple kubectl port-forward configurations directly in the menu bar, syncing configurations with git repositories. ](https://github.com/hcavarsan/kftray)   |   ![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)  |
 |  60  |   Tilt   |   [ Define your dev environment as code. For microservice apps on Kubernetes. ](https://github.com/tilt-dev/tilt)   |   ![Github Stars](https://img.shields.io/github/stars/tilt-dev/tilt)  |
 |  61  |   Garden   |   [ Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. ](https://github.com/garden-io/garden)   |   ![Github Stars](https://img.shields.io/github/stars/garden-io/garden)  |
@@ -339,11 +339,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	Helm Cabin  	|	[	Web UI that visualizes Helm releases in a Kubernetes cluster](https://github.com/Nick-Triller/helm-cabin)	|	![Github Stars](https://img.shields.io/github/stars/Nick-Triller/helm-cabin)	|
 |	6	|	flagger  	|	[	Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)](https://github.com/weaveworks/flagger)	|	![Github Stars](https://img.shields.io/github/stars/weaveworks/flagger)	|
 |	7	|	Kubeform  	|	[	Kubernetes CRDs for Terraform providers https://kubeform.com](https://github.com/kubeform/kubeform)	|	![Github Stars](https://img.shields.io/github/stars/kubeform/kubeform)	|
-|	8	|	Spinnaker  	|	[	Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. http://www.spinnaker.io/](https://github.com/spinnaker/spinnaker)	|	![Github Stars](https://img.shields.io/github/stars/spinnaker/spinnaker)	|
+|	8	|	Spinnaker  	|	[	Spinnaker is an open source, multi- continuous delivery platform for releasing software changes with high velocity and confidence. http://www.spinnaker.io/](https://github.com/spinnaker/spinnaker)	|	![Github Stars](https://img.shields.io/github/stars/spinnaker/spinnaker)	|
 |	9	|	werf  	|	[	GitOps tool to deliver apps to Kubernetes and integrate this process with GitLab and other CI tools](https://github.com/werf/werf)	|	![Github Stars](https://img.shields.io/github/stars/werf/werf)	|
 |	10	|	Flux  	|	[	GitOps Kubernetes operator](https://github.com/fluxcd/flux)	|	![Github Stars](https://img.shields.io/github/stars/fluxcd/flux)	|
 |	11	|	Argo CD  	|	[	Declarative continuous deployment for Kubernetes](https://github.com/argoproj/argo-cd)	|	![Github Stars](https://img.shields.io/github/stars/argoproj/argo-cd)	|
-|	12	|	Tekton  	|	[	A cloud native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)	|	![Github Stars](https://img.shields.io/github/stars/tektoncd/pipeline)	|
+|	12	|	Tekton  	|	[	A  native continuous integration and delivery (CI/CD) solution](https://github.com/tektoncd/pipeline)	|	![Github Stars](https://img.shields.io/github/stars/tektoncd/pipeline)	|
 |	13	|	Jenkins X  	|	[	Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm](https://github.com/jenkins-x/jx)	|	![Github Stars](https://img.shields.io/github/stars/jenkins-x/jx)	|
 |	14	|	Drone  	|	[	Drone is a Container-Native, Continuous Delivery Platform](https://github.com/harness/drone)	|	![Github Stars](https://img.shields.io/github/stars/harness/drone)	|
 |	15	|	Helmwave  	|	[	Helmwave is helm3-native tool for deploy your Helm Charts](https://github.com/helmwave/helmwave)	|	![Github Stars](https://img.shields.io/github/stars/helmwave/helmwave)	|
@@ -534,6 +534,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	Kubicorn  	|	[   Create, manage, snapshot, and scale Kubernetes infrastructure in the public cloud](https://github.com/kubicorn/kubicorn)	|	![Github Stars](https://img.shields.io/github/stars/kubicorn/kubicorn)	|
 |	9	|	eksdemo  	|	[ The easy button for learning, testing and demoing Amazon EKS  ](https://github.com/awslabs/eksdemo)	|	![Github Stars](https://img.shields.io/github/stars/awslabs/eksdemo)	|
 |	10	|	Claudie   	|	[ Claudie allows users to manage Kubernetes clusters that span across multiple cloud providers and on-premise infrastructures  ](https://github.com/berops/claudie)	|	![Github Stars](https://img.shields.io/github/stars/berops/claudie)	|
+|	11	|	SkyPilot   	|	[ SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface  ](https://github.com/skypilot-org/skypilot)	|	![Github Stars](https://img.shields.io/github/stars/skypilot-org/skypilot)	|
  							
 									
 ## Storage Providers						
