@@ -405,6 +405,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	40	|	rbac-tool  	|	[	 Rapid7  insightCloudSec  Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query ](https://github.com/alcideio/rbac-tool)	|	![Github Stars](https://img.shields.io/github/stars/alcideio/rbac-tool)	|
 |	41	|	KubeClarity  	|	[	 KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. ](https://github.com/openclarity/kubeclarity)	|	![Github Stars](https://img.shields.io/github/stars/openclarity/kubeclarity)	|
 |	42	|	MKAT  	|	[ All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS ](https://github.com/DataDog/managed-kubernetes-auditing-toolkit)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/managed-kubernetes-auditing-toolkit)	|
+|	43	|	Kubescape  	|	[ Kubernetes security platform for configuration scanning, risk analysis, and runtime protection. CNCF project that includes policy enforcement, vulnerability scanning, and RBAC visualizer ](https://github.com/kubescape/kubescape)	|	![Github Stars](https://img.shields.io/github/stars/kubescape/kubescape)	|
 
 
 ## Network Policies						
