@@ -34,7 +34,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Table of Contents
 
 - [Kubetools - A Curated List of Kubernetes Tools](#kubetools---a-curated-list-of-kubernetes-tools)
-  - [Top Featured Kubernetes Tools( Sep 2024)](#top-featured-kubernetes-tools-sep-2024)
+  - [Top Featured Kubernetes Tools( Sep 2024)](#top-featured-kubernetes-tools-dec-2024)
   - [Table of Contents](#table-of-contents)
   - [Pods](#pods)
   - [Cluster Management](#cluster-management)
