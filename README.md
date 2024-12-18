@@ -315,7 +315,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  66  |   scaf   |   [  scaf provides developers and DevOps engineers with a complete blueprint for a new project using Kubernetes  ](https://github.com/sixfeetup/scaf)   |   ![Github Stars](https://img.shields.io/github/stars/sixfeetup/scaf)  |
 |  67  |   mogenius   |   [  A self-service platform that enables developers to deploy and manage applications on Kubernetes with ease and safety  ](https://mogenius.com)   |   -  |
 |  68  |   Armada   |   [ A multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ](https://github.com/armadaproject/armada)   |   ![Github Stars](https://img.shields.io/github/stars/armadaproject/armada)  |
-
+|  69  |   kro   |   [ Kube Resource Orchestrator (kro) provides a powerful abstraction layer that allows you to define complex multi-resource constructs as reusable components in your applications and systems](https://github.com/awslabs/kro)   |   ![Github Stars](https://img.shields.io/github/stars/awslabs/kro)  |
 
 ## Alternative Tools for Development						
 									
