@@ -316,6 +316,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  67  |   mogenius   |   [  A self-service platform that enables developers to deploy and manage applications on Kubernetes with ease and safety  ](https://mogenius.com)   |   -  |
 |  68  |   Armada   |   [ A multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ](https://github.com/armadaproject/armada)   |   ![Github Stars](https://img.shields.io/github/stars/armadaproject/armada)  |
 |  69  |   kro   |   [ Kube Resource Orchestrator (kro) provides a powerful abstraction layer that allows you to define complex multi-resource constructs as reusable components in your applications and systems](https://github.com/awslabs/kro)   |   ![Github Stars](https://img.shields.io/github/stars/awslabs/kro)  |
+|  70  |   kubectl-slice   |   [ Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files](https://github.com/patrickdappollonio/kubectl-slice)   |   ![Github Stars](https://img.shields.io/github/stars/patrickdappollonio/kubectl-slice)  |
+
 
 ## Alternative Tools for Development						
 									
