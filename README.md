@@ -130,6 +130,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 48 |	RBAC Wizard | [  Helps to visualize and analyze the RBAC configurations of the Kubernetes cluster. ](https://github.com/pehlicd/rbac-wizard) | ![Github Stars](https://img.shields.io/github/stars/pehlicd/rbac-wizard) |
 | 49 |	Kondense | [  Kondense is a tool designed for Kubernetes environments, specifically focused on optimizing memory and CPU usage in containers. ](https://github.com/unagex/kondense) | ![Github Stars](https://img.shields.io/github/stars/unagex/kondense) |
 | 50 |	Kubeseal-Webgui | [  Kubeseal-Webgui is a simple web ui for Bitnami Sealed Secrets. ](https://github.com/Jaydee94/kubeseal-webgui) | ![Github Stars](https://img.shields.io/github/stars/Jaydee94/kubeseal-webgui) |
+| 51 |	Klutch | [ Klutch extends Crossplane to manage resources across multiple Kubernetes clusters ](https://github.com/anynines/klutchio) | ![Github Stars](https://img.shields.io/github/stars/anynines/klutchio) |
+
 
 ## Cluster with Core CLI tools						
 									
