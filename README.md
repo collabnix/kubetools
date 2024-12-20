@@ -696,6 +696,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	16	|	kube-job  	|	[	Run one off job on kubernetes from the command line tool](https://github.com/h3poteto/kube-job)	|	![Github Stars](https://img.shields.io/github/stars/h3poteto/kube-job)	|
 |	17	|	paster  	|	[	This program base64 encodes a file, then pastes chunks it into an activated window using 'Ctrl+V' in the pod ](https://github.com/BuFuuu/paster/tree/main)	|	-	|
 |	18	|	Mirror  	|	[	A Kubernetes ConfigMap and Secrets reflector with a strong emphasis on security and performance	](https://github.com/lab42/mirror/tree/main)	|	![Github Stars](https://img.shields.io/github/stars/lab42/mirror)	|
+|	19	|	Scaphandre  	|	[ a metrology agent dedicated to electric power and energy consumption metrics ](https://github.com/hubblo-org/scaphandre)	|	![Github Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre)	|
 
 ## Maintainer
 
