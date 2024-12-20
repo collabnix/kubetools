@@ -366,6 +366,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	19 	| kubedog | [ Library to watch and follow kubernetes resources in CI/CD deploy pipelines](https://github.com/werf/kubedog) |  ![Github Stars](https://img.shields.io/github/stars/werf/kubedog)      |
 | 	20 	| Kubefirst | [ GitOps Infrastructure & Application Delivery Platform](https://github.com/kubefirst/kubefirst) |  ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)      |
 | 	21	| autoapply | [ Automatically apply changes to a Kubernetes cluster](https://github.com/autoapply/autoapply) |  ![Github Stars](https://img.shields.io/github/stars/autoapply/autoapply)      |
+| 	22	| mani-diffy | [ a hierarchy of Argo CD Application templates, renders Kubernetes manifests from the input templates, and posts the rendered files back for the user to review and validate ](https://github.com/chime/mani-diffy) |  ![Github Stars](https://img.shields.io/github/stars/chime/mani-diffy)      |
 
 	 
 ## Security Tools						
