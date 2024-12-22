@@ -176,6 +176,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	37	|	kl  	|	[	Interactive, multi container and cluster terminal app for logs ](https://github.com/robinovitch61/kl)	|	![Github Stars](https://img.shields.io/github/stars/robinovitch61/kl)	|
 |	38	|	kubectl foreach  	|	[  Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel) ](https://github.com/ahmetb/kubectl-foreach)	|	![Github Stars](https://img.shields.io/github/stars/ahmetb/kubectl-foreach)	|
 |	39	|	kubecui  	|	[ kubeui makes kubectl more user friendly ](https://github.com/pymag09/kubecui)	|	![Github Stars](https://img.shields.io/github/stars/pymag09/kubecui)	|
+|	40	|	q-as-kubectl  	|	[ q as kubectl: yet another way to control k8s commands ](https://github.com/ildar-shaimordanov/q-as-kubectl)	|	![Github Stars](https://img.shields.io/github/stars/ildar-shaimordanov/q-as-kubectl)	|
 
 
 ## Alert and Monitoring						
