@@ -323,6 +323,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  68  |   Armada   |   [ A multi-cluster batch queuing system for high-throughput workloads on Kubernetes. ](https://github.com/armadaproject/armada)   |   ![Github Stars](https://img.shields.io/github/stars/armadaproject/armada)  |
 |  69  |   kro   |   [ Kube Resource Orchestrator (kro) provides a powerful abstraction layer that allows you to define complex multi-resource constructs as reusable components in your applications and systems](https://github.com/awslabs/kro)   |   ![Github Stars](https://img.shields.io/github/stars/awslabs/kro)  |
 |  70  |   kubectl-slice   |   [ Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files](https://github.com/patrickdappollonio/kubectl-slice)   |   ![Github Stars](https://img.shields.io/github/stars/patrickdappollonio/kubectl-slice)  |
+|  71  |   crik   |   [ crik is a project that aims to provide checkpoint and restore functionality for Kubernetes pods mainly targeted for node shutdown and restart scenarios ](https://github.com/qawolf/crik)   |   ![Github Stars](https://img.shields.io/github/stars/qawolf/crik)  |
 
 
 ## Alternative Tools for Development						
