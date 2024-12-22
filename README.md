@@ -338,6 +338,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	Otomi  	|	[	Self-hosted PaaS for Kubernetes](https://github.com/redkubes/otomi-core)	|	![Github Stars](https://img.shields.io/github/stars/redkubes/otomi-core)	|
 |	9	|	Rainbond  	|	[	offers a serverless experience, and allows you to easily manage containerized applications without needing to understand Kubernetes](https://github.com/goodrain/rainbond)	|	![Github Stars](https://img.shields.io/github/stars/goodrain/rainbond)	|
 |	10	|	MyKube  	|	[ k8s-installer - One-click k8s single-node cluster installation on your own device ](https://github.com/guyst16/mykube)	|	![Github Stars](https://img.shields.io/github/stars/guyst16/mykube)	|
+|	11	|	K8e  	|	[ K8e 🚀 - Instantly Ready Kubernetes Enterprise Edition ](https://github.com/xiaods/k8e)	|	![Github Stars](https://img.shields.io/github/stars/xiaods/k8e)	|
 
 
 									
