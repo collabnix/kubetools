@@ -590,7 +590,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |     3      |   VolSync             |  [	Asynchronous data replication for Kubernetes volumes](https://github.com/backube/volsync)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/volsync)
 |     4     |   Reflector             |  [	Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.](https://github.com/emberstack/kubernetes-reflector)  |	 ![Github Stars](https://img.shields.io/github/stars/emberstack/kubernetes-reflector)
 |     5      |   SnapScheduler          |  [	Scheduled snapshots for Kubernetes persistent volumes.](https://github.com/backube/snapscheduler)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/snapscheduler)|
-|     6      |   K8up Backup Operator           |  [	K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster](https://github.com/k8up-io/k8up)  |	 ![Github Stars](https://img.shields.io/github/stars/k8up-io/k8up)
+|     6      |   K8up Backup Operator           |  [	K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster](https://github.com/k8up-io/k8up)  |	 ![Github Stars](https://img.shields.io/github/stars/k8up-io/k8up) |
+|     7      |   KubeSnapIt           |  [	KubeSnapIt is a PowerShell tool that simplifies managing your Kubernetes resources by providing functionalities for taking snapshots, comparing resources, and restoring them. For Windows, MacOS, and Linux.](https://github.com/KubeDeckio/KubeSnapIt)  |	 ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeSnapIt) |
+
 
 
   
@@ -606,6 +608,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	6	|	Krateo Platformops 	|	[	 Open source platform to manage infrastructure, resources and applications via YAML files](https://github.com/krateoplatformops/krateo)	|	![Github Stars](https://img.shields.io/github/stars/krateoplatformops/krateo)	|
 |	7	|	Kamus 	|	[	 An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications](https://github.com/Soluto/kamus)	|	![Github Stars](https://img.shields.io/github/stars/Soluto/kamus)	|
  |	8	|	korb 	|	[	 Move Kubernetes PVCs between Storage Classes and Namespaces](https://github.com/BeryJu/korb)	|	![Github Stars](https://img.shields.io/github/stars/BeryJu/korb)	|																
+ |	9	|	KubeDeck Launcher 	|	[	KubeDeck Launcher is a PowerShell-based UI that integrates KubeTidy and KubeSnapIt, allowing you to manage Kubernetes resources through a single interface.](https://github.com/KubeDeckio/KubeDeck)	|	![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeDeck)	|	
 
 
 ## Cost Optimisation						
@@ -680,6 +683,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  3  |   CRI-Purge   |   [CRI Purge - Cleanup of Cached Kubernetes CRI Images](https://github.com/reefland/cri-purge)   |   ![Github Stars](https://img.shields.io/github/stars/reefland/cri-purge)  |
 |  4  |   Pred8tor   |   [ Pred8tor is a simple tool to clean up K8s objects that were tagged for expiration ](https://github.com/pavelzag/pred8tor)   |   ![Github Stars](https://img.shields.io/github/stars/pavelzag/pred8tor)  |
 |  5  |   Kubetrim   |   [ Kubetrim is a command-line tool designed to automatically clean up your Kubernetes configuration file (KUBECONFIG) ](https://github.com/alexellis/kubetrim)   |   ![Github Stars](https://img.shields.io/github/stars/alexellis/kubetrim)  |
+|  6  |   KubeTidy   |   [KubeTidy is a PowerShell tool that helps you manage your Kubernetes kubeconfig files by removing unreachable clusters, along with their associated users and contexts. For Windows, Macos, and Linux](https://github.com/KubeDeckIo/KubeTidy)   |   ![Github Stars](https://img.shields.io/github/stars/KubeDeckIo/KubeTidy)  |
 
 
 ## Non-Categorize						
