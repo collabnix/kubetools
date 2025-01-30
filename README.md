@@ -17,9 +17,10 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools( Dec 2024)				
+## Top Featured Kubernetes Tools( Jan 2024)				
 				
 
+- [Kubearchinspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
 - [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/)
 - [Krs](https://github.com/kubetoolsca/krs)
