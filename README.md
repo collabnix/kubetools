@@ -20,7 +20,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 ## Top Featured Kubernetes Tools( Jan 2024)				
 				
 
-- [Kubearchinspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
+- [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
 - [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/)
 - [Krs](https://github.com/kubetoolsca/krs)
