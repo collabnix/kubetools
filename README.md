@@ -132,6 +132,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 49 |	Kondense | [  Kondense is a tool designed for Kubernetes environments, specifically focused on optimizing memory and CPU usage in containers. ](https://github.com/unagex/kondense) | ![Github Stars](https://img.shields.io/github/stars/unagex/kondense) |
 | 50 |	Kubeseal-Webgui | [  Kubeseal-Webgui is a simple web ui for Bitnami Sealed Secrets. ](https://github.com/Jaydee94/kubeseal-webgui) | ![Github Stars](https://img.shields.io/github/stars/Jaydee94/kubeseal-webgui) |
 | 51 |	Klutch | [ Klutch extends Crossplane to manage resources across multiple Kubernetes clusters ](https://github.com/anynines/klutchio) | ![Github Stars](https://img.shields.io/github/stars/anynines/klutchio) |
+| 52 |	Kanvas | [ A comprehensive suite of collaborative tools for designing, deploying and managing cloud-native infrastructure. ](https://kanvas.new) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |
 
 
 ## Cluster with Core CLI tools						
@@ -327,6 +328,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  70  |   kubectl-slice   |   [ Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files](https://github.com/patrickdappollonio/kubectl-slice)   |   ![Github Stars](https://img.shields.io/github/stars/patrickdappollonio/kubectl-slice)  |
 |  71  |   crik   |   [ crik is a project that aims to provide checkpoint and restore functionality for Kubernetes pods mainly targeted for node shutdown and restart scenarios ](https://github.com/qawolf/crik)   |   ![Github Stars](https://img.shields.io/github/stars/qawolf/crik)  |
 |  72  |   kbld   |   [ kbld seamlessly incorporates image building and image pushing into your development and deployment workflows ](https://github.com/carvel-dev/kbld)   |   ![Github Stars](https://img.shields.io/github/stars/carvel-dev/kbld)  |
+|  73  |   Helm Kanvas Snapshot  |   [ Plugin that generates a visual snapshot of Helm charts. ](https://github.com/meshery/helm-kanvas-snapshot)   |   ![Github Stars](https://img.shields.io/github/stars/meshery/helm-kanvas-snapshot)  |
 
 
 ## Alternative Tools for Development						
