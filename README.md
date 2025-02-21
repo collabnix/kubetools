@@ -249,6 +249,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	15 |	kftray  	|	[ A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters ](https://github.com/hcavarsan/kftray)	|	![Github Stars](https://img.shields.io/github/stars/hcavarsan/kftray)	|
 |	16 |	kuttl  	|	[	Declarative approach to test Kubernetes Operators.](https://github.com/kudobuilder/kuttl)	|	![Github Stars](https://img.shields.io/github/stars/kudobuilder/kuttl)	|
 |	17 |	kdave  	|	[ The kdave (Kubernetes Deprecated API Versions Exporter) checks for any deprecated or removed apiVersions in the cluster and exports them in a Prometheus metrics format ](https://github.com/wayfair-incubator/kdave)	|	![Github Stars](https://img.shields.io/github/stars/wayfair-incubator/kdave)	|
+|	18 |	kubediff  	|	[ Source VS Deployed - Used to sanity check and understand what has changed between environments ](https://github.com/Ramilito/kubediff)	|	![Github Stars](https://img.shields.io/github/stars/Ramilito/kubediff)	|
 
 									
 ## Developement Tools/Kit						
