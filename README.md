@@ -330,6 +330,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  71  |   crik   |   [ crik is a project that aims to provide checkpoint and restore functionality for Kubernetes pods mainly targeted for node shutdown and restart scenarios ](https://github.com/qawolf/crik)   |   ![Github Stars](https://img.shields.io/github/stars/qawolf/crik)  |
 |  72  |   kbld   |   [ kbld seamlessly incorporates image building and image pushing into your development and deployment workflows ](https://github.com/carvel-dev/kbld)   |   ![Github Stars](https://img.shields.io/github/stars/carvel-dev/kbld)  |
 |  73  |   Helm Kanvas Snapshot  |   [ Plugin that generates a visual snapshot of Helm charts. ](https://github.com/meshery/helm-kanvas-snapshot)   |   ![Github Stars](https://img.shields.io/github/stars/meshery/helm-kanvas-snapshot)  |
+|  74  |   KubeDiagrams  |   [ Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state. ](https://github.com/philippemerle/KubeDiagrams)   |   ![Github Stars](https://img.shields.io/github/stars/philippemerle/KubeDiagrams)  |
 
 
 ## Alternative Tools for Development						
