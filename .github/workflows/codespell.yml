@@ -11,7 +11,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         
-      - name: Codespell
-        uses: codespell-project/actions-codespell@v2
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          ignore_words_list: "rouge"
+          python-version: '3.x'
+          
+      - name: Install and run codespell
+        run: |
+          pip install codespell
+          codespell --ignore-words-list=rouge --skip=./.git,./Gemfile.lock,./vendor
