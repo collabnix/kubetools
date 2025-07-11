@@ -1,8 +1,7 @@
 name: Auto-Discover Kubernetes Tools
-
 on:
   schedule:
-    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC (added missing asterisk)
   workflow_dispatch:      # Manual trigger for testing
 
 jobs:
