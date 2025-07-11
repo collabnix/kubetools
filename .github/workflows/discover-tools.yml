@@ -3,7 +3,7 @@ name: Auto-Discover Kubernetes Tools
 on:
   schedule:
     - cron: '0 9 * * *'  # Daily at 9 AM UTC
-  workflow_dispatch:      # Manual trigger
+  workflow_dispatch:      # Manual trigger for testing
 
 jobs:
   discover:
@@ -24,16 +24,17 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        echo "🚀 Starting Kubernetes Tools Discovery..."
+        echo "📁 Current directory: $(pwd)"
+        echo "📁 Files in scripts/: $(ls -la scripts/ || echo 'scripts directory not found')"
         python scripts/discover_tools.py
         
-    - name: Create Issue for New Tools
-      if: success()
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        if ls discovered_tools_*.json 1> /dev/null 2>&1; then
-          echo "New tools discovered! Creating issue..."
-          python scripts/create_tool_issue.py
-        else
-          echo "No new tools found today."
-        fi
+    - name: Upload Results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: discovered-tools
+        path: |
+          discovered_tools_*.json
+          new_tools_issue_*.md
+        retention-days: 30
