@@ -17,17 +17,11 @@ jobs:
         uses: codespell-project/actions-codespell@v2
         with:
           # Skip files that commonly have false positives
-          skip: "./.git,./Gemfile.lock,./vendor,./node_modules,*.png,*.jpg,*.jpeg,*.pdf"
+          skip: "Gemfile.lock,vendor"
           
           # Ignore words that are legitimate but flagged as errors
-          ignore_words_list: "rouge,funktion,objets"
+          ignore_words_list: "rouge"
           
-          # Only check certain file types
+          # Check filenames too
           check_filenames: true
           check_hidden: false
-          
-          # Continue on error (optional - remove this if you want strict checking)
-          # builtin: clear,rare,code
-          
-          # Exclude specific paths
-          exclude_file: ".codespellignore"
