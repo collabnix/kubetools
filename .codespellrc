@@ -1,4 +1,12 @@
 [codespell]
+# Ignore legitimate terms that codespell flags incorrectly
 ignore-words-list = rouge
-skip = ./.git,./Gemfile.lock,./vendor
+
+# Skip files that commonly have false positives
+skip = ./.git,./Gemfile.lock,./vendor,./node_modules,*.png,*.jpg,*.jpeg,*.pdf,*.svg,*.ico
+
+# Check filenames too
+check-filenames = true
+
+# Don't check hidden files
 check-hidden = false
