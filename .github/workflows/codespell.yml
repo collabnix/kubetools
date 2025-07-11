@@ -1,9 +1,7 @@
 name: CodeSpell Integration
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["master"]
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -16,12 +14,4 @@ jobs:
       - name: Codespell
         uses: codespell-project/actions-codespell@v2
         with:
-          # Skip files that commonly have false positives
-          skip: "Gemfile.lock,vendor"
-          
-          # Ignore words that are legitimate but flagged as errors
           ignore_words_list: "rouge"
-          
-          # Check filenames too
-          check_filenames: true
-          check_hidden: false
