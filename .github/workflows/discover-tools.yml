@@ -1,0 +1,39 @@
+name: Auto-Discover Kubernetes Tools
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: pip install requests
+      
+    - name: Run Tool Discovery
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python scripts/discover_tools.py
+        
+    - name: Create Issue for New Tools
+      if: success()
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        if ls discovered_tools_*.json 1> /dev/null 2>&1; then
+          echo "New tools discovered! Creating issue..."
+          python scripts/create_tool_issue.py
+        else
+          echo "No new tools found today."
+        fi
