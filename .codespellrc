@@ -1,0 +1,4 @@
+[codespell]
+ignore-words-list = rouge
+skip = ./.git,./Gemfile.lock,./vendor
+check-hidden = false
