@@ -466,7 +466,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	5	|	kube-scored  	|	[	Kubernetes object analysis with recommendations for improved reliability and security](https://github.com/zegl/kube-score)	|	![Github Stars](https://img.shields.io/github/stars/zegl/kube-score)	|
 |	6	|	Litmusd  	|	[	Cloud-Native Chaos Engineering; Kubernetes-Native Chaos Engineering; Chaos Engineering for Kubernetes](https://github.com/litmuschaos/litmus)	|	![Github Stars](https://img.shields.io/github/stars/litmuschaos/litmus)	|
 |	7	|	PowerfulSeald  	|	[	A powerful testing tool for Kubernetes clusters](https://github.com/bloomberg/powerfulseal)	|	![Github Stars](https://img.shields.io/github/stars/bloomberg/powerfulseal)	|
-|	8	|	kube-burnerd  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://kube-burner.readthedocs.io/en/latest/)	|	-	|
+|	8	|	kube-burner  	|	[	Kube-burner is a tool aimed at stressing kubernetes clusters](https://github.com/kube-burner/kube-burner)	|	![Github Stars]	|
 |	9	|	Tracetest  	|	[	Generate end-to-end and integration tests automatically from your OpenTelemetry traces](https://github.com/kubeshop/tracetest)	|	![Github Stars](https://img.shields.io/github/stars/kubeshop/tracetest)	|
 |	10	|	Microcks  	|	[	 Kubernetes native tool for mocking and testing API and micro-services](https://github.com/microcks/microcks)	|	![Github Stars](https://img.shields.io/github/stars/microcks/microcks)	|
 |	11	|	KWOK  	        |	[	Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.](https://github.com/kubernetes-sigs/kwok)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/kwok)	|
