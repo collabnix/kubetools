@@ -23,7 +23,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
 - [Kuberay](https://collabnix.com/deploying-ray-on-kubernetes/)
 - [K8s-insider](https://collabnix.com/streamlining-kubernetes-networking-with-k8s-insider/)
-- [Krs](https://github.com/kubetoolsca/krs)
+- [Agentkube](https://github.com/agentkube/agentkube)
 - [Stern](https://collabnix.com/tail-kubernetes-with-stern/)
 - [Node Problem Detector](https://kubetools.io/monitoring-node-health-with-node-problem-detector-in-kubernetes/)	
 - [Karpenter](https://kubetools.io/supercharge-your-kubernetes-cluster-with-karpenter/)
