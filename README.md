@@ -430,7 +430,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	42	|	MKAT  	|	[ All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS ](https://github.com/DataDog/managed-kubernetes-auditing-toolkit)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/managed-kubernetes-auditing-toolkit)	|
 |	43	|	Kubescape  	|	[ Kubernetes security platform for configuration scanning, risk analysis, and runtime protection. CNCF project that includes policy enforcement, vulnerability scanning, and RBAC visualizer ](https://github.com/kubescape/kubescape)	|	![Github Stars](https://img.shields.io/github/stars/kubescape/kubescape)	|
 |	44	|	Oligo  	|	[ Observe application behavior to see what your risks really are – and stop breaches before they begin ](https://www.oligo.security/)	|	-	|
-|	45	|	kube-advisor.io  	|	[ kube-advisor.io lets you detect misconfigurations and best practice violations of your Kubernetes clusters - continuously and in real-time ](https://kube-advisor.io/)	|	-	|
+|	45	|	kube-advisor.io  	|	[ kube-advisor.io lets you detect misconfigurations and best practice violations of your Kubernetes clusters - continuously and in real-time ](https://kube-advisor.io/)	|	![GitHub Stars](https://img.shields.io/github/stars/kube-advisor-io/kube-advisor-agent)	|
 
 
 ## Network Policies						
