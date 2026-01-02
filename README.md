@@ -17,7 +17,7 @@ Follow the Kubetools [Twitter](https://twitter.com/kubetools) account for update
 
 Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get chance to be a part of 10,000+ DevOps enthusiasts.<br>
 
-## Top Featured Kubernetes Tools( Oct 2025)				
+## Top Featured Kubernetes Tools( Jan 2026)				
 				
 
 - [KubeArchInspect](https://github.com/ArmDeveloperEcosystem/kubearchinspect)
