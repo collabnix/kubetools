@@ -179,6 +179,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	39	|	kubecui  	|	[ kubeui makes kubectl more user friendly ](https://github.com/pymag09/kubecui)	|	![Github Stars](https://img.shields.io/github/stars/pymag09/kubecui)	|
 |	40	|	q-as-kubectl  	|	[ q as kubectl: yet another way to control k8s commands ](https://github.com/ildar-shaimordanov/q-as-kubectl)	|	![Github Stars](https://img.shields.io/github/stars/ildar-shaimordanov/q-as-kubectl)	|
 |	41	|	kubectl find  	|	[ UNIX-find-like plugin for kubectl to find resources and perform action on them  ](https://github.com/alikhil/kubectl-find)	|	![Github Stars](https://img.shields.io/github/stars/alikhil/kubectl-find)	|
+|	42	|	kubefwd  	|	[ Bulk port forwarding for Kubernetes services with unique IPs per service, automatic /etc/hosts entries, and MCP integration for AI assistants ](https://github.com/txn2/kubefwd)	|	![Github Stars](https://img.shields.io/github/stars/txn2/kubefwd)	|
 
 
 ## Alert and Monitoring						
