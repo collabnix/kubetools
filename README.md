@@ -133,6 +133,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 50 |	Kubeseal-Webgui | [  Kubeseal-Webgui is a simple web ui for Bitnami Sealed Secrets. ](https://github.com/Jaydee94/kubeseal-webgui) | ![Github Stars](https://img.shields.io/github/stars/Jaydee94/kubeseal-webgui) |
 | 51 |	Klutch | [ Klutch extends Crossplane to manage resources across multiple Kubernetes clusters ](https://github.com/anynines/klutchio) | ![Github Stars](https://img.shields.io/github/stars/anynines/klutchio) |
 | 52 |	Kanvas | [ A comprehensive suite of collaborative tools for designing, deploying and managing cloud-native infrastructure. ](https://kanvas.new) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |
+| 53 |	k9sight | [ A fast, keyboard-driven TUI for debugging Kubernetes workloads ](https://github.com/doganarif/k9sight) | ![Github Stars](https://img.shields.io/github/stars/doganarif/k9sight) |
 
 
 ## Cluster with Core CLI tools						
@@ -340,7 +341,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  73  |   Helm Kanvas Snapshot  |   [ Plugin that generates a visual snapshot of Helm charts. ](https://github.com/meshery/helm-kanvas-snapshot)   |   ![Github Stars](https://img.shields.io/github/stars/meshery/helm-kanvas-snapshot)  |
 |  74  |   KubeDiagrams  |   [ Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state. ](https://github.com/philippemerle/KubeDiagrams)   |   ![Github Stars](https://img.shields.io/github/stars/philippemerle/KubeDiagrams)  |
 |  75  |   k8skonf  |   [ Write Kubernetes manifests in TypeScript ](https://github.com/konfjs/k8skonf)   |   ![Github Stars](https://img.shields.io/github/stars/konfjs/k8skonf)  |
-|  75  |   helm-controller  |   [ A simple way to manage helm charts with Custom Resource Definitions in k8s ](https://github.com/k3s-io/helm-controller)   |   ![Github Stars](https://img.shields.io/github/stars/k3s-io/helm-controller)  |
+|  76  |   helm-controller  |   [ A simple way to manage helm charts with Custom Resource Definitions in k8s ](https://github.com/k3s-io/helm-controller)   |   ![Github Stars](https://img.shields.io/github/stars/k3s-io/helm-controller)  |
 
 
 ## Alternative Tools for Development						
