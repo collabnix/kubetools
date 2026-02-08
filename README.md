@@ -182,6 +182,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	41	|	kubectl find  	|	[ UNIX-find-like plugin for kubectl to find resources and perform action on them  ](https://github.com/alikhil/kubectl-find)	|	![Github Stars](https://img.shields.io/github/stars/alikhil/kubectl-find)	|
 |	42	|	kubefwd  	|	[ Bulk port forwarding for Kubernetes services with unique IPs per service, automatic /etc/hosts entries, and MCP integration for AI assistants ](https://github.com/txn2/kubefwd)	|	![Github Stars](https://img.shields.io/github/stars/txn2/kubefwd)	|
 |	43	|	kubecm  	|	[ Manage your kubeconfig more easily ](https://github.com/sunny0826/kubecm)	|	![Github Stars](https://img.shields.io/github/stars/sunny0826/kubecm)	|
+|	44	|	krelay  	|	[ A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster ](https://github.com/knight42/krelay)	|	![Github Stars](https://img.shields.io/github/stars/knight42/krelay)	|
+
 
 
 ## Alert and Monitoring						
