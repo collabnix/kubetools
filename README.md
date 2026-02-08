@@ -340,6 +340,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  73  |   Helm Kanvas Snapshot  |   [ Plugin that generates a visual snapshot of Helm charts. ](https://github.com/meshery/helm-kanvas-snapshot)   |   ![Github Stars](https://img.shields.io/github/stars/meshery/helm-kanvas-snapshot)  |
 |  74  |   KubeDiagrams  |   [ Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state. ](https://github.com/philippemerle/KubeDiagrams)   |   ![Github Stars](https://img.shields.io/github/stars/philippemerle/KubeDiagrams)  |
 |  75  |   k8skonf  |   [ Write Kubernetes manifests in TypeScript ](https://github.com/konfjs/k8skonf)   |   ![Github Stars](https://img.shields.io/github/stars/konfjs/k8skonf)  |
+|  75  |   helm-controller  |   [ A simple way to manage helm charts with Custom Resource Definitions in k8s ](https://github.com/k3s-io/helm-controller)   |   ![Github Stars](https://img.shields.io/github/stars/k3s-io/helm-controller)  |
 
 
 ## Alternative Tools for Development						
