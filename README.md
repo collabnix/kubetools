@@ -31,6 +31,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 - [K8sGPT](https://kubetools.io/k8sgpt-simplifying-kubernetes-diagnostics-with-natural-language-processing/)
 - [Kubeshark](https://kubetools.io/mastering-kubernetes-debugging-and-troubleshooting-with-kubeshark-real-time-visibility-query-language-service-map-and-integrations/) 
 - [K9s](https://kubetools.io/why-k9s-should-be-your-go-to-tool-for-kubernetes-management/)
+- [Kubernetes Operators Explained: What They Are, How They Work, and How to Build One](https://releaserun.com/kubernetes-operators-explained-what-they-are-how-they-work-and-how-to-build-one/)
+- [Container Image Scanning in 2026: Clair, Trivy, and Grype Compared](https://releaserun.com/container-image-scanning-in-2026-clair-trivy-and-grype-compared/)
+- [Observability in 2026: OpenTelemetry, Distributed Tracing, and the Three Pillars](https://releaserun.com/observability-in-2026-opentelemetry-distributed-tracing-and-the-three-pillars/)
 
 ## Table of Contents
 
