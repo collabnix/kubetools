@@ -184,6 +184,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	42	|	kubefwd  	|	[ Bulk port forwarding for Kubernetes services with unique IPs per service, automatic /etc/hosts entries, and MCP integration for AI assistants ](https://github.com/txn2/kubefwd)	|	![Github Stars](https://img.shields.io/github/stars/txn2/kubefwd)	|
 |	43	|	kubecm  	|	[ Manage your kubeconfig more easily ](https://github.com/sunny0826/kubecm)	|	![Github Stars](https://img.shields.io/github/stars/sunny0826/kubecm)	|
 |	44	|	krelay  	|	[ A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster ](https://github.com/knight42/krelay)	|	![Github Stars](https://img.shields.io/github/stars/knight42/krelay)	|
+|	45	|	kubectl-browse-pvc  	|	[ Kubectl plugin for browsing PVCs on the command line ](https://github.com/clbx/kubectl-browse-pvc)	|	![Github Stars](https://img.shields.io/github/stars/clbx/kubectl-browse-pvc)	|
+|	46	|	gwctl  	|	[ Command-line tool for managing and understanding Gateway API resources in your Kubernetes cluster ](https://github.com/kubernetes-sigs/gwctl)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/gwctl)	|
 
 
 
@@ -215,6 +217,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	22	|	k8s-collector	|	[A Kubernetes Job to collect resources, logs and events from a Kubernetes cluster ](https://github.com/gianlucam76/k8s_collector)	|	![Github Stars](https://img.shields.io/github/stars/gianlucam76/k8s_collector)	|
 |	23	|	HolmesGPT	|	[  On-Call Assistant for Prometheus Alerts - Get a head start on fixing alerts with AI investigation ](https://github.com/robusta-dev/holmesgpt)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/holmesgpt)	|
 |	24	|	kcmsu	|	[  K8s ConfigMaps and Secrets Usage ](https://github.com/cristian98149/kcmsu)	|	![Github Stars](https://img.shields.io/github/stars/cristian98149/kcmsu)	|
+|	25	|	WatchAlert	|	[  Lightweight cloud-native multi-data source monitoring and alerting engine ](https://github.com/opsre/WatchAlert)	|	![Github Stars](https://img.shields.io/github/stars/opsre/WatchAlert)	|
 
 
 ## Logging and Tracing						
@@ -235,6 +238,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	12	|	network mapper 	|	[	Map Kubernetes in-cluster traffic and export as text, intents, or an image ](https://github.com/otterize/network-mapper)	|	![Github Stars](https://img.shields.io/github/stars/otterize/network-mapper)	|     
 |	13	|	retina	|	[	eBPF distributed networking observability tool for Kubernetes. ](https://github.com/microsoft/retina)	|	![Github Stars](https://img.shields.io/github/stars/microsoft/retina)	|    
 |	14	|	sablier	|	[	Starting containers on demand and close automatically when not in use. ](https://github.com/acouvreur/sablier)	|	![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)	| 
+|	15	|	kubetail	|	[	Real-time logging dashboard for Kubernetes - view logs in a terminal or a browser](https://github.com/kubetail-org/kubetail)	|	![Github Stars](https://img.shields.io/github/stars/kubetail-org/kubetail)	|
+|	16	|	Odigos	|	[	Distributed tracing without code changes using OpenTelemetry and eBPF](https://github.com/odigos-io/odigos)	|	![Github Stars](https://img.shields.io/github/stars/odigos-io/odigos)	|
 
 ## Troubleshooting / Debugging						
 									
@@ -390,8 +395,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	20 	| Kubefirst | [ GitOps Infrastructure & Application Delivery Platform](https://github.com/kubefirst/kubefirst) |  ![Github Stars](https://img.shields.io/github/stars/kubefirst/kubefirst)      |
 | 	21	| autoapply | [ Automatically apply changes to a Kubernetes cluster](https://github.com/autoapply/autoapply) |  ![Github Stars](https://img.shields.io/github/stars/autoapply/autoapply)      |
 | 	22	| mani-diffy | [ a hierarchy of Argo CD Application templates, renders Kubernetes manifests from the input templates, and posts the rendered files back for the user to review and validate ](https://github.com/chime/mani-diffy) |  ![Github Stars](https://img.shields.io/github/stars/chime/mani-diffy)      |
+| 	23	| Nelm | [ Modern Helm alternative - a Kubernetes deployment tool that manages Helm Charts with long-standing issues fixed and many new major features ](https://github.com/werf/nelm) |  ![Github Stars](https://img.shields.io/github/stars/werf/nelm)      |
+| 	24	| gitops-promoter | [ GitOps Environment Promotion tool that lets you focus on the "what," not the "how" ](https://github.com/argoproj-labs/gitops-promoter) |  ![Github Stars](https://img.shields.io/github/stars/argoproj-labs/gitops-promoter)      |
+| 	25	| mcp-for-argocd | [ Model Context Protocol (MCP) server for Argo CD - enables AI assistants to interact with Argo CD ](https://github.com/argoproj-labs/mcp-for-argocd) |  ![Github Stars](https://img.shields.io/github/stars/argoproj-labs/mcp-for-argocd)      |
 
-	 
+ 	 
 ## Security Tools						
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
@@ -441,6 +449,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	43	|	Kubescape  	|	[ Kubernetes security platform for configuration scanning, risk analysis, and runtime protection. CNCF project that includes policy enforcement, vulnerability scanning, and RBAC visualizer ](https://github.com/kubescape/kubescape)	|	![Github Stars](https://img.shields.io/github/stars/kubescape/kubescape)	|
 |	44	|	Oligo  	|	[ Observe application behavior to see what your risks really are – and stop breaches before they begin ](https://www.oligo.security/)	|	-	|
 |	45	|	kube-advisor.io  	|	[ kube-advisor.io lets you detect misconfigurations and best practice violations of your Kubernetes clusters - continuously and in real-time ](https://kube-advisor.io/)	|	![GitHub Stars](https://img.shields.io/github/stars/kube-advisor-io/kube-advisor-agent)	|
+|	46	|	Tetragon  	|	[ eBPF-based Security Observability and Runtime Enforcement for Kubernetes ](https://github.com/cilium/tetragon)	|	![Github Stars](https://img.shields.io/github/stars/cilium/tetragon)	|
+|	47	|	KubeHound  	|	[ Tool for building Kubernetes attack paths - identify attack paths within a Kubernetes cluster ](https://github.com/DataDog/KubeHound)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/KubeHound)	|
+|	48	|	scan2html  	|	[ A Trivy plugin that scans and outputs results (vulnerabilities, misconfigurations, secrets, SBOM) to an interactive HTML file ](https://github.com/fatihtokus/scan2html)	|	![Github Stars](https://img.shields.io/github/stars/fatihtokus/scan2html)	|
 
 
 ## Network Policies						
@@ -463,10 +474,11 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	14	|	KubeIP	|	[ Assign static public IPs to Kubernetes nodes (GKE, EKS) ](https://github.com/doitintl/kubeip)	|	![Github Stars](https://img.shields.io/github/stars/doitintl/kubeip)	 |
 |	15	|	kube-vip	|	[  Kubernetes Control Plane Virtual IP and Load-Balancer ](https://github.com/kube-vip/kube-vip)	|	![Github Stars](https://img.shields.io/github/stars/kube-vip/kube-vip)	 |
 |	16	|	k8s-tun	|	[  Kubernetes Access k8s pod ip, service ip ](https://github.com/yzxiu/k8s-tun)	|	![Github Stars](https://img.shields.io/github/stars/yzxiu/k8s-tun)	 |
+|	17	|	knetvis	|	[  A powerful CLI tool for visualizing and testing Kubernetes Network Policies ](https://github.com/samuelarogbonlo/knetvis)	|	![Github Stars](https://img.shields.io/github/stars/samuelarogbonlo/knetvis)	 |
 
 
-									
-## Testing Tools						
+	
+## Testing Tools
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
@@ -534,7 +546,10 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	21	|	Robusta  	|	[	Kubernetes observability and automation, with an awesome Prometheus integration](https://github.com/robusta-dev/robusta)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/robusta)	|
 |	22	|	kubeinvaders  	|	[	Gamified Chaos Engineering Tool for Kubernetes](https://github.com/lucky-sideburn/kubeinvaders)	|	![Github Stars](https://img.shields.io/github/stars/lucky-sideburn/kubeinvaders)	|
  |	23	|	Headlamp  	|	[	An easy-to-use and extensible web UI for Kubernetes](https://github.com/headlamp-k8s/headlamp)	|	![Github Stars](https://img.shields.io/github/stars/headlamp-k8s/headlamp)	|
- |	24	|	Pixie  	|	[	Instant Kubernetes-Native Application Observability.  ](https://github.com/pixie-io/pixie)	|	![Github Stars](https://img.shields.io/github/stars/pixie-io/pixie)	|
+|  24  |	Pixie  	|	[	Instant Kubernetes-Native Application Observability.  ](https://github.com/pixie-io/pixie)	|	![Github Stars](https://img.shields.io/github/stars/pixie-io/pixie)	|
+|	25	|	Karpor  	|	[	Intelligence for Kubernetes - world's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams ](https://github.com/KusionStack/karpor)	|	![Github Stars](https://img.shields.io/github/stars/KusionStack/karpor)	|
+|	26	|	DeepFlow  	|	[	eBPF Observability - Distributed Tracing and Profiling for Kubernetes ](https://github.com/deepflowio/deepflow)	|	![Github Stars](https://img.shields.io/github/stars/deepflowio/deepflow)	|
+|	27	|	Alaz  	|	[	Advanced eBPF Agent for Kubernetes Observability - monitor K8s service interactions and performance metrics ](https://github.com/getanteon/alaz)	|	![Github Stars](https://img.shields.io/github/stars/getanteon/alaz)	|
 
 
 ## Machine Learning/Deep Learning						
@@ -667,6 +682,9 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|    	 kubectl-assistant |	[	This tool uses OpenAI's GPT3 API to generate Kubernetes kubectl commands to run against a cluster ](https://github.com/dkoshkin/kubectl-assistant)	|	![Github Stars](https://img.shields.io/github/stars/dkoshkin/kubectl-assistant)	|
 |	9	|    	 HolmesGPT |	[	The only DevOps assistant that solves alerts like a human does - by looking at alerts and fetching missing data repeatedly until the alert can be solved ](https://github.com/robusta-dev/holmesgpt)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/holmesgpt)	|
 | 10 | Agentkube | [an AI-powered Kubernetes IDE for Developers and DevOps teams](https://github.com/agentkube/agentkube) | ![Github Stars](https://img.shields.io/github/stars/agentkube/agentkube)| 
+| 11 | kubernetes-mcp-server | [ Model Context Protocol (MCP) server for Kubernetes and OpenShift - enables AI assistants to interact with clusters ](https://github.com/containers/kubernetes-mcp-server) | ![Github Stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server)|
+| 12 | kubectl-mcp-server | [ A Model Context Protocol (MCP) server for Kubernetes enabling AI tools to manage clusters ](https://github.com/rohitg00/kubectl-mcp-server) | ![Github Stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server)|
+| 13 | k8s-mcp-server | [ MCP server that enables AI assistants like Claude to securely execute Kubernetes commands including kubectl, helm, istioctl, and argocd ](https://github.com/alexei-led/k8s-mcp-server) | ![Github Stars](https://img.shields.io/github/stars/alexei-led/k8s-mcp-server)|
 
 ## Caching
 
