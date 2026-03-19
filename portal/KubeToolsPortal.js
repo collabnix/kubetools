@@ -120,6 +120,12 @@ export default function KubeToolsPortal() {
         category: "Artificial Intelligence"
       },
       {
+        name: "KubeGraf",
+        description: "Local-first AI SRE Platform for Kubernetes - detects incidents, explains root causes with evidence, and safely previews fixes without SaaS lock-in",
+        url: "https://kubegraf.io",
+        category: "Artificial Intelligence"
+      },
+      {
         name: "kube-fledged",
         description: "A Kubernetes add-on for creating and managing a cache of container images directly on the cluster nodes",
         url: "https://github.com/senthilrch/kube-fledged",
