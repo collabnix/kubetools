@@ -136,6 +136,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 52 |	Kanvas | [ A comprehensive suite of collaborative tools for designing, deploying and managing cloud-native infrastructure. ](https://kanvas.new) | ![Github Stars](https://img.shields.io/github/stars/meshery/meshery) |
 | 53 |	k9sight | [ A fast, keyboard-driven TUI for debugging Kubernetes workloads ](https://github.com/doganarif/k9sight) | ![Github Stars](https://img.shields.io/github/stars/doganarif/k9sight) |
 | 54 |	ReleaseRun K8s Deprecation Checker | [ Scan Kubernetes manifests for deprecated and removed APIs across versions 1.16-1.35, with auto-fix YAML output and upgrade timeline ](https://releaserun.com/tools/k8s-deprecation-checker/) | ![Github Stars](https://img.shields.io/github/stars/Releaserun/releaserun-cli) |
+| 55 |	okd-metal-installer | [ Ansible-driven bare-metal OKD provisioning via static ISOs and Bootstrap-in-Place ](https://github.com/tosin2013/okd-metal-installer) | ![Github Stars](https://img.shields.io/github/stars/tosin2013/okd-metal-installer) |
 
 
 ## Cluster with Core CLI tools						
