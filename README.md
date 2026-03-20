@@ -499,6 +499,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	13	|	Netchecks  	|	[Tool to validate assumptions about the network](https://github.com/hardbyte/netchecks)	|	![Github Stars](https://img.shields.io/github/stars/hardbyte/netchecks)	|
 |       14      |	Nighthawk       | [ Nighthawk is Layer5's versatile HTTP load tester. Drills deep with constant & adaptive rates, revealing performance insights ](https://github.com/layer5io/getnighthawk) | ![Github Stars](https://img.shields.io/github/stars/layer5io/getnighthawk) |
 |      15       |	perf-tests      | [ Performance tests and benchmarks ](https://github.com/kubernetes/perf-tests) | ![Github Stars](https://img.shields.io/github/stars/kubernetes/perf-tests) |
+|      16       |	Jupyter Notebook Validator Operator      | [ Kubernetes operator for validating Jupyter notebooks in MLOps (Papermill, golden notebooks) ](https://github.com/tosin2013/jupyter-notebook-validator-operator) | ![Github Stars](https://img.shields.io/github/stars/tosin2013/jupyter-notebook-validator-operator) |
 
 
 
