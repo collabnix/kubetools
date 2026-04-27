@@ -562,7 +562,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
 | ---------- | --------------------- | --------------------- | ------------------|									
 |	1	|	Nos  	|	[	nos is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs](https://github.com/nebuly-ai/nos)	|	![Github Stars](https://img.shields.io/github/stars/nebuly-ai/nos)	|
-|	2	|	Kubeflow  	|	[	Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)	|	![Github Stars](https://img.shields.io/github/stars/kubeflow/kubeflow)	|
+|	2	|	piqc	|	[	Read-only Kubernetes scanner that detects GPU waste in AI inference deployments — idle GPUs, tier misplacement, and unallocated nodes. One command, nothing installed permanently.](https://github.com/paralleliq/piqc)	|	![Github Stars](https://img.shields.io/github/stars/paralleliq/piqc)	|
+|	3	|	Kubeflow  	|	[	Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)	|	![Github Stars](https://img.shields.io/github/stars/kubeflow/kubeflow)	|
 |	3	|	Volcano  	|	[	A Kubernetes Native Batch System](https://github.com/volcano-sh/volcano)	|	![Github Stars](https://img.shields.io/github/stars/volcano-sh/volcano)	|
 									
 									
@@ -660,6 +661,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 5 | kepler | [Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics](https://github/stars/sustainable-computing-io/kepler) | ![Github Stars](https://img.shields.io/github/stars/sustainable-computing-io/kepler) |
 | 6 | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
 | 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
+| 8 | piqc | [ Read-only Kubernetes scanner that detects GPU waste in AI inference deployments — idle GPUs, tier misplacement, and unallocated nodes ](https://github.com/paralleliq/piqc) | ![Github Stars](https://img.shields.io/github/stars/paralleliq/piqc) |
 
 	
 ## Function as a Service FaaS			
