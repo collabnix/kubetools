@@ -139,6 +139,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 55 |	okd-metal-installer | [ Ansible-driven bare-metal OKD provisioning via static ISOs and Bootstrap-in-Place ](https://github.com/tosin2013/okd-metal-installer) | ![Github Stars](https://img.shields.io/github/stars/tosin2013/okd-metal-installer) |
 | 56 |	KubeStellar Console | [ CNCF Sandbox multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and GitOps-native deploy workflows across edge and cloud clusters ](https://github.com/kubestellar/console) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/console) |
 | 57 |	Hanoi-CLI | [ Interactive rebalance advisor for Kubernetes that analyzes pod distribution and simulates node failures ](https://github.com/k-krew/hanoi-cli) | ![Github Stars](https://img.shields.io/github/stars/k-krew/hanoi-cli) |
+| 58 |	Radar | [ Modern open-source Kubernetes visibility - single binary with multi-cluster topology, image filesystem viewer, Helm and GitOps management (FluxCD/ArgoCD), and a built-in MCP server for AI agents ](https://github.com/skyhook-io/radar) | ![Github Stars](https://img.shields.io/github/stars/skyhook-io/radar) |
 
 
 ## Cluster with Core CLI tools						
