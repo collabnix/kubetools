@@ -692,6 +692,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 12 | kubectl-mcp-server | [ A Model Context Protocol (MCP) server for Kubernetes enabling AI tools to manage clusters ](https://github.com/rohitg00/kubectl-mcp-server) | ![Github Stars](https://img.shields.io/github/stars/rohitg00/kubectl-mcp-server)|
 | 13 | k8s-mcp-server | [ MCP server that enables AI assistants like Claude to securely execute Kubernetes commands including kubectl, helm, istioctl, and argocd ](https://github.com/alexei-led/k8s-mcp-server) | ![Github Stars](https://img.shields.io/github/stars/alexei-led/k8s-mcp-server)|
 | 14 | KubeGraf | [ Local-first AI SRE Platform for Kubernetes - detects incidents, explains root causes with evidence, and safely previews fixes without SaaS lock-in ](https://kubegraf.io) | ![Github Stars](https://img.shields.io/github/stars/kubegraf/kubegraf)|
+| 15 | KubeStellar Console | [AI-powered multi-cluster Kubernetes management dashboard (CNCF Sandbox) with real-time observability, GitOps integration, and AI chat for cluster operations](https://github.com/kubestellar/console) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/console.svg) |
 
 ## Caching
 
