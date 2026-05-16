@@ -191,6 +191,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	44	|	krelay  	|	[ A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster ](https://github.com/knight42/krelay)	|	![Github Stars](https://img.shields.io/github/stars/knight42/krelay)	|
 |	45	|	kubectl-browse-pvc  	|	[ Kubectl plugin for browsing PVCs on the command line ](https://github.com/clbx/kubectl-browse-pvc)	|	![Github Stars](https://img.shields.io/github/stars/clbx/kubectl-browse-pvc)	|
 |	46	|	gwctl  	|	[ Command-line tool for managing and understanding Gateway API resources in your Kubernetes cluster ](https://github.com/kubernetes-sigs/gwctl)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/gwctl)	|
+|	47	|	km8	|	[ A lightweight terminal UI for Kubernetes — vim-style navigation, CRD support, drill-down, log streaming, and kubectl edit. Built for backend engineers who want a fast, zero-config alternative to opening a browser ](https://github.com/vulcanshen/km8)	|	![Github Stars](https://img.shields.io/github/stars/vulcanshen/km8)	|
 
 
 
