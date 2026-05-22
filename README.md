@@ -566,6 +566,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	1	|	Nos  	|	[	nos is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs](https://github.com/nebuly-ai/nos)	|	![Github Stars](https://img.shields.io/github/stars/nebuly-ai/nos)	|
 |	2	|	Kubeflow  	|	[	Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)	|	![Github Stars](https://img.shields.io/github/stars/kubeflow/kubeflow)	|
 |	3	|	Volcano  	|	[	A Kubernetes Native Batch System](https://github.com/volcano-sh/volcano)	|	![Github Stars](https://img.shields.io/github/stars/volcano-sh/volcano)	|
+|	4	|	piqc  	|	[	Open-source GPU waste scanner for Kubernetes inference clusters — detects tier misplacement, idle capacity, OOM risk, and CPU:GPU imbalance](https://github.com/paralleliq/piqc)	|	![Github Stars](https://img.shields.io/github/stars/paralleliq/piqc)	|
 									
 									
 ## Compute Edge Tools						
@@ -662,6 +663,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 5 | kepler | [Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics](https://github/stars/sustainable-computing-io/kepler) | ![Github Stars](https://img.shields.io/github/stars/sustainable-computing-io/kepler) |
 | 6 | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
 | 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
+| 8 | Paralleliq | [Model-aware GPU control plane for AI infrastructure — detects GPU waste, quantifies cost impact, and delivers actionable recommendations with approval workflows](https://www.paralleliq.ai) | - |
 
 	
 ## Function as a Service FaaS			
