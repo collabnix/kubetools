@@ -662,6 +662,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 5 | kepler | [Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics](https://github/stars/sustainable-computing-io/kepler) | ![Github Stars](https://img.shields.io/github/stars/sustainable-computing-io/kepler) |
 | 6 | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
 | 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
+| 8 | Attune | [ Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics](https://github.com/attune-io/attune) | ![Github Stars](https://img.shields.io/github/stars/attune-io/attune) |
 
 	
 ## Function as a Service FaaS			
