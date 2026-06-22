@@ -569,6 +569,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	1	|	Nos  	|	[	nos is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs](https://github.com/nebuly-ai/nos)	|	![Github Stars](https://img.shields.io/github/stars/nebuly-ai/nos)	|
 |	2	|	Kubeflow  	|	[	Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)	|	![Github Stars](https://img.shields.io/github/stars/kubeflow/kubeflow)	|
 |	3	|	Volcano  	|	[	A Kubernetes Native Batch System](https://github.com/volcano-sh/volcano)	|	![Github Stars](https://img.shields.io/github/stars/volcano-sh/volcano)	|
+|	4	|	piqc  	|	[	Open-source GPU waste scanner for Kubernetes inference clusters — detects tier misplacement, idle capacity, OOM risk, and CPU:GPU imbalance](https://github.com/paralleliq/piqc)	|	![Github Stars](https://img.shields.io/github/stars/paralleliq/piqc)	|
 									
 									
 ## Compute Edge Tools						
@@ -667,6 +668,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
 | 8 | Burn | [CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations](https://github.com/tanrikuluozlem/burn) | ![Github Stars](https://img.shields.io/github/stars/tanrikuluozlem/burn)|
 | 9 | Attune | [ Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics](https://github.com/attune-io/attune) | ![Github Stars](https://img.shields.io/github/stars/attune-io/attune) |
+| 10 | Paralleliq | [Model-aware GPU control plane for AI infrastructure — detects GPU waste, quantifies cost impact, and delivers actionable recommendations with approval workflows](https://www.paralleliq.ai) | - |
 
 	
 ## Function as a Service FaaS			
