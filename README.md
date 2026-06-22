@@ -665,6 +665,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 6 | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
 | 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
 | 8 | Burn | [CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations](https://github.com/tanrikuluozlem/burn) | ![Github Stars](https://img.shields.io/github/stars/tanrikuluozlem/burn)|
+| 9 | Attune | [ Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics](https://github.com/attune-io/attune) | ![Github Stars](https://img.shields.io/github/stars/attune-io/attune) |
 
 	
 ## Function as a Service FaaS			
