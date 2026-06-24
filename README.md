@@ -657,18 +657,19 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Cost Optimisation						
 									
-|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
-| ---------- | --------------------- | --------------------- | ------------------|									
-|	1	|	Kubecost  	|	[	Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)	|	![Github Stars](https://img.shields.io/github/stars/kubecost/cost-model)	|
-|	2	|	PerfectScale  	|	[	Reduce Kubernetes costs while improving performance and resilience with data-driven intelligence built for continuous optimization](https://www.perfectscale.io)	|	-	|
-|	3	|	OpenCost  	|	[	OpenCost — your favorite open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost)	|	![Github Stars](https://img.shields.io/github/stars/opencost/opencost)	|
-| 4 | kube-green | [kube-green is a simple k8s addon that automatically shuts down (some of) your resources when you don't need them](https://github.com/kube-green/kube-green) | ![Github Stars](https://img.shields.io/github/stars/kube-green/kube-green) |
-| 5 | kepler | [Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics](https://github/stars/sustainable-computing-io/kepler) | ![Github Stars](https://img.shields.io/github/stars/sustainable-computing-io/kepler) |
-| 6 | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
-| 7 | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
-| 8 | Burn | [CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations](https://github.com/tanrikuluozlem/burn) | ![Github Stars](https://img.shields.io/github/stars/tanrikuluozlem/burn)|
-| 9 | Attune | [ Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics](https://github.com/attune-io/attune) | ![Github Stars](https://img.shields.io/github/stars/attune-io/attune) |
+| 	Sr No	 |	Tool Name	|		Description with URL	|	GitHub Popularity	|
+|----| --------------------- | --------------------- | ------------------|									
+| 	1	 |	Kubecost  	|	[	Cross-cloud cost allocation models for workloads running on Kubernetes](https://github.com/kubecost/cost-model)	|	![Github Stars](https://img.shields.io/github/stars/kubecost/cost-model)	|
+| 	2	 |	PerfectScale  	|	[	Reduce Kubernetes costs while improving performance and resilience with data-driven intelligence built for continuous optimization](https://www.perfectscale.io)	|	-	|
+| 	3	 |	OpenCost  	|	[	OpenCost — your favorite open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost)	|	![Github Stars](https://img.shields.io/github/stars/opencost/opencost)	|
+| 4  | kube-green | [kube-green is a simple k8s addon that automatically shuts down (some of) your resources when you don't need them](https://github.com/kube-green/kube-green) | ![Github Stars](https://img.shields.io/github/stars/kube-green/kube-green) |
+| 5  | kepler | [Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics](https://github/stars/sustainable-computing-io/kepler) | ![Github Stars](https://img.shields.io/github/stars/sustainable-computing-io/kepler) |
+| 6  | KBOM | [ KBOM - Kubernetes Bill of Materials ](https://github.com/rad-security/kbom) | ![Github Stars](https://img.shields.io/github/stars/rad-security/kbom) |
+| 7  | StormForge | [ Autonomous Rightsizing for Kubernetes Workloads ](https://stormforge.io) | - |
+| 8  | Burn | [CLI tool for Kubernetes cost analysis with per-namespace breakdown, real cloud pricing, and AI-powered recommendations](https://github.com/tanrikuluozlem/burn) | ![Github Stars](https://img.shields.io/github/stars/tanrikuluozlem/burn)|
+| 9  | Attune | [ Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics](https://github.com/attune-io/attune) | ![Github Stars](https://img.shields.io/github/stars/attune-io/attune) |
 | 10 | Paralleliq | [Model-aware GPU control plane for AI infrastructure — detects GPU waste, quantifies cost impact, and delivers actionable recommendations with approval workflows](https://www.paralleliq.ai) | - |
+| 11 | GoKubeDownscaler | [ GoKubeDownscaler reduces Kubernetes cluster costs by scaling workloads to zero during off-hours such as nights, weekends and holidays https://kube-downscaler.io ](https://github.com/caas-team/GoKubeDownscaler)                                                                                | ![Github Stars](https://img.shields.io/github/stars/caas-team/GoKubeDownscaler) |
 
 	
 ## Function as a Service FaaS			
