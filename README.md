@@ -407,6 +407,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	23	| Nelm | [ Modern Helm alternative - a Kubernetes deployment tool that manages Helm Charts with long-standing issues fixed and many new major features ](https://github.com/werf/nelm) |  ![Github Stars](https://img.shields.io/github/stars/werf/nelm)      |
 | 	24	| gitops-promoter | [ GitOps Environment Promotion tool that lets you focus on the "what," not the "how" ](https://github.com/argoproj-labs/gitops-promoter) |  ![Github Stars](https://img.shields.io/github/stars/argoproj-labs/gitops-promoter)      |
 | 	25	| mcp-for-argocd | [ Model Context Protocol (MCP) server for Argo CD - enables AI assistants to interact with Argo CD ](https://github.com/argoproj-labs/mcp-for-argocd) |  ![Github Stars](https://img.shields.io/github/stars/argoproj-labs/mcp-for-argocd)      |
+|   26  |	Argazer     | [ Lightweight tool that monitors your ArgoCD applications for Helm chart updates ](https://github.com/k-krew/argazer) | [Github Stars](https://img.shields.io/github/stars/k-krew/argazer) |
 
  	 
 ## Security Tools						
