@@ -141,6 +141,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 57 |	Hanoi-CLI | [ Interactive rebalance advisor for Kubernetes that analyzes pod distribution and simulates node failures ](https://github.com/k-krew/hanoi-cli) | ![Github Stars](https://img.shields.io/github/stars/k-krew/hanoi-cli) |
 | 58 |	Radar | [ Modern open-source Kubernetes visibility - single binary with multi-cluster topology, image filesystem viewer, Helm and GitOps management (FluxCD/ArgoCD), and a built-in MCP server for AI agents ](https://github.com/skyhook-io/radar) | ![Github Stars](https://img.shields.io/github/stars/skyhook-io/radar) |
 | 59 |	Krust | [ Native macOS Kubernetes dashboard for resources, logs, YAML, Helm, CRDs, topology, port forwarding, metrics, security checks, and AI diagnostics ](https://krust.io/) | - |
+| 60 |	Kubexer Kubernetes IDE | [ Cross-platform desktop client for managing multiple Kubernetes clusters — live resource views, topology graphs, node/workload management, port-forwarding, CRDs, Helm and GitOps (ArgoCD/Flux) ](https://kubexer.com) | - |
 
 
 ## Cluster with Core CLI tools						
@@ -226,6 +227,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	23	|	HolmesGPT	|	[  On-Call Assistant for Prometheus Alerts - Get a head start on fixing alerts with AI investigation ](https://github.com/robusta-dev/holmesgpt)	|	![Github Stars](https://img.shields.io/github/stars/robusta-dev/holmesgpt)	|
 |	24	|	kcmsu	|	[  K8s ConfigMaps and Secrets Usage ](https://github.com/cristian98149/kcmsu)	|	![Github Stars](https://img.shields.io/github/stars/cristian98149/kcmsu)	|
 |	25	|	WatchAlert	|	[  Lightweight cloud-native multi-data source monitoring and alerting engine ](https://github.com/opsre/WatchAlert)	|	![Github Stars](https://img.shields.io/github/stars/opsre/WatchAlert)	|
+|	26	|	Kubexer Kubernetes IDE	|	[  Desktop Kubernetes IDE with a built-in monitoring and alerting engine — define alert rules on live cluster events and workload health, with namespace-wide metrics and resource comparison ](https://kubexer.com)	|	-	|
 
 
 ## Logging and Tracing						
@@ -358,6 +360,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  77  |   Grafana-Tanka  |   [ Flexible, reusable and concise configuration for Kubernetes ](https://github.com/grafana/tanka)   |   ![Github Stars](https://img.shields.io/github/stars/grafana/tanka)  |
 |  78  |   kubesearch.dev  |   [ Kubesearch is a searchable index of popular Helm chart releases in categories such as observability, networking, storage, and automation ](https://kubesearch.dev/)   |   ![Github Stars](https://img.shields.io/github/stars/whazor/k8s-at-home-search)  |
 |  79  |   Klustr  |   [ A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig — multi-context live views, logs, exec, port-forwarding, RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API, with nothing installed in the cluster ](https://github.com/SametKUM/klustr)   |   ![Github Stars](https://img.shields.io/github/stars/SametKUM/klustr)  |
+|  80  |   Kubexer Kubernetes IDE  |   [ A cross-platform desktop IDE for Kubernetes — multi-cluster resource browsing and management, live pod logs, exec, port-forwarding, topology graphs, CRDs, Helm, GitOps (ArgoCD/Flux), templates, image CVE scanning, and a built-in AI assistant ](https://kubexer.com)   |   -  |
 
 
 ## Alternative Tools for Development						
@@ -462,6 +465,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	46	|	Tetragon  	|	[ eBPF-based Security Observability and Runtime Enforcement for Kubernetes ](https://github.com/cilium/tetragon)	|	![Github Stars](https://img.shields.io/github/stars/cilium/tetragon)	|
 |	47	|	KubeHound  	|	[ Tool for building Kubernetes attack paths - identify attack paths within a Kubernetes cluster ](https://github.com/DataDog/KubeHound)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/KubeHound)	|
 |	48	|	scan2html  	|	[ A Trivy plugin that scans and outputs results (vulnerabilities, misconfigurations, secrets, SBOM) to an interactive HTML file ](https://github.com/fatihtokus/scan2html)	|	![Github Stars](https://img.shields.io/github/stars/fatihtokus/scan2html)	|
+|	49	|	Kubexer Kubernetes IDE  	|	[ Desktop Kubernetes IDE with built-in Trivy-powered image CVE scanning for pods and deployments, plus at-rest kubeconfig encryption and scoped-kubeconfig RBAC provisioning ](https://kubexer.com)	|	-	|
 
 
 ## Network Policies						
@@ -704,6 +708,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 13 | k8s-mcp-server | [ MCP server that enables AI assistants like Claude to securely execute Kubernetes commands including kubectl, helm, istioctl, and argocd ](https://github.com/alexei-led/k8s-mcp-server) | ![Github Stars](https://img.shields.io/github/stars/alexei-led/k8s-mcp-server)|
 | 14 | KubeGraf | [ Local-first AI SRE Platform for Kubernetes - detects incidents, explains root causes with evidence, and safely previews fixes without SaaS lock-in ](https://kubegraf.io) | ![Github Stars](https://img.shields.io/github/stars/kubegraf/kubegraf)|
 | 15 | KubeStellar Console | [AI-powered multi-cluster Kubernetes management dashboard (CNCF Sandbox) with real-time observability, GitOps integration, and AI chat for cluster operations](https://github.com/kubestellar/console) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/console.svg) |
+| 16 | Kubexer Kubernetes IDE | [Desktop Kubernetes IDE with a built-in bring-your-own-key AI assistant that uses native LLM tool-calling to inspect and — with confirmation — act on cluster resources](https://kubexer.com) | - |
 
 ## Caching
 
