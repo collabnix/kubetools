@@ -45,6 +45,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
   - [Troubleshooting / Debugging](#troubleshooting--debugging)
   - [Development Tools/Kit](#developement-toolskit)
   - [Alternative Tools for Development](#alternative-tools-for-development)
+  - [Internal Developer Platform](#internal-developer-platform)
   - [CI/CD integration Tools](#cicd-integration-tools)
   - [Security Tools](#security-tools)
   - [Network Policies](#network-policies)
@@ -361,7 +362,6 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  78  |   kubesearch.dev  |   [ Kubesearch is a searchable index of popular Helm chart releases in categories such as observability, networking, storage, and automation ](https://kubesearch.dev/)   |   ![Github Stars](https://img.shields.io/github/stars/whazor/k8s-at-home-search)  |
 |  79  |   Klustr  |   [ A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig — multi-context live views, logs, exec, port-forwarding, RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API, with nothing installed in the cluster ](https://github.com/SametKUM/klustr)   |   ![Github Stars](https://img.shields.io/github/stars/SametKUM/klustr)  |
 |  80  |   Kubexer Kubernetes IDE  |   [ A cross-platform desktop IDE for Kubernetes — multi-cluster resource browsing and management, live pod logs, exec, port-forwarding, topology graphs, CRDs, Helm, GitOps (ArgoCD/Flux), templates, image CVE scanning, and a built-in AI assistant ](https://kubexer.com)   |   -  |
-|  81  |   OpenChoreo  |   [ A complete, open-source internal developer platform (IDP) for Kubernetes that provides high-level abstractions (components, endpoints, environments) to turn developer intent into Kubernetes resources, with a Backstage-powered portal and built-in CI/CD and GitOps ](https://github.com/openchoreo/openchoreo)   |   ![Github Stars](https://img.shields.io/github/stars/openchoreo/openchoreo)  |
 
 
 ## Alternative Tools for Development						
@@ -379,6 +379,13 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	9	|	Rainbond  	|	[	offers a serverless experience, and allows you to easily manage containerized applications without needing to understand Kubernetes](https://github.com/goodrain/rainbond)	|	![Github Stars](https://img.shields.io/github/stars/goodrain/rainbond)	|
 |	10	|	MyKube  	|	[ k8s-installer - One-click k8s single-node cluster installation on your own device ](https://github.com/guyst16/mykube)	|	![Github Stars](https://img.shields.io/github/stars/guyst16/mykube)	|
 |	11	|	K8e  	|	[ K8e 🚀 - Instantly Ready Kubernetes Enterprise Edition ](https://github.com/xiaods/k8e)	|	![Github Stars](https://img.shields.io/github/stars/xiaods/k8e)	|
+
+
+## Internal Developer Platform						
+									
+|	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
+| ---------- | --------------------- | --------------------- | ------------------|									
+|	1	|	OpenChoreo	|	[	A complete, open-source internal developer platform (IDP) for Kubernetes that provides high-level abstractions (components, endpoints, environments) to turn developer intent into Kubernetes resources, with a Backstage-powered portal and built-in CI/CD and GitOps](https://github.com/openchoreo/openchoreo)	|	![Github Stars](https://img.shields.io/github/stars/openchoreo/openchoreo)	|
 
 
 									
