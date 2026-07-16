@@ -361,6 +361,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  78  |   kubesearch.dev  |   [ Kubesearch is a searchable index of popular Helm chart releases in categories such as observability, networking, storage, and automation ](https://kubesearch.dev/)   |   ![Github Stars](https://img.shields.io/github/stars/whazor/k8s-at-home-search)  |
 |  79  |   Klustr  |   [ A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig — multi-context live views, logs, exec, port-forwarding, RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API, with nothing installed in the cluster ](https://github.com/SametKUM/klustr)   |   ![Github Stars](https://img.shields.io/github/stars/SametKUM/klustr)  |
 |  80  |   Kubexer Kubernetes IDE  |   [ A cross-platform desktop IDE for Kubernetes — multi-cluster resource browsing and management, live pod logs, exec, port-forwarding, topology graphs, CRDs, Helm, GitOps (ArgoCD/Flux), templates, image CVE scanning, and a built-in AI assistant ](https://kubexer.com)   |   -  |
+|  81  |   OpenChoreo  |   [ A complete, open-source internal developer platform (IDP) for Kubernetes that provides high-level abstractions (components, endpoints, environments) to turn developer intent into Kubernetes resources, with a Backstage-powered portal and built-in CI/CD and GitOps ](https://github.com/openchoreo/openchoreo)   |   ![Github Stars](https://img.shields.io/github/stars/openchoreo/openchoreo)  |
 
 
 ## Alternative Tools for Development						
