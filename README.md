@@ -684,8 +684,8 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 9 | Attune | [ Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics](https://github.com/attune-io/attune) | ![Github Stars](https://img.shields.io/github/stars/attune-io/attune) |
 | 10 | Paralleliq | [Model-aware GPU fleet optimization layer for AI infrastructure — detects GPU waste, quantifies cost impact, and delivers actionable recommendations with approval workflows](https://www.paralleliq.ai) | - |
 | 11 | GoKubeDownscaler | [ GoKubeDownscaler reduces Kubernetes cluster costs by scaling workloads to zero during off-hours such as nights, weekends and holidays https://kube-downscaler.io ](https://github.com/caas-team/GoKubeDownscaler)                                                                                | ![Github Stars](https://img.shields.io/github/stars/caas-team/GoKubeDownscaler) |
+| 12 | Patchloom | [ Agent-friendly repo search and edit CLI for structured code and config changes ](https://github.com/patchloom/patchloom) | ![Github Stars](https://img.shields.io/github/stars/patchloom/patchloom) |
 
-	
 ## Function as a Service FaaS			
 									
 |	Sr No	|	Tool Name	|		Description with URL	|	GitHub Popularity	|
