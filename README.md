@@ -685,6 +685,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 10 | Paralleliq | [Model-aware GPU fleet optimization layer for AI infrastructure — detects GPU waste, quantifies cost impact, and delivers actionable recommendations with approval workflows](https://www.paralleliq.ai) | - |
 | 11 | GoKubeDownscaler | [ GoKubeDownscaler reduces Kubernetes cluster costs by scaling workloads to zero during off-hours such as nights, weekends and holidays https://kube-downscaler.io ](https://github.com/caas-team/GoKubeDownscaler)                                                                                | ![Github Stars](https://img.shields.io/github/stars/caas-team/GoKubeDownscaler) |
 | 12 | Patchloom | [ Agent-friendly repo search and edit CLI for structured code and config changes ](https://github.com/patchloom/patchloom) | ![Github Stars](https://img.shields.io/github/stars/patchloom/patchloom) |
+| 13 | NudgeBee | [ Self-hosted CloudOps platform that rightsizes Kubernetes workloads and optimizes multi-cloud cost across AWS, Azure and GCP ](https://github.com/nudgebee/nudgebee) | ![Github Stars](https://img.shields.io/github/stars/nudgebee/nudgebee) |
 
 ## Function as a Service FaaS			
 									
