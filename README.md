@@ -276,6 +276,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	17 |	kdave  	|	[ The kdave (Kubernetes Deprecated API Versions Exporter) checks for any deprecated or removed apiVersions in the cluster and exports them in a Prometheus metrics format ](https://github.com/wayfair-incubator/kdave)	|	![Github Stars](https://img.shields.io/github/stars/wayfair-incubator/kdave)	|
 |	18 |	kubediff  	|	[ Source VS Deployed - Used to sanity check and understand what has changed between environments ](https://github.com/Ramilito/kubediff)	|	![Github Stars](https://img.shields.io/github/stars/Ramilito/kubediff)	|
 | 19 | kubebuddy | [A PowerShell tool for monitoring and managing Kubernetes clusters, supporting JSON, TXT, and HTML output formats with a CLI option for streamlined operations, including health check scoring for cluster assessment](https://github.com/KubeDeckio/KubeBuddy) | ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeBuddy) |
+| 20 | k8shark | [Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer's environment without live cluster access](https://github.com/phenixblue/k8shark) | ![Github Stars](https://img.shields.io/github/stars/phenixblue/k8shark) |
 
 
 									
