@@ -476,6 +476,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	47	|	KubeHound  	|	[ Tool for building Kubernetes attack paths - identify attack paths within a Kubernetes cluster ](https://github.com/DataDog/KubeHound)	|	![Github Stars](https://img.shields.io/github/stars/DataDog/KubeHound)	|
 |	48	|	scan2html  	|	[ A Trivy plugin that scans and outputs results (vulnerabilities, misconfigurations, secrets, SBOM) to an interactive HTML file ](https://github.com/fatihtokus/scan2html)	|	![Github Stars](https://img.shields.io/github/stars/fatihtokus/scan2html)	|
 |	49	|	Kubexer Kubernetes IDE  	|	[ Desktop Kubernetes IDE with built-in Trivy-powered image CVE scanning for pods and deployments, plus at-rest kubeconfig encryption and scoped-kubeconfig RBAC provisioning ](https://kubexer.com)	|	-	|
+|	50	|	Darkmoon  	|	[ Open source (GPLv3) autonomous penetration testing platform: 50 specialist agents over MCP drive 50+ offensive tools across Kubernetes, cloud, web, API and Active Directory, with proof of exploitation behind each finding. Self hosted, with a privacy gateway that tokenizes sensitive target values before any cloud model sees them ](https://github.com/ASCIT31/Dark-Moon)	|	![Github Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon)	|
 
 
 ## Network Policies						
