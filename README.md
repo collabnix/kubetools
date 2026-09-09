@@ -524,6 +524,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |      15       |	perf-tests      | [ Performance tests and benchmarks ](https://github.com/kubernetes/perf-tests) | ![Github Stars](https://img.shields.io/github/stars/kubernetes/perf-tests) |
 |      16       |	Jupyter Notebook Validator Operator      | [ Kubernetes operator for validating Jupyter notebooks in MLOps (Papermill, golden notebooks) ](https://github.com/tosin2013/jupyter-notebook-validator-operator) | ![Github Stars](https://img.shields.io/github/stars/tosin2013/jupyter-notebook-validator-operator) |
 |      17       |	Omen      | [ Lightweight Kubernetes chaos engineering operator with transparent target selection and optional manual approval ](https://github.com/k-krew/omen) | ![Github Stars](https://img.shields.io/github/stars/k-krew/omen) |
+| 18 | helm-hook-preflight | [Alpha Python CLI that flags creation-order problems in supported ServiceAccount and required Secret environment references of pre-install Jobs/Pods from rendered Helm YAML, for fresh first installs](https://github.com/ruslan-shaydullin/helm-hook-preflight) | ![Github Stars](https://img.shields.io/github/stars/ruslan-shaydullin/helm-hook-preflight) |
 
 
 
