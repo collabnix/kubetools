@@ -278,6 +278,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	18 |	kubediff  	|	[ Source VS Deployed - Used to sanity check and understand what has changed between environments ](https://github.com/Ramilito/kubediff)	|	![Github Stars](https://img.shields.io/github/stars/Ramilito/kubediff)	|
 | 19 | kubebuddy | [A PowerShell tool for monitoring and managing Kubernetes clusters, supporting JSON, TXT, and HTML output formats with a CLI option for streamlined operations, including health check scoring for cluster assessment](https://github.com/KubeDeckio/KubeBuddy) | ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeBuddy) |
 | 20 | k8shark | [Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer's environment without live cluster access](https://github.com/phenixblue/k8shark) | ![Github Stars](https://img.shields.io/github/stars/phenixblue/k8shark) |
+| 21 | groot | [Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA](https://github.com/hrodrig/groot) | ![Github Stars](https://img.shields.io/github/stars/hrodrig/groot) |
 
 
 									
