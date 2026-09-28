@@ -144,6 +144,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 59 |	Krust | [ Native macOS Kubernetes dashboard for resources, logs, YAML, Helm, CRDs, topology, port forwarding, metrics, security checks, and AI diagnostics ](https://krust.io/) | - |
 | 60 |	Kubexer Kubernetes IDE | [ Cross-platform desktop client for managing multiple Kubernetes clusters — live resource views, topology graphs, node/workload management, port-forwarding, CRDs, Helm and GitOps (ArgoCD/Flux) ](https://kubexer.com) | - |
 | 61 |	Rubick | [ Free and open-source cross-platform Kubernetes desktop client (Tauri + Rust + React); RBAC-aware and honest about refused reads (never an empty list for "no access"), with multi-namespace scope, logs, exec, port-forwarding, Helm and rubick:// deep links ](https://github.com/Dudude-bit/rubick) | ![Github Stars](https://img.shields.io/github/stars/Dudude-bit/rubick) |
+| 62 | kzero | [Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks — ordered scale, Helm, PVC, and jobs with dry-run/analyze](https://github.com/hrodrig/kzero) | ![Github Stars](https://img.shields.io/github/stars/hrodrig/kzero) |
 
 
 ## Cluster with Core CLI tools						
