@@ -657,6 +657,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |     5      |   SnapScheduler          |  [	Scheduled snapshots for Kubernetes persistent volumes.](https://github.com/backube/snapscheduler)  |	 ![Github Stars](https://img.shields.io/github/stars/backube/snapscheduler)|
 |     6      |   K8up Backup Operator           |  [	K8up is a Kubernetes backup operator based on Restic that will handle PVC and application backups on a Kubernetes or OpenShift cluster](https://github.com/k8up-io/k8up)  |	 ![Github Stars](https://img.shields.io/github/stars/k8up-io/k8up) |
 |     7      |   KubeSnapIt           |  [	KubeSnapIt is a PowerShell tool that simplifies managing your Kubernetes resources by providing functionalities for taking snapshots, comparing resources, and restoring them. For Windows, MacOS, and Linux.](https://github.com/KubeDeckio/KubeSnapIt)  |	 ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeSnapIt) |
+|     8      |   cnpg-drill           |  [Verify CloudNativePG Barman backups by restoring them into disposable clusters and running read-only SQL checks](https://github.com/danielgaskins/cnpg-drill)  | ![Github Stars](https://img.shields.io/github/stars/danielgaskins/cnpg-drill) |
 
 
 
