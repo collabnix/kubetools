@@ -145,6 +145,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 60 |	Kubexer Kubernetes IDE | [ Cross-platform desktop client for managing multiple Kubernetes clusters — live resource views, topology graphs, node/workload management, port-forwarding, CRDs, Helm and GitOps (ArgoCD/Flux) ](https://kubexer.com) | - |
 | 61 |	Rubick | [ Free and open-source cross-platform Kubernetes desktop client (Tauri + Rust + React); RBAC-aware and honest about refused reads (never an empty list for "no access"), with multi-namespace scope, logs, exec, port-forwarding, Helm and rubick:// deep links ](https://github.com/Dudude-bit/rubick) | ![Github Stars](https://img.shields.io/github/stars/Dudude-bit/rubick) |
 | 62 | kzero | [Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks — ordered scale, Helm, PVC, and jobs with dry-run/analyze](https://github.com/hrodrig/kzero) | ![Github Stars](https://img.shields.io/github/stars/hrodrig/kzero) |
+| 63 | Lumovi | [Free and open-source Kubernetes dashboard, on your desktop or in your cluster for a team: failing things first, each person acting within their own RBAC, every change on a hash-chained audit log, and a built-in MCP server where AI agents ask before a change by default](https://github.com/Lumovi/Lumovi) | ![Github Stars](https://img.shields.io/github/stars/Lumovi/Lumovi) |
 
 
 ## Cluster with Core CLI tools						
