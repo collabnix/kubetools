@@ -198,6 +198,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	45	|	kubectl-browse-pvc  	|	[ Kubectl plugin for browsing PVCs on the command line ](https://github.com/clbx/kubectl-browse-pvc)	|	![Github Stars](https://img.shields.io/github/stars/clbx/kubectl-browse-pvc)	|
 |	46	|	gwctl  	|	[ Command-line tool for managing and understanding Gateway API resources in your Kubernetes cluster ](https://github.com/kubernetes-sigs/gwctl)	|	![Github Stars](https://img.shields.io/github/stars/kubernetes-sigs/gwctl)	|
 |	47	|	kbu	|	[ A single-pane Kubernetes TUI driven by Tab / Space / Enter / Esc — Relatives navigation, side-by-side YAML compare, and an embedded persistent shell. Zero setup, zero hotkey memorization. ](https://github.com/vulcanshen/kbu)	|	![Github Stars](https://img.shields.io/github/stars/vulcanshen/kbu)	|
+|	48	|	k8s-preflight	|	[ Read-only Bash script that runs pre-flight checks before a Kubernetes minor upgrade: version skew, deprecated APIs, kubelets, etcd, PDBs and certificates ](https://github.com/Agency-42/k8s-preflight)	|	![Github Stars](https://img.shields.io/github/stars/Agency-42/k8s-preflight)	|
 
 
 
