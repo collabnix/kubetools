@@ -232,6 +232,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	25	|	WatchAlert	|	[  Lightweight cloud-native multi-data source monitoring and alerting engine ](https://github.com/opsre/WatchAlert)	|	![Github Stars](https://img.shields.io/github/stars/opsre/WatchAlert)	|
 |	26	|	Kubexer Kubernetes IDE	|	[  Desktop Kubernetes IDE with a built-in monitoring and alerting engine — define alert rules on live cluster events and workload health, with namespace-wide metrics and resource comparison ](https://kubexer.com)	|	-	|
 |	27	|	kubectl-outagedeck	|	[ Check official cloud and SaaS provider status for dependencies discovered from Kubernetes workload annotations ](https://github.com/outagedeck/kubectl-outagedeck)	|	![Github Stars](https://img.shields.io/github/stars/outagedeck/kubectl-outagedeck)	|
+|	28	|	SolidPing	|	[ Uptime monitoring with a Kubernetes check for Deployment/ReplicaSet ready replicas ](https://github.com/fclairamb/solidping)	|	![Github Stars](https://img.shields.io/github/stars/fclairamb/solidping)	|
 
 
 ## Logging and Tracing						
