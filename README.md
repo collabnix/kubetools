@@ -280,6 +280,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 19 | kubebuddy | [A PowerShell tool for monitoring and managing Kubernetes clusters, supporting JSON, TXT, and HTML output formats with a CLI option for streamlined operations, including health check scoring for cluster assessment](https://github.com/KubeDeckio/KubeBuddy) | ![Github Stars](https://img.shields.io/github/stars/KubeDeckio/KubeBuddy) |
 | 20 | k8shark | [Capture Kubernetes cluster state to a portable archive and replay it through a mock API server — use kubectl against a customer's environment without live cluster access](https://github.com/phenixblue/k8shark) | ![Github Stars](https://img.shields.io/github/stars/phenixblue/k8shark) |
 | 21 | groot | [Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA](https://github.com/hrodrig/groot) | ![Github Stars](https://img.shields.io/github/stars/hrodrig/groot) |
+| 22 | k8s-dockerhub-detector | [Bash script over kubectl that lists every pod still pulling images from Docker Hub, grouped by namespace, with totals of all and of distinct Docker Hub images](https://github.com/GeiserX/k8s-dockerhub-detector) | ![Github Stars](https://img.shields.io/github/stars/GeiserX/k8s-dockerhub-detector) |
 
 
 									
