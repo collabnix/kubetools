@@ -732,6 +732,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 14 | KubeGraf | [ Local-first AI SRE Platform for Kubernetes - detects incidents, explains root causes with evidence, and safely previews fixes without SaaS lock-in ](https://kubegraf.io) | ![Github Stars](https://img.shields.io/github/stars/kubegraf/kubegraf)|
 | 15 | KubeStellar Console | [AI-powered multi-cluster Kubernetes management dashboard (CNCF Sandbox) with real-time observability, GitOps integration, and AI chat for cluster operations](https://github.com/kubestellar/console) | ![Github Stars](https://img.shields.io/github/stars/kubestellar/console.svg) |
 | 16 | Kubexer Kubernetes IDE | [Desktop Kubernetes IDE with a built-in bring-your-own-key AI assistant that uses native LLM tool-calling to inspect and — with confirmation — act on cluster resources](https://kubexer.com) | - |
+| 17 | Aurora | [ Open-source AI agent that investigates Kubernetes and cloud incidents and returns a root-cause analysis ](https://github.com/Arvo-AI/aurora) | ![Github Stars](https://img.shields.io/github/stars/Arvo-AI/aurora) |
 
 ## Caching
 
