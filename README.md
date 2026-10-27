@@ -217,7 +217,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	8	|	Kubernetes Job/CronJob Notifier  	|	[	This tool sends an alert to slack whenever there is a Kubernetes cronJob/Job failure/success](https://github.com/sukeesh/k8s-job-notify)	|	![Github Stars](https://img.shields.io/github/stars/sukeesh/k8s-job-notify)	|
 |	9	|	Argus  	|	[	This tool monitors changes in the filesystem on specified paths](https://clustergarage.io/argus/docs/overview)	|	-	|
 |	10	|	Kube-Scout  	|	[	Scout for alarming issues across your Kubernetes clusters](https://github.com/ReallyLiri/kubescout)	|	![Github Stars](https://img.shields.io/github/stars/ReallyLiri/kubescout)	|
-|	11	|	Kwatch  	|	[	monitor & detect crashes in your Kubernetes(K8s) cluster instantly](https://github.com/abahmed/kwatch)	|	![Github Stars](https://img.shields.io/github/stars/abahmed/kwatch)	|
+|	11	|	Kwatch  	|	[	Traces every Kubernetes failure to its root cause and sends one message: what broke, why and what to do next](https://kwatch.dev)	|	![Github Stars](https://img.shields.io/github/stars/abahmed/kwatch)	|
 |	12	|	Scope  	|	[	 Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)	|	![Github Stars](https://img.shields.io/github/stars/weaveworks/scope)	|
 |	13	|	Kubeshark  	|	[	TCPDump and Wireshark re-invented for Kubernetes](https://github.com/kubeshark/kubeshark)	|	![Github Stars](https://img.shields.io/github/stars/kubeshark/kubeshark)	|
 |	14	|	Ksniff  	|	[	Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff)	|	![Github Stars](https://img.shields.io/github/stars/eldadru/ksniff)	|
