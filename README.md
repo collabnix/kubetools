@@ -146,6 +146,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 61 |	Rubick | [ Free and open-source cross-platform Kubernetes desktop client (Tauri + Rust + React); RBAC-aware and honest about refused reads (never an empty list for "no access"), with multi-namespace scope, logs, exec, port-forwarding, Helm and rubick:// deep links ](https://github.com/Dudude-bit/rubick) | ![Github Stars](https://img.shields.io/github/stars/Dudude-bit/rubick) |
 | 62 | kzero | [Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks — ordered scale, Helm, PVC, and jobs with dry-run/analyze](https://github.com/hrodrig/kzero) | ![Github Stars](https://img.shields.io/github/stars/hrodrig/kzero) |
 | 63 | Lumovi | [Free and open-source Kubernetes dashboard, on your desktop or in your cluster for a team: failing things first, each person acting within their own RBAC, every change on a hash-chained audit log, and a built-in MCP server where AI agents ask before a change by default](https://github.com/Lumovi/Lumovi) | ![Github Stars](https://img.shields.io/github/stars/Lumovi/Lumovi) |
+|	64	|	LibreDB Studio	|	[ Free and open-source web database IDE with a read-only Kubernetes connection: namespace tree, YAML view, describe, pod logs and a kubectl-subset console, with no Secret value shown; deployed in a cluster it can also list CloudNativePG databases as ready connections ](https://github.com/libredb/libredb-studio)	|	![Github Stars](https://img.shields.io/github/stars/libredb/libredb-studio)	|
 
 
 ## Cluster with Core CLI tools						
