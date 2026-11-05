@@ -433,6 +433,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 	24	| gitops-promoter | [ GitOps Environment Promotion tool that lets you focus on the "what," not the "how" ](https://github.com/argoproj-labs/gitops-promoter) |  ![Github Stars](https://img.shields.io/github/stars/argoproj-labs/gitops-promoter)      |
 | 	25	| mcp-for-argocd | [ Model Context Protocol (MCP) server for Argo CD - enables AI assistants to interact with Argo CD ](https://github.com/argoproj-labs/mcp-for-argocd) |  ![Github Stars](https://img.shields.io/github/stars/argoproj-labs/mcp-for-argocd)      |
 |   26  |	Argazer     | [ Lightweight tool that monitors your ArgoCD applications for Helm chart updates ](https://github.com/k-krew/argazer) | ![Github Stars](https://img.shields.io/github/stars/k-krew/argazer) |
+|   27  |	myks     | [ Renders Kubernetes manifests for many clusters from one Git repository: Helm charts, Git sources and YAML in, plain YAML out, committed for review in pull requests ](https://github.com/mykso/myks) | ![Github Stars](https://img.shields.io/github/stars/mykso/myks) |
 
  	 
 ## Security Tools						
