@@ -376,6 +376,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  79  |   Klustr  |   [ A native (non-Electron) cross-platform Kubernetes desktop client driven purely by your kubeconfig — multi-context live views, logs, exec, port-forwarding, RBAC, CRDs, Helm, Argo CD, Flux CD and Gateway API, with nothing installed in the cluster ](https://github.com/SametKUM/klustr)   |   ![Github Stars](https://img.shields.io/github/stars/SametKUM/klustr)  |
 |  80  |   Kubexer Kubernetes IDE  |   [ A cross-platform desktop IDE for Kubernetes — multi-cluster resource browsing and management, live pod logs, exec, port-forwarding, topology graphs, CRDs, Helm, GitOps (ArgoCD/Flux), templates, image CVE scanning, and a built-in AI assistant ](https://kubexer.com)   |   -  |
 |  81  |   JET Pilot  |   [ Open-source Kubernetes desktop client focused on less clutter, speed and good looks, with one place for every kubeconfig and cloud account, multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal ](https://github.com/unxsist/jet-pilot)   |   ![Github Stars](https://img.shields.io/github/stars/unxsist/jet-pilot)  |
+|  82  |   confroll  |   [ Find workloads that won't pick up ConfigMap/Secret changes (env, envFrom, subPath), plan what a config PR really rolls out, stamp config hashes, list pods running stale config ](https://github.com/hamarshehmhmd/confroll)   |   ![Github Stars](https://img.shields.io/github/stars/hamarshehmhmd/confroll)  |
 
 
 ## Alternative Tools for Development						
