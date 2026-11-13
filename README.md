@@ -775,6 +775,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |  4  |   Pred8tor   |   [ Pred8tor is a simple tool to clean up K8s objects that were tagged for expiration ](https://github.com/pavelzag/pred8tor)   |   ![Github Stars](https://img.shields.io/github/stars/pavelzag/pred8tor)  |
 |  5  |   Kubetrim   |   [ Kubetrim is a command-line tool designed to automatically clean up your Kubernetes configuration file (KUBECONFIG) ](https://github.com/alexellis/kubetrim)   |   ![Github Stars](https://img.shields.io/github/stars/alexellis/kubetrim)  |
 |  6  |   KubeTidy   |   [KubeTidy is a PowerShell tool that helps you manage your Kubernetes kubeconfig files by removing unreachable clusters, along with their associated users and contexts. For Windows, Macos, and Linux](https://github.com/KubeDeckIo/KubeTidy)   |   ![Github Stars](https://img.shields.io/github/stars/KubeDeckIo/KubeTidy)  |
+|  7  |   Zen Cleaner   |   [A Kubernetes controller for TTL-based resource cleanup using declarative policies, selectors and dry runs](https://github.com/zenmesh/zen-cleaner)   |   ![Github Stars](https://img.shields.io/github/stars/zenmesh/zen-cleaner)  |
 
 
 ## Non-Categorize						
