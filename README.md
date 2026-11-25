@@ -148,6 +148,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 63 | Lumovi | [Free and open-source Kubernetes dashboard, on your desktop or in your cluster for a team: failing things first, each person acting within their own RBAC, every change on a hash-chained audit log, and a built-in MCP server where AI agents ask before a change by default](https://github.com/Lumovi/Lumovi) | ![Github Stars](https://img.shields.io/github/stars/Lumovi/Lumovi) |
 |	64	|	LibreDB Studio	|	[ Free and open-source web database IDE with a read-only Kubernetes connection: namespace tree, YAML view, describe, pod logs and a kubectl-subset console, with no Secret value shown; deployed in a cluster it can also list CloudNativePG databases as ready connections ](https://github.com/libredb/libredb-studio)	|	![Github Stars](https://img.shields.io/github/stars/libredb/libredb-studio)	|
 |	65	|	Kompass	|	[ Fast, native Kubernetes desktop app for macOS, built in Rust: live resources and CRDs, pod CPU/memory sparklines, logs with filters, exec, editable YAML, port forwarding and multi-cluster, with a UI that never blocks on the API ](https://github.com/erango/kompass)	|	![Github Stars](https://img.shields.io/github/stars/erango/kompass)	|
+| 66 | Kubernetes Deprecated API Checker | [ Browser-based checker: paste manifests or Helm output and see which API versions are removed in a target Kubernetes version. Runs client-side, free ](https://www.oreonit.com/deprecated-api-checker-for-kubernetes/) | - |
 
 
 ## Cluster with Core CLI tools						
@@ -238,6 +239,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	26	|	Kubexer Kubernetes IDE	|	[  Desktop Kubernetes IDE with a built-in monitoring and alerting engine — define alert rules on live cluster events and workload health, with namespace-wide metrics and resource comparison ](https://kubexer.com)	|	-	|
 |	27	|	kubectl-outagedeck	|	[ Check official cloud and SaaS provider status for dependencies discovered from Kubernetes workload annotations ](https://github.com/outagedeck/kubectl-outagedeck)	|	![Github Stars](https://img.shields.io/github/stars/outagedeck/kubectl-outagedeck)	|
 |	28	|	SolidPing	|	[ Uptime monitoring with a Kubernetes check for Deployment/ReplicaSet ready replicas ](https://github.com/fclairamb/solidping)	|	![Github Stars](https://img.shields.io/github/stars/fclairamb/solidping)	|
+| 29 | oreondev Helm charts | [ Helm charts for production Kubernetes: SLO burn-rate alerts, blackbox SLO probes, Alertmanager routing, an OpenTelemetry Collector baseline and cost and waste alerts ](https://github.com/oreondev/helm-charts) | ![Github Stars](https://img.shields.io/github/stars/oreondev/helm-charts) |
 
 
 ## Logging and Tracing						
@@ -706,6 +708,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 | 11 | GoKubeDownscaler | [ GoKubeDownscaler reduces Kubernetes cluster costs by scaling workloads to zero during off-hours such as nights, weekends and holidays https://kube-downscaler.io ](https://github.com/caas-team/GoKubeDownscaler)                                                                                | ![Github Stars](https://img.shields.io/github/stars/caas-team/GoKubeDownscaler) |
 | 12 | Patchloom | [ Agent-friendly repo search and edit CLI for structured code and config changes ](https://github.com/patchloom/patchloom) | ![Github Stars](https://img.shields.io/github/stars/patchloom/patchloom) |
 | 13 | NudgeBee | [ Self-hosted CloudOps platform that rightsizes Kubernetes workloads and optimizes multi-cloud cost across AWS, Azure and GCP ](https://github.com/nudgebee/nudgebee) | ![Github Stars](https://img.shields.io/github/stars/nudgebee/nudgebee) |
+| 14 | Extended Support Cost Calculator | [ Calculates the extra control-plane cost of running EKS, GKE or AKS clusters past standard support, with end-of-support dates per Kubernetes version ](https://www.oreonit.com/extended-support-cost-calculator-for-eks-gke-aks/) | - |
 
 ## Function as a Service FaaS			
 									
