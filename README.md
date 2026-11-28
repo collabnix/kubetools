@@ -262,6 +262,7 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 |	14	|	sablier	|	[	Starting containers on demand and close automatically when not in use. ](https://github.com/acouvreur/sablier)	|	![Github Stars](https://img.shields.io/github/stars/acouvreur/sablier)	| 
 |	15	|	kubetail	|	[	Real-time logging dashboard for Kubernetes - view logs in a terminal or a browser](https://github.com/kubetail-org/kubetail)	|	![Github Stars](https://img.shields.io/github/stars/kubetail-org/kubetail)	|
 |	16	|	Odigos	|	[	Distributed tracing without code changes using OpenTelemetry and eBPF](https://github.com/odigos-io/odigos)	|	![Github Stars](https://img.shields.io/github/stars/odigos-io/odigos)	|
+| 17 | LogBrew | [ Hosted error tracking with logs and traces that takes OTLP from the OpenTelemetry Collector, with a CLI and an MCP server to read cluster errors from the terminal or an AI agent ](https://logbrew.co) | - |
 
 ## Troubleshooting / Debugging						
 									
